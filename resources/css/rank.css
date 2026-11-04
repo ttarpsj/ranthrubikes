@@ -24,8 +24,8 @@ header nav a:hover{opacity:.7}
 .search-button span:after{content:'';position:absolute;width:7px;height:2px;background:currentColor;transform:rotate(48deg);right:-6px;bottom:-4px}
 .mobile-nav,.searchbox{display:none}
 .hero{height:calc(100vh - 31px);min-height:630px;position:relative;color:white;overflow:hidden}
-.hero>img{width:100%;height:100%;object-fit:cover;filter:brightness(.63)}
-.hero>div{position:absolute;left:7vw;bottom:11vh;max-width:580px}
+.hero-background{position:absolute;top:-3%;left:-3%;width:106%;height:106%;object-fit:cover;object-position:center;display:block}
+.hero>div{position:absolute;z-index:1;left:7vw;bottom:11vh;max-width:580px}
 .hero p,.hero strong{font:11px 'DM Mono';letter-spacing:.07em}
 .hero h1,h2{font-size:clamp(50px,8.3vw,142px);line-height:.82;letter-spacing:-.1em;margin:20px 0;font-weight:800}
 .hero span{display:block;font-size:15px;line-height:1.55;max-width:430px;margin:22px 0 27px}
