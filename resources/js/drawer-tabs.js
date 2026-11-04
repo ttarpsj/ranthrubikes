@@ -11,8 +11,7 @@ if (drawer) {
         ['20 NOV · CHICAGO', 'CYCLE CROSS DERBY NIGHT', 'cycle-cross-derby-night'],
     ];
     const escapeHtml = value => String(value ?? '').replace(/[&<>"']/g, character => ({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[character]));
-    const shopIndex = location.pathname.indexOf('/shop');
-    const siteBase = shopIndex >= 0 ? `${location.pathname.slice(0,shopIndex)}/`.replace(/\/+/g,'/') : (location.pathname.endsWith('/') ? location.pathname : `${location.pathname}/`).replace(/\/+/g,'/');
+    const siteBase = import.meta.env.BASE_URL;
     const shopUrl = `${siteBase}shop`;
     const filterUrl = params => `${shopUrl}?${new URLSearchParams(params).toString()}`;
 

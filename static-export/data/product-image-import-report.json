@@ -1,0 +1,1554 @@
+{
+  "generated_at": "2026-11-04T00:40:49.480260+00:00",
+  "source": "C:\\Users\\jspra\\Code\\ranthrubikes\\product-images\\incoming",
+  "successful_imports": [],
+  "unmatched_files": [],
+  "duplicate_images": [],
+  "invalid_files": [],
+  "products_without_images": [
+    {
+      "id": 20,
+      "slug": "100-demo-aerocraft",
+      "name": "DEMO \u00b7 Aerocraft"
+    },
+    {
+      "id": 23,
+      "slug": "100-demo-campo",
+      "name": "DEMO \u00b7 Campo"
+    },
+    {
+      "id": 13,
+      "slug": "100-demo-glendale",
+      "name": "DEMO \u00b7 Glendale"
+    },
+    {
+      "id": 15,
+      "slug": "100-demo-hypercraft",
+      "name": "DEMO \u00b7 Hypercraft"
+    },
+    {
+      "id": 16,
+      "slug": "100-demo-hypercraft-sq",
+      "name": "DEMO \u00b7 Hypercraft SQ"
+    },
+    {
+      "id": 18,
+      "slug": "100-demo-legere-square",
+      "name": "DEMO \u00b7 Legere Square"
+    },
+    {
+      "id": 19,
+      "slug": "100-demo-norvik",
+      "name": "DEMO \u00b7 Norvik"
+    },
+    {
+      "id": 21,
+      "slug": "100-demo-racetrap",
+      "name": "DEMO \u00b7 Racetrap"
+    },
+    {
+      "id": 22,
+      "slug": "100-demo-rideley",
+      "name": "DEMO \u00b7 Rideley"
+    },
+    {
+      "id": 12,
+      "slug": "100-demo-s2",
+      "name": "DEMO \u00b7 S2"
+    },
+    {
+      "id": 11,
+      "slug": "100-demo-s3",
+      "name": "DEMO \u00b7 S3"
+    },
+    {
+      "id": 17,
+      "slug": "100-demo-slendale",
+      "name": "DEMO \u00b7 Slendale"
+    },
+    {
+      "id": 9,
+      "slug": "100-demo-speedcraft",
+      "name": "DEMO \u00b7 Speedcraft"
+    },
+    {
+      "id": 10,
+      "slug": "100-demo-speedcraft-sl",
+      "name": "DEMO \u00b7 Speedcraft SL"
+    },
+    {
+      "id": 14,
+      "slug": "100-demo-westcraft",
+      "name": "DEMO \u00b7 Westcraft"
+    },
+    {
+      "id": 2,
+      "slug": "allroad-bottle",
+      "name": "Allroad Bottle"
+    },
+    {
+      "id": 33,
+      "slug": "colnago-demo-arabesque",
+      "name": "DEMO \u00b7 Arabesque"
+    },
+    {
+      "id": 35,
+      "slug": "colnago-demo-c64",
+      "name": "DEMO \u00b7 C64"
+    },
+    {
+      "id": 27,
+      "slug": "colnago-demo-c68-allroad",
+      "name": "DEMO \u00b7 C68 Allroad"
+    },
+    {
+      "id": 28,
+      "slug": "colnago-demo-c68-gravel",
+      "name": "DEMO \u00b7 C68 Gravel"
+    },
+    {
+      "id": 26,
+      "slug": "colnago-demo-c68-road",
+      "name": "DEMO \u00b7 C68 Road"
+    },
+    {
+      "id": 31,
+      "slug": "colnago-demo-c68-ti",
+      "name": "DEMO \u00b7 C68 Ti"
+    },
+    {
+      "id": 37,
+      "slug": "colnago-demo-concept",
+      "name": "DEMO \u00b7 Concept"
+    },
+    {
+      "id": 30,
+      "slug": "colnago-demo-g4-x",
+      "name": "DEMO \u00b7 G4-X"
+    },
+    {
+      "id": 38,
+      "slug": "colnago-demo-k-one",
+      "name": "DEMO \u00b7 K.One"
+    },
+    {
+      "id": 32,
+      "slug": "colnago-demo-master",
+      "name": "DEMO \u00b7 Master"
+    },
+    {
+      "id": 34,
+      "slug": "colnago-demo-steelnovo",
+      "name": "DEMO \u00b7 Steelnovo"
+    },
+    {
+      "id": 36,
+      "slug": "colnago-demo-v3rs",
+      "name": "DEMO \u00b7 V3Rs"
+    },
+    {
+      "id": 25,
+      "slug": "colnago-demo-v4",
+      "name": "DEMO \u00b7 V4"
+    },
+    {
+      "id": 24,
+      "slug": "colnago-demo-v4rs",
+      "name": "DEMO \u00b7 V4Rs"
+    },
+    {
+      "id": 29,
+      "slug": "colnago-demo-y1rs",
+      "name": "DEMO \u00b7 Y1Rs"
+    },
+    {
+      "id": 53,
+      "slug": "continental-demo-contact-urban",
+      "name": "DEMO \u00b7 Contact Urban"
+    },
+    {
+      "id": 50,
+      "slug": "continental-demo-cross-king",
+      "name": "DEMO \u00b7 Cross King"
+    },
+    {
+      "id": 42,
+      "slug": "continental-demo-grand-prix-5000",
+      "name": "DEMO \u00b7 Grand Prix 5000"
+    },
+    {
+      "id": 43,
+      "slug": "continental-demo-grand-prix-5000-allseason",
+      "name": "DEMO \u00b7 Grand Prix 5000 AllSeason"
+    },
+    {
+      "id": 40,
+      "slug": "continental-demo-grand-prix-5000-as-tr",
+      "name": "DEMO \u00b7 Grand Prix 5000 AS TR"
+    },
+    {
+      "id": 44,
+      "slug": "continental-demo-grand-prix-5000-clincher",
+      "name": "DEMO \u00b7 Grand Prix 5000 Clincher"
+    },
+    {
+      "id": 39,
+      "slug": "continental-demo-grand-prix-5000-s-tr",
+      "name": "DEMO \u00b7 Grand Prix 5000 S TR"
+    },
+    {
+      "id": 41,
+      "slug": "continental-demo-grand-prix-5000-tt-tr",
+      "name": "DEMO \u00b7 Grand Prix 5000 TT TR"
+    },
+    {
+      "id": 51,
+      "slug": "continental-demo-kryptotal-front",
+      "name": "DEMO \u00b7 Kryptotal Front"
+    },
+    {
+      "id": 52,
+      "slug": "continental-demo-kryptotal-rear",
+      "name": "DEMO \u00b7 Kryptotal Rear"
+    },
+    {
+      "id": 49,
+      "slug": "continental-demo-race-king",
+      "name": "DEMO \u00b7 Race King"
+    },
+    {
+      "id": 48,
+      "slug": "continental-demo-terra-adventure",
+      "name": "DEMO \u00b7 Terra Adventure"
+    },
+    {
+      "id": 47,
+      "slug": "continental-demo-terra-hardpack",
+      "name": "DEMO \u00b7 Terra Hardpack"
+    },
+    {
+      "id": 45,
+      "slug": "continental-demo-terra-speed",
+      "name": "DEMO \u00b7 Terra Speed"
+    },
+    {
+      "id": 46,
+      "slug": "continental-demo-terra-trail",
+      "name": "DEMO \u00b7 Terra Trail"
+    },
+    {
+      "id": 7,
+      "slug": "continental-grand-prix-5000-s-tr",
+      "name": "DEMO \u00b7 Grand Prix 5000 S TR"
+    },
+    {
+      "id": 68,
+      "slug": "elite-demo-aria-fan",
+      "name": "DEMO \u00b7 Aria Fan"
+    },
+    {
+      "id": 60,
+      "slug": "elite-demo-custom-race-plus-bottle-cage",
+      "name": "DEMO \u00b7 Custom Race Plus Bottle Cage"
+    },
+    {
+      "id": 63,
+      "slug": "elite-demo-direto-xr-t-trainer",
+      "name": "DEMO \u00b7 Direto XR-T Trainer"
+    },
+    {
+      "id": 55,
+      "slug": "elite-demo-fly-team-bottle",
+      "name": "DEMO \u00b7 Fly Team Bottle"
+    },
+    {
+      "id": 54,
+      "slug": "elite-demo-fly-tex-bottle",
+      "name": "DEMO \u00b7 Fly Tex Bottle"
+    },
+    {
+      "id": 56,
+      "slug": "elite-demo-jet-green-bottle",
+      "name": "DEMO \u00b7 Jet Green Bottle"
+    },
+    {
+      "id": 64,
+      "slug": "elite-demo-justo-2-trainer",
+      "name": "DEMO \u00b7 Justo 2 Trainer"
+    },
+    {
+      "id": 58,
+      "slug": "elite-demo-mia-bottle",
+      "name": "DEMO \u00b7 Mia Bottle"
+    },
+    {
+      "id": 57,
+      "slug": "elite-demo-nanofly-bottle",
+      "name": "DEMO \u00b7 Nanofly Bottle"
+    },
+    {
+      "id": 65,
+      "slug": "elite-demo-nero-interactive-roller",
+      "name": "DEMO \u00b7 Nero Interactive Roller"
+    },
+    {
+      "id": 66,
+      "slug": "elite-demo-rizer-gradient-simulator",
+      "name": "DEMO \u00b7 Rizer Gradient Simulator"
+    },
+    {
+      "id": 67,
+      "slug": "elite-demo-sterzo-smart-steering-block",
+      "name": "DEMO \u00b7 Sterzo Smart Steering Block"
+    },
+    {
+      "id": 62,
+      "slug": "elite-demo-suito-t-trainer",
+      "name": "DEMO \u00b7 Suito-T Trainer"
+    },
+    {
+      "id": 61,
+      "slug": "elite-demo-tuo-trainer",
+      "name": "DEMO \u00b7 Tuo Trainer"
+    },
+    {
+      "id": 59,
+      "slug": "elite-demo-vico-carbon-bottle-cage",
+      "name": "DEMO \u00b7 Vico Carbon Bottle Cage"
+    },
+    {
+      "id": 77,
+      "slug": "enve-demo-ag25-wheelset",
+      "name": "DEMO \u00b7 AG25 Wheelset"
+    },
+    {
+      "id": 80,
+      "slug": "enve-demo-foundation-45-wheelset",
+      "name": "DEMO \u00b7 Foundation 45 Wheelset"
+    },
+    {
+      "id": 81,
+      "slug": "enve-demo-foundation-65-wheelset",
+      "name": "DEMO \u00b7 Foundation 65 Wheelset"
+    },
+    {
+      "id": 74,
+      "slug": "enve-demo-g23-wheelset",
+      "name": "DEMO \u00b7 G23 Wheelset"
+    },
+    {
+      "id": 75,
+      "slug": "enve-demo-g27-wheelset",
+      "name": "DEMO \u00b7 G27 Wheelset"
+    },
+    {
+      "id": 76,
+      "slug": "enve-demo-g30-wheelset",
+      "name": "DEMO \u00b7 G30 Wheelset"
+    },
+    {
+      "id": 78,
+      "slug": "enve-demo-m5-wheelset",
+      "name": "DEMO \u00b7 M5 Wheelset"
+    },
+    {
+      "id": 79,
+      "slug": "enve-demo-m6-wheelset",
+      "name": "DEMO \u00b7 M6 Wheelset"
+    },
+    {
+      "id": 82,
+      "slug": "enve-demo-road-stem",
+      "name": "DEMO \u00b7 Road Stem"
+    },
+    {
+      "id": 69,
+      "slug": "enve-demo-ses-2-3-wheelset",
+      "name": "DEMO \u00b7 SES 2.3 Wheelset"
+    },
+    {
+      "id": 70,
+      "slug": "enve-demo-ses-3-4-wheelset",
+      "name": "DEMO \u00b7 SES 3.4 Wheelset"
+    },
+    {
+      "id": 73,
+      "slug": "enve-demo-ses-4-5-pro-wheelset",
+      "name": "DEMO \u00b7 SES 4.5 Pro Wheelset"
+    },
+    {
+      "id": 71,
+      "slug": "enve-demo-ses-4-5-wheelset",
+      "name": "DEMO \u00b7 SES 4.5 Wheelset"
+    },
+    {
+      "id": 72,
+      "slug": "enve-demo-ses-6-7-wheelset",
+      "name": "DEMO \u00b7 SES 6.7 Wheelset"
+    },
+    {
+      "id": 83,
+      "slug": "enve-demo-ses-aero-road-handlebar",
+      "name": "DEMO \u00b7 SES Aero Road Handlebar"
+    },
+    {
+      "id": 5,
+      "slug": "enve-ses-4-5-pro",
+      "name": "DEMO \u00b7 SES 4.5 Pro"
+    },
+    {
+      "id": 97,
+      "slug": "fizik-demo-aliante-r1",
+      "name": "DEMO \u00b7 Aliante R1"
+    },
+    {
+      "id": 96,
+      "slug": "fizik-demo-antares-r1",
+      "name": "DEMO \u00b7 Antares R1"
+    },
+    {
+      "id": 98,
+      "slug": "fizik-demo-tempo-argo-r5",
+      "name": "DEMO \u00b7 Tempo Argo R5"
+    },
+    {
+      "id": 90,
+      "slug": "fizik-demo-tempo-decos",
+      "name": "DEMO \u00b7 Tempo Decos"
+    },
+    {
+      "id": 89,
+      "slug": "fizik-demo-tempo-decos-carbon",
+      "name": "DEMO \u00b7 Tempo Decos Carbon"
+    },
+    {
+      "id": 88,
+      "slug": "fizik-demo-tempo-overcurve-r4",
+      "name": "DEMO \u00b7 Tempo Overcurve R4"
+    },
+    {
+      "id": 92,
+      "slug": "fizik-demo-terra-artica-x2",
+      "name": "DEMO \u00b7 Terra Artica X2"
+    },
+    {
+      "id": 91,
+      "slug": "fizik-demo-terra-atlas",
+      "name": "DEMO \u00b7 Terra Atlas"
+    },
+    {
+      "id": 93,
+      "slug": "fizik-demo-terra-ergolace-x2",
+      "name": "DEMO \u00b7 Terra Ergolace X2"
+    },
+    {
+      "id": 94,
+      "slug": "fizik-demo-vento-argo-r1",
+      "name": "DEMO \u00b7 Vento Argo R1"
+    },
+    {
+      "id": 95,
+      "slug": "fizik-demo-vento-argo-r3",
+      "name": "DEMO \u00b7 Vento Argo R3"
+    },
+    {
+      "id": 85,
+      "slug": "fizik-demo-vento-ferox-carbon",
+      "name": "DEMO \u00b7 Vento Ferox Carbon"
+    },
+    {
+      "id": 84,
+      "slug": "fizik-demo-vento-infinito-carbon-2",
+      "name": "DEMO \u00b7 Vento Infinito Carbon 2"
+    },
+    {
+      "id": 87,
+      "slug": "fizik-demo-vento-powerstrap-aeroweave",
+      "name": "DEMO \u00b7 Vento Powerstrap Aeroweave"
+    },
+    {
+      "id": 86,
+      "slug": "fizik-demo-vento-proxy",
+      "name": "DEMO \u00b7 Vento Proxy"
+    },
+    {
+      "id": 101,
+      "slug": "garmin-demo-edge-1040",
+      "name": "DEMO \u00b7 Edge 1040"
+    },
+    {
+      "id": 100,
+      "slug": "garmin-demo-edge-1040-solar",
+      "name": "DEMO \u00b7 Edge 1040 Solar"
+    },
+    {
+      "id": 99,
+      "slug": "garmin-demo-edge-1050",
+      "name": "DEMO \u00b7 Edge 1050"
+    },
+    {
+      "id": 107,
+      "slug": "garmin-demo-edge-130-plus",
+      "name": "DEMO \u00b7 Edge 130 Plus"
+    },
+    {
+      "id": 105,
+      "slug": "garmin-demo-edge-540",
+      "name": "DEMO \u00b7 Edge 540"
+    },
+    {
+      "id": 104,
+      "slug": "garmin-demo-edge-540-solar",
+      "name": "DEMO \u00b7 Edge 540 Solar"
+    },
+    {
+      "id": 103,
+      "slug": "garmin-demo-edge-840",
+      "name": "DEMO \u00b7 Edge 840"
+    },
+    {
+      "id": 102,
+      "slug": "garmin-demo-edge-840-solar",
+      "name": "DEMO \u00b7 Edge 840 Solar"
+    },
+    {
+      "id": 106,
+      "slug": "garmin-demo-edge-explore-2",
+      "name": "DEMO \u00b7 Edge Explore 2"
+    },
+    {
+      "id": 108,
+      "slug": "garmin-demo-rally-rk200",
+      "name": "DEMO \u00b7 Rally RK200"
+    },
+    {
+      "id": 109,
+      "slug": "garmin-demo-rally-rs200",
+      "name": "DEMO \u00b7 Rally RS200"
+    },
+    {
+      "id": 110,
+      "slug": "garmin-demo-rally-xc200",
+      "name": "DEMO \u00b7 Rally XC200"
+    },
+    {
+      "id": 113,
+      "slug": "garmin-demo-tacx-neo-2t-smart-trainer",
+      "name": "DEMO \u00b7 Tacx NEO 2T Smart Trainer"
+    },
+    {
+      "id": 111,
+      "slug": "garmin-demo-varia-rtl715",
+      "name": "DEMO \u00b7 Varia RTL715"
+    },
+    {
+      "id": 112,
+      "slug": "garmin-demo-varia-rvr315",
+      "name": "DEMO \u00b7 Varia RVR315"
+    },
+    {
+      "id": 6,
+      "slug": "garmin-edge-1050",
+      "name": "DEMO \u00b7 Edge 1050"
+    },
+    {
+      "id": 117,
+      "slug": "gobik-demo-absolute-6-0-bib-shorts",
+      "name": "DEMO \u00b7 Absolute 6.0 Bib Shorts"
+    },
+    {
+      "id": 125,
+      "slug": "gobik-demo-armour-2-0-winter-tights",
+      "name": "DEMO \u00b7 Armour 2.0 Winter Tights"
+    },
+    {
+      "id": 116,
+      "slug": "gobik-demo-carrera-2-0-bib-shorts",
+      "name": "DEMO \u00b7 Carrera 2.0 Bib Shorts"
+    },
+    {
+      "id": 114,
+      "slug": "gobik-demo-cx-pro-4-0-jersey",
+      "name": "DEMO \u00b7 CX Pro 4.0 Jersey"
+    },
+    {
+      "id": 124,
+      "slug": "gobik-demo-ionic-gloves",
+      "name": "DEMO \u00b7 Ionic Gloves"
+    },
+    {
+      "id": 120,
+      "slug": "gobik-demo-kaba-2-0-jacket",
+      "name": "DEMO \u00b7 Kaba 2.0 Jacket"
+    },
+    {
+      "id": 128,
+      "slug": "gobik-demo-overshoes-2-0",
+      "name": "DEMO \u00b7 Overshoes 2.0"
+    },
+    {
+      "id": 118,
+      "slug": "gobik-demo-phantom-jacket",
+      "name": "DEMO \u00b7 Phantom Jacket"
+    },
+    {
+      "id": 121,
+      "slug": "gobik-demo-plus-2-0-gilet",
+      "name": "DEMO \u00b7 Plus 2.0 Gilet"
+    },
+    {
+      "id": 123,
+      "slug": "gobik-demo-rocket-2-0-socks",
+      "name": "DEMO \u00b7 Rocket 2.0 Socks"
+    },
+    {
+      "id": 122,
+      "slug": "gobik-demo-second-skin-baselayer",
+      "name": "DEMO \u00b7 Second Skin Baselayer"
+    },
+    {
+      "id": 119,
+      "slug": "gobik-demo-skimo-pro-jacket",
+      "name": "DEMO \u00b7 Skimo Pro Jacket"
+    },
+    {
+      "id": 115,
+      "slug": "gobik-demo-stark-jersey",
+      "name": "DEMO \u00b7 Stark Jersey"
+    },
+    {
+      "id": 127,
+      "slug": "gobik-demo-tech-t-shirt",
+      "name": "DEMO \u00b7 Tech T-Shirt"
+    },
+    {
+      "id": 126,
+      "slug": "gobik-demo-unisex-hoodie",
+      "name": "DEMO \u00b7 Unisex Hoodie"
+    },
+    {
+      "id": 140,
+      "slug": "kask-demo-bambino-pro-evo",
+      "name": "DEMO \u00b7 Bambino Pro Evo"
+    },
+    {
+      "id": 135,
+      "slug": "kask-demo-caipi",
+      "name": "DEMO \u00b7 Caipi"
+    },
+    {
+      "id": 137,
+      "slug": "kask-demo-defender",
+      "name": "DEMO \u00b7 Defender"
+    },
+    {
+      "id": 130,
+      "slug": "kask-demo-elemento",
+      "name": "DEMO \u00b7 Elemento"
+    },
+    {
+      "id": 139,
+      "slug": "kask-demo-mistral",
+      "name": "DEMO \u00b7 Mistral"
+    },
+    {
+      "id": 142,
+      "slug": "kask-demo-moebius",
+      "name": "DEMO \u00b7 Moebius"
+    },
+    {
+      "id": 143,
+      "slug": "kask-demo-mojito-x",
+      "name": "DEMO \u00b7 Mojito X"
+    },
+    {
+      "id": 133,
+      "slug": "kask-demo-mojito3",
+      "name": "DEMO \u00b7 Mojito3"
+    },
+    {
+      "id": 129,
+      "slug": "kask-demo-protone-icon",
+      "name": "DEMO \u00b7 Protone Icon"
+    },
+    {
+      "id": 141,
+      "slug": "kask-demo-rapido",
+      "name": "DEMO \u00b7 Rapido"
+    },
+    {
+      "id": 136,
+      "slug": "kask-demo-rex",
+      "name": "DEMO \u00b7 Rex"
+    },
+    {
+      "id": 134,
+      "slug": "kask-demo-sintesi",
+      "name": "DEMO \u00b7 Sintesi"
+    },
+    {
+      "id": 131,
+      "slug": "kask-demo-utopia-y",
+      "name": "DEMO \u00b7 Utopia Y"
+    },
+    {
+      "id": 138,
+      "slug": "kask-demo-valegro",
+      "name": "DEMO \u00b7 Valegro"
+    },
+    {
+      "id": 132,
+      "slug": "kask-demo-wasabi",
+      "name": "DEMO \u00b7 Wasabi"
+    },
+    {
+      "id": 152,
+      "slug": "maap-demo-men-s-apex-aeon-jersey",
+      "name": "DEMO \u00b7 Men's Apex Aeon Jersey"
+    },
+    {
+      "id": 158,
+      "slug": "maap-demo-men-s-eclipse-base-layer",
+      "name": "DEMO \u00b7 Men's Eclipse Base Layer"
+    },
+    {
+      "id": 151,
+      "slug": "maap-demo-men-s-pro-aero-jersey",
+      "name": "DEMO \u00b7 Men's Pro Aero Jersey"
+    },
+    {
+      "id": 144,
+      "slug": "maap-demo-men-s-pro-air-jersey-3-0",
+      "name": "DEMO \u00b7 Men's Pro Air Jersey 3.0"
+    },
+    {
+      "id": 145,
+      "slug": "maap-demo-men-s-pro-air-long-sleeve-jersey-3-0",
+      "name": "DEMO \u00b7 Men's Pro Air Long Sleeve Jersey 3.0"
+    },
+    {
+      "id": 155,
+      "slug": "maap-demo-men-s-pro-atmos-jacket",
+      "name": "DEMO \u00b7 Men's Pro Atmos Jacket"
+    },
+    {
+      "id": 156,
+      "slug": "maap-demo-men-s-pro-atmos-vest",
+      "name": "DEMO \u00b7 Men's Pro Atmos Vest"
+    },
+    {
+      "id": 149,
+      "slug": "maap-demo-men-s-pro-emerge-jersey",
+      "name": "DEMO \u00b7 Men's Pro Emerge Jersey"
+    },
+    {
+      "id": 150,
+      "slug": "maap-demo-men-s-pro-emerge-long-sleeve-jersey",
+      "name": "DEMO \u00b7 Men's Pro Emerge Long Sleeve Jersey"
+    },
+    {
+      "id": 153,
+      "slug": "maap-demo-men-s-team-bib-evo",
+      "name": "DEMO \u00b7 Men's Team Bib Evo"
+    },
+    {
+      "id": 154,
+      "slug": "maap-demo-men-s-team-bib-evo-cargo",
+      "name": "DEMO \u00b7 Men's Team Bib Evo Cargo"
+    },
+    {
+      "id": 157,
+      "slug": "maap-demo-men-s-team-sock",
+      "name": "DEMO \u00b7 Men's Team Sock"
+    },
+    {
+      "id": 148,
+      "slug": "maap-demo-men-s-team-thermal-long-sleeve-jersey",
+      "name": "DEMO \u00b7 Men's Team Thermal Long Sleeve Jersey"
+    },
+    {
+      "id": 146,
+      "slug": "maap-demo-men-s-training-jersey-2-0",
+      "name": "DEMO \u00b7 Men's Training Jersey 2.0"
+    },
+    {
+      "id": 147,
+      "slug": "maap-demo-men-s-training-thermal-long-sleeve-jersey-2-0",
+      "name": "DEMO \u00b7 Men's Training Thermal Long Sleeve Jersey 2.0"
+    },
+    {
+      "id": 4,
+      "slug": "maap-men-s-pro-air-jersey-3-0",
+      "name": "DEMO \u00b7 Men's Pro Air Jersey 3.0"
+    },
+    {
+      "id": 166,
+      "slug": "met-demo-allroad-mips",
+      "name": "DEMO \u00b7 Allroad MIPS"
+    },
+    {
+      "id": 171,
+      "slug": "met-demo-codatronca",
+      "name": "DEMO \u00b7 Codatronca"
+    },
+    {
+      "id": 172,
+      "slug": "met-demo-drone-wide-body",
+      "name": "DEMO \u00b7 Drone Wide Body"
+    },
+    {
+      "id": 170,
+      "slug": "met-demo-echo-mips",
+      "name": "DEMO \u00b7 Echo MIPS"
+    },
+    {
+      "id": 163,
+      "slug": "met-demo-estro-mips",
+      "name": "DEMO \u00b7 Estro MIPS"
+    },
+    {
+      "id": 173,
+      "slug": "met-demo-idolo-mips",
+      "name": "DEMO \u00b7 Idolo MIPS"
+    },
+    {
+      "id": 161,
+      "slug": "met-demo-manta-mips",
+      "name": "DEMO \u00b7 Manta MIPS"
+    },
+    {
+      "id": 165,
+      "slug": "met-demo-miles-mips",
+      "name": "DEMO \u00b7 Miles MIPS"
+    },
+    {
+      "id": 168,
+      "slug": "met-demo-parachute-mcr-mips",
+      "name": "DEMO \u00b7 Parachute MCR MIPS"
+    },
+    {
+      "id": 162,
+      "slug": "met-demo-rivale-mips",
+      "name": "DEMO \u00b7 Rivale MIPS"
+    },
+    {
+      "id": 169,
+      "slug": "met-demo-roam-mips",
+      "name": "DEMO \u00b7 Roam MIPS"
+    },
+    {
+      "id": 167,
+      "slug": "met-demo-terranova-mips",
+      "name": "DEMO \u00b7 Terranova MIPS"
+    },
+    {
+      "id": 160,
+      "slug": "met-demo-trenta",
+      "name": "DEMO \u00b7 Trenta"
+    },
+    {
+      "id": 159,
+      "slug": "met-demo-trenta-3k-carbon",
+      "name": "DEMO \u00b7 Trenta 3K Carbon"
+    },
+    {
+      "id": 164,
+      "slug": "met-demo-vinci-mips",
+      "name": "DEMO \u00b7 Vinci MIPS"
+    },
+    {
+      "id": 181,
+      "slug": "muc-off-demo-all-weather-lube",
+      "name": "DEMO \u00b7 All Weather Lube"
+    },
+    {
+      "id": 177,
+      "slug": "muc-off-demo-bio-drivetrain-cleaner",
+      "name": "DEMO \u00b7 Bio Drivetrain Cleaner"
+    },
+    {
+      "id": 183,
+      "slug": "muc-off-demo-c3-ceramic-dry-lube",
+      "name": "DEMO \u00b7 C3 Ceramic Dry Lube"
+    },
+    {
+      "id": 182,
+      "slug": "muc-off-demo-c3-ceramic-wet-lube",
+      "name": "DEMO \u00b7 C3 Ceramic Wet Lube"
+    },
+    {
+      "id": 178,
+      "slug": "muc-off-demo-disc-brake-cleaner",
+      "name": "DEMO \u00b7 Disc Brake Cleaner"
+    },
+    {
+      "id": 176,
+      "slug": "muc-off-demo-drivetrain-cleaner",
+      "name": "DEMO \u00b7 Drivetrain Cleaner"
+    },
+    {
+      "id": 180,
+      "slug": "muc-off-demo-dry-weather-lube",
+      "name": "DEMO \u00b7 Dry Weather Lube"
+    },
+    {
+      "id": 185,
+      "slug": "muc-off-demo-hcb-1",
+      "name": "DEMO \u00b7 HCB-1"
+    },
+    {
+      "id": 184,
+      "slug": "muc-off-demo-mo-94",
+      "name": "DEMO \u00b7 MO-94"
+    },
+    {
+      "id": 174,
+      "slug": "muc-off-demo-nano-tech-bike-cleaner",
+      "name": "DEMO \u00b7 Nano Tech Bike Cleaner"
+    },
+    {
+      "id": 175,
+      "slug": "muc-off-demo-nano-tech-bike-cleaner-concentrate",
+      "name": "DEMO \u00b7 Nano Tech Bike Cleaner Concentrate"
+    },
+    {
+      "id": 186,
+      "slug": "muc-off-demo-no-puncture-hassle-tubeless-sealant",
+      "name": "DEMO \u00b7 No Puncture Hassle Tubeless Sealant"
+    },
+    {
+      "id": 187,
+      "slug": "muc-off-demo-stealth-tubeless-puncture-plug",
+      "name": "DEMO \u00b7 Stealth Tubeless Puncture Plug"
+    },
+    {
+      "id": 188,
+      "slug": "muc-off-demo-ultimate-bicycle-cleaning-kit",
+      "name": "DEMO \u00b7 Ultimate Bicycle Cleaning Kit"
+    },
+    {
+      "id": 179,
+      "slug": "muc-off-demo-wet-weather-lube",
+      "name": "DEMO \u00b7 Wet Weather Lube"
+    },
+    {
+      "id": 201,
+      "slug": "oakley-demo-bxtr",
+      "name": "DEMO \u00b7 BXTR"
+    },
+    {
+      "id": 200,
+      "slug": "oakley-demo-corridor",
+      "name": "DEMO \u00b7 Corridor"
+    },
+    {
+      "id": 192,
+      "slug": "oakley-demo-encoder",
+      "name": "DEMO \u00b7 Encoder"
+    },
+    {
+      "id": 193,
+      "slug": "oakley-demo-encoder-strike",
+      "name": "DEMO \u00b7 Encoder Strike"
+    },
+    {
+      "id": 199,
+      "slug": "oakley-demo-evzero-blades",
+      "name": "DEMO \u00b7 EVZero Blades"
+    },
+    {
+      "id": 202,
+      "slug": "oakley-demo-hydra",
+      "name": "DEMO \u00b7 Hydra"
+    },
+    {
+      "id": 194,
+      "slug": "oakley-demo-jawbreaker",
+      "name": "DEMO \u00b7 Jawbreaker"
+    },
+    {
+      "id": 197,
+      "slug": "oakley-demo-kato",
+      "name": "DEMO \u00b7 Kato"
+    },
+    {
+      "id": 198,
+      "slug": "oakley-demo-kato-x",
+      "name": "DEMO \u00b7 Kato X"
+    },
+    {
+      "id": 195,
+      "slug": "oakley-demo-radar-ev-path",
+      "name": "DEMO \u00b7 Radar EV Path"
+    },
+    {
+      "id": 196,
+      "slug": "oakley-demo-radar-ev-xs-path",
+      "name": "DEMO \u00b7 Radar EV XS Path"
+    },
+    {
+      "id": 203,
+      "slug": "oakley-demo-sphaera",
+      "name": "DEMO \u00b7 Sphaera"
+    },
+    {
+      "id": 189,
+      "slug": "oakley-demo-sutro",
+      "name": "DEMO \u00b7 Sutro"
+    },
+    {
+      "id": 190,
+      "slug": "oakley-demo-sutro-lite",
+      "name": "DEMO \u00b7 Sutro Lite"
+    },
+    {
+      "id": 191,
+      "slug": "oakley-demo-sutro-lite-sweep",
+      "name": "DEMO \u00b7 Sutro Lite Sweep"
+    },
+    {
+      "id": 210,
+      "slug": "pirelli-demo-cinturato-gravel-h",
+      "name": "DEMO \u00b7 Cinturato Gravel H"
+    },
+    {
+      "id": 211,
+      "slug": "pirelli-demo-cinturato-gravel-m",
+      "name": "DEMO \u00b7 Cinturato Gravel M"
+    },
+    {
+      "id": 212,
+      "slug": "pirelli-demo-cinturato-gravel-rc-x",
+      "name": "DEMO \u00b7 Cinturato Gravel RC X"
+    },
+    {
+      "id": 209,
+      "slug": "pirelli-demo-cinturato-velo-tlr",
+      "name": "DEMO \u00b7 Cinturato Velo TLR"
+    },
+    {
+      "id": 206,
+      "slug": "pirelli-demo-p-zero-race",
+      "name": "DEMO \u00b7 P ZERO Race"
+    },
+    {
+      "id": 205,
+      "slug": "pirelli-demo-p-zero-race-tlr",
+      "name": "DEMO \u00b7 P ZERO Race TLR"
+    },
+    {
+      "id": 204,
+      "slug": "pirelli-demo-p-zero-race-tlr-rs",
+      "name": "DEMO \u00b7 P ZERO Race TLR RS"
+    },
+    {
+      "id": 207,
+      "slug": "pirelli-demo-p-zero-road",
+      "name": "DEMO \u00b7 P ZERO Road"
+    },
+    {
+      "id": 208,
+      "slug": "pirelli-demo-p7-sport",
+      "name": "DEMO \u00b7 P7 Sport"
+    },
+    {
+      "id": 218,
+      "slug": "pirelli-demo-scorpion-enduro-m",
+      "name": "DEMO \u00b7 Scorpion Enduro M"
+    },
+    {
+      "id": 216,
+      "slug": "pirelli-demo-scorpion-trail-m",
+      "name": "DEMO \u00b7 Scorpion Trail M"
+    },
+    {
+      "id": 217,
+      "slug": "pirelli-demo-scorpion-trail-r",
+      "name": "DEMO \u00b7 Scorpion Trail R"
+    },
+    {
+      "id": 215,
+      "slug": "pirelli-demo-scorpion-xc-h",
+      "name": "DEMO \u00b7 Scorpion XC H"
+    },
+    {
+      "id": 214,
+      "slug": "pirelli-demo-scorpion-xc-m",
+      "name": "DEMO \u00b7 Scorpion XC M"
+    },
+    {
+      "id": 213,
+      "slug": "pirelli-demo-scorpion-xc-rc",
+      "name": "DEMO \u00b7 Scorpion XC RC"
+    },
+    {
+      "id": 231,
+      "slug": "selle-italia-demo-diva-gel-superflow",
+      "name": "DEMO \u00b7 Diva Gel Superflow"
+    },
+    {
+      "id": 222,
+      "slug": "selle-italia-demo-flite-boost",
+      "name": "DEMO \u00b7 Flite Boost"
+    },
+    {
+      "id": 223,
+      "slug": "selle-italia-demo-flite-boost-3d",
+      "name": "DEMO \u00b7 Flite Boost 3D"
+    },
+    {
+      "id": 232,
+      "slug": "selle-italia-demo-lady-gel-flow",
+      "name": "DEMO \u00b7 Lady Gel Flow"
+    },
+    {
+      "id": 228,
+      "slug": "selle-italia-demo-max-flite-gel-superflow",
+      "name": "DEMO \u00b7 Max Flite Gel Superflow"
+    },
+    {
+      "id": 226,
+      "slug": "selle-italia-demo-model-x-green-superflow",
+      "name": "DEMO \u00b7 Model X Green Superflow"
+    },
+    {
+      "id": 224,
+      "slug": "selle-italia-demo-novus-boost-evo",
+      "name": "DEMO \u00b7 Novus Boost Evo"
+    },
+    {
+      "id": 225,
+      "slug": "selle-italia-demo-novus-boost-evo-3d",
+      "name": "DEMO \u00b7 Novus Boost Evo 3D"
+    },
+    {
+      "id": 219,
+      "slug": "selle-italia-demo-slr-boost",
+      "name": "DEMO \u00b7 SLR Boost"
+    },
+    {
+      "id": 220,
+      "slug": "selle-italia-demo-slr-boost-3d",
+      "name": "DEMO \u00b7 SLR Boost 3D"
+    },
+    {
+      "id": 221,
+      "slug": "selle-italia-demo-slr-kit-carbonio",
+      "name": "DEMO \u00b7 SLR Kit Carbonio"
+    },
+    {
+      "id": 227,
+      "slug": "selle-italia-demo-sp-01-boost",
+      "name": "DEMO \u00b7 SP-01 Boost"
+    },
+    {
+      "id": 229,
+      "slug": "selle-italia-demo-watt-3d",
+      "name": "DEMO \u00b7 Watt 3D"
+    },
+    {
+      "id": 230,
+      "slug": "selle-italia-demo-watt-kit-carbonio-superflow",
+      "name": "DEMO \u00b7 Watt Kit Carbonio Superflow"
+    },
+    {
+      "id": 233,
+      "slug": "selle-italia-demo-x-bow",
+      "name": "DEMO \u00b7 X-Bow"
+    },
+    {
+      "id": 241,
+      "slug": "shimano-demo-105-fc-r7100-crankset",
+      "name": "DEMO \u00b7 105 FC-R7100 Crankset"
+    },
+    {
+      "id": 242,
+      "slug": "shimano-demo-105-rd-r7150-rear-derailleur",
+      "name": "DEMO \u00b7 105 RD-R7150 Rear Derailleur"
+    },
+    {
+      "id": 243,
+      "slug": "shimano-demo-105-st-r7170-shift-brake-lever",
+      "name": "DEMO \u00b7 105 ST-R7170 Shift Brake Lever"
+    },
+    {
+      "id": 234,
+      "slug": "shimano-demo-dura-ace-fc-r9200-crankset",
+      "name": "DEMO \u00b7 Dura-Ace FC-R9200 Crankset"
+    },
+    {
+      "id": 236,
+      "slug": "shimano-demo-dura-ace-fd-r9250-front-derailleur",
+      "name": "DEMO \u00b7 Dura-Ace FD-R9250 Front Derailleur"
+    },
+    {
+      "id": 235,
+      "slug": "shimano-demo-dura-ace-rd-r9250-rear-derailleur",
+      "name": "DEMO \u00b7 Dura-Ace RD-R9250 Rear Derailleur"
+    },
+    {
+      "id": 237,
+      "slug": "shimano-demo-dura-ace-st-r9270-shift-brake-lever",
+      "name": "DEMO \u00b7 Dura-Ace ST-R9270 Shift Brake Lever"
+    },
+    {
+      "id": 247,
+      "slug": "shimano-demo-dura-ace-wh-r9270-c50-wheelset",
+      "name": "DEMO \u00b7 Dura-Ace WH-R9270-C50 Wheelset"
+    },
+    {
+      "id": 244,
+      "slug": "shimano-demo-grx-fc-rx820-1-crankset",
+      "name": "DEMO \u00b7 GRX FC-RX820-1 Crankset"
+    },
+    {
+      "id": 245,
+      "slug": "shimano-demo-grx-rd-rx822-rear-derailleur",
+      "name": "DEMO \u00b7 GRX RD-RX822 Rear Derailleur"
+    },
+    {
+      "id": 246,
+      "slug": "shimano-demo-grx-st-rx820-shift-brake-lever",
+      "name": "DEMO \u00b7 GRX ST-RX820 Shift Brake Lever"
+    },
+    {
+      "id": 238,
+      "slug": "shimano-demo-ultegra-fc-r8100-crankset",
+      "name": "DEMO \u00b7 Ultegra FC-R8100 Crankset"
+    },
+    {
+      "id": 239,
+      "slug": "shimano-demo-ultegra-rd-r8150-rear-derailleur",
+      "name": "DEMO \u00b7 Ultegra RD-R8150 Rear Derailleur"
+    },
+    {
+      "id": 240,
+      "slug": "shimano-demo-ultegra-st-r8170-shift-brake-lever",
+      "name": "DEMO \u00b7 Ultegra ST-R8170 Shift Brake Lever"
+    },
+    {
+      "id": 248,
+      "slug": "shimano-demo-ultegra-wh-r8170-c50-wheelset",
+      "name": "DEMO \u00b7 Ultegra WH-R8170-C50 Wheelset"
+    },
+    {
+      "id": 8,
+      "slug": "specialized-2026-tarmac-sl8-expert-sram-force-axs",
+      "name": "DEMO \u00b7 2026 Tarmac SL8 Expert SRAM Force AXS"
+    },
+    {
+      "id": 260,
+      "slug": "specialized-demo-aethos",
+      "name": "DEMO \u00b7 Aethos"
+    },
+    {
+      "id": 251,
+      "slug": "specialized-demo-align-ii",
+      "name": "DEMO \u00b7 Align II"
+    },
+    {
+      "id": 261,
+      "slug": "specialized-demo-allez-sprint",
+      "name": "DEMO \u00b7 Allez Sprint"
+    },
+    {
+      "id": 262,
+      "slug": "specialized-demo-crux",
+      "name": "DEMO \u00b7 Crux"
+    },
+    {
+      "id": 263,
+      "slug": "specialized-demo-diverge-str",
+      "name": "DEMO \u00b7 Diverge STR"
+    },
+    {
+      "id": 254,
+      "slug": "specialized-demo-power-expert",
+      "name": "DEMO \u00b7 Power Expert"
+    },
+    {
+      "id": 250,
+      "slug": "specialized-demo-propero-4",
+      "name": "DEMO \u00b7 Propero 4"
+    },
+    {
+      "id": 255,
+      "slug": "specialized-demo-romin-evo-pro",
+      "name": "DEMO \u00b7 Romin Evo Pro"
+    },
+    {
+      "id": 259,
+      "slug": "specialized-demo-roubaix-sl8",
+      "name": "DEMO \u00b7 Roubaix SL8"
+    },
+    {
+      "id": 249,
+      "slug": "specialized-demo-s-works-prevail-3",
+      "name": "DEMO \u00b7 S-Works Prevail 3"
+    },
+    {
+      "id": 256,
+      "slug": "specialized-demo-s-works-tarmac-sl8",
+      "name": "DEMO \u00b7 S-Works Tarmac SL8"
+    },
+    {
+      "id": 252,
+      "slug": "specialized-demo-s-works-torch",
+      "name": "DEMO \u00b7 S-Works Torch"
+    },
+    {
+      "id": 257,
+      "slug": "specialized-demo-tarmac-sl8-expert",
+      "name": "DEMO \u00b7 Tarmac SL8 Expert"
+    },
+    {
+      "id": 258,
+      "slug": "specialized-demo-tarmac-sl8-frameset",
+      "name": "DEMO \u00b7 Tarmac SL8 Frameset"
+    },
+    {
+      "id": 253,
+      "slug": "specialized-demo-torch-3-0",
+      "name": "DEMO \u00b7 Torch 3.0"
+    },
+    {
+      "id": 272,
+      "slug": "sram-demo-apex-axs-rear-derailleur",
+      "name": "DEMO \u00b7 Apex AXS Rear Derailleur"
+    },
+    {
+      "id": 267,
+      "slug": "sram-demo-force-axs-power-meter-crankset",
+      "name": "DEMO \u00b7 Force AXS Power Meter Crankset"
+    },
+    {
+      "id": 268,
+      "slug": "sram-demo-force-axs-rear-derailleur",
+      "name": "DEMO \u00b7 Force AXS Rear Derailleur"
+    },
+    {
+      "id": 269,
+      "slug": "sram-demo-force-axs-shift-brake-lever",
+      "name": "DEMO \u00b7 Force AXS Shift Brake Lever"
+    },
+    {
+      "id": 274,
+      "slug": "sram-demo-force-xplr-axs-rear-derailleur",
+      "name": "DEMO \u00b7 Force XPLR AXS Rear Derailleur"
+    },
+    {
+      "id": 278,
+      "slug": "sram-demo-powerlink-zero-dual-sided-power-meter",
+      "name": "DEMO \u00b7 PowerLink Zero Dual-Sided Power Meter"
+    },
+    {
+      "id": 264,
+      "slug": "sram-demo-red-axs-power-meter-crankset",
+      "name": "DEMO \u00b7 RED AXS Power Meter Crankset"
+    },
+    {
+      "id": 265,
+      "slug": "sram-demo-red-axs-rear-derailleur",
+      "name": "DEMO \u00b7 RED AXS Rear Derailleur"
+    },
+    {
+      "id": 266,
+      "slug": "sram-demo-red-axs-shift-brake-lever",
+      "name": "DEMO \u00b7 RED AXS Shift Brake Lever"
+    },
+    {
+      "id": 273,
+      "slug": "sram-demo-red-xplr-axs-rear-derailleur",
+      "name": "DEMO \u00b7 RED XPLR AXS Rear Derailleur"
+    },
+    {
+      "id": 270,
+      "slug": "sram-demo-rival-axs-power-meter-crankset",
+      "name": "DEMO \u00b7 Rival AXS Power Meter Crankset"
+    },
+    {
+      "id": 271,
+      "slug": "sram-demo-rival-axs-rear-derailleur",
+      "name": "DEMO \u00b7 Rival AXS Rear Derailleur"
+    },
+    {
+      "id": 275,
+      "slug": "sram-demo-rival-xplr-axs-rear-derailleur",
+      "name": "DEMO \u00b7 Rival XPLR AXS Rear Derailleur"
+    },
+    {
+      "id": 276,
+      "slug": "sram-demo-x0-eagle-transmission-derailleur",
+      "name": "DEMO \u00b7 X0 Eagle Transmission Derailleur"
+    },
+    {
+      "id": 277,
+      "slug": "sram-demo-xx-eagle-transmission-derailleur",
+      "name": "DEMO \u00b7 XX Eagle Transmission Derailleur"
+    },
+    {
+      "id": 282,
+      "slug": "vision-demo-metron-40-sl-wheelset",
+      "name": "DEMO \u00b7 Metron 40 SL Wheelset"
+    },
+    {
+      "id": 279,
+      "slug": "vision-demo-metron-45-sl-wheelset",
+      "name": "DEMO \u00b7 Metron 45 SL Wheelset"
+    },
+    {
+      "id": 290,
+      "slug": "vision-demo-metron-5d-acr-handlebar",
+      "name": "DEMO \u00b7 Metron 5D ACR Handlebar"
+    },
+    {
+      "id": 291,
+      "slug": "vision-demo-metron-5d-evo-handlebar",
+      "name": "DEMO \u00b7 Metron 5D EVO Handlebar"
+    },
+    {
+      "id": 281,
+      "slug": "vision-demo-metron-60-sl-disc-wheelset",
+      "name": "DEMO \u00b7 Metron 60 SL Disc Wheelset"
+    },
+    {
+      "id": 280,
+      "slug": "vision-demo-metron-60-sl-wheelset",
+      "name": "DEMO \u00b7 Metron 60 SL Wheelset"
+    },
+    {
+      "id": 293,
+      "slug": "vision-demo-metron-tfa-aerobar",
+      "name": "DEMO \u00b7 Metron TFA Aerobar"
+    },
+    {
+      "id": 283,
+      "slug": "vision-demo-sc-40-wheelset",
+      "name": "DEMO \u00b7 SC 40 Wheelset"
+    },
+    {
+      "id": 284,
+      "slug": "vision-demo-sc-55-wheelset",
+      "name": "DEMO \u00b7 SC 55 Wheelset"
+    },
+    {
+      "id": 289,
+      "slug": "vision-demo-team-35-comp-sl-wheelset",
+      "name": "DEMO \u00b7 Team 35 Comp SL Wheelset"
+    },
+    {
+      "id": 288,
+      "slug": "vision-demo-trimax-30-disc-wheelset",
+      "name": "DEMO \u00b7 Trimax 30 Disc Wheelset"
+    },
+    {
+      "id": 285,
+      "slug": "vision-demo-trimax-30-kb-wheelset",
+      "name": "DEMO \u00b7 Trimax 30 KB Wheelset"
+    },
+    {
+      "id": 286,
+      "slug": "vision-demo-trimax-35-kb-wheelset",
+      "name": "DEMO \u00b7 Trimax 35 KB Wheelset"
+    },
+    {
+      "id": 287,
+      "slug": "vision-demo-trimax-45-kb-wheelset",
+      "name": "DEMO \u00b7 Trimax 45 KB Wheelset"
+    },
+    {
+      "id": 292,
+      "slug": "vision-demo-trimax-aero-handlebar",
+      "name": "DEMO \u00b7 Trimax Aero Handlebar"
+    },
+    {
+      "id": 294,
+      "slug": "wahoo-demo-elemnt-ace",
+      "name": "DEMO \u00b7 ELEMNT ACE"
+    },
+    {
+      "id": 296,
+      "slug": "wahoo-demo-elemnt-bolt-v2",
+      "name": "DEMO \u00b7 ELEMNT BOLT v2"
+    },
+    {
+      "id": 295,
+      "slug": "wahoo-demo-elemnt-roam-v2",
+      "name": "DEMO \u00b7 ELEMNT ROAM v2"
+    },
+    {
+      "id": 301,
+      "slug": "wahoo-demo-kickr-bike",
+      "name": "DEMO \u00b7 KICKR BIKE"
+    },
+    {
+      "id": 300,
+      "slug": "wahoo-demo-kickr-bike-shift",
+      "name": "DEMO \u00b7 KICKR BIKE SHIFT"
+    },
+    {
+      "id": 298,
+      "slug": "wahoo-demo-kickr-core",
+      "name": "DEMO \u00b7 KICKR CORE"
+    },
+    {
+      "id": 302,
+      "slug": "wahoo-demo-kickr-headwind",
+      "name": "DEMO \u00b7 KICKR HEADWIND"
+    },
+    {
+      "id": 297,
+      "slug": "wahoo-demo-kickr-move",
+      "name": "DEMO \u00b7 KICKR MOVE"
+    },
+    {
+      "id": 299,
+      "slug": "wahoo-demo-kickr-smart-trainer",
+      "name": "DEMO \u00b7 KICKR Smart Trainer"
+    },
+    {
+      "id": 308,
+      "slug": "wahoo-demo-powrlink-zero-dual-sided-power-pedals",
+      "name": "DEMO \u00b7 POWRLINK ZERO Dual-Sided Power Pedals"
+    },
+    {
+      "id": 305,
+      "slug": "wahoo-demo-speedplay-comp-pedals",
+      "name": "DEMO \u00b7 SPEEDPLAY COMP Pedals"
+    },
+    {
+      "id": 307,
+      "slug": "wahoo-demo-speedplay-nano-pedals",
+      "name": "DEMO \u00b7 SPEEDPLAY NANO Pedals"
+    },
+    {
+      "id": 306,
+      "slug": "wahoo-demo-speedplay-zero-pedals",
+      "name": "DEMO \u00b7 SPEEDPLAY ZERO Pedals"
+    },
+    {
+      "id": 304,
+      "slug": "wahoo-demo-trackr-heart-rate",
+      "name": "DEMO \u00b7 TRACKR HEART RATE"
+    },
+    {
+      "id": 303,
+      "slug": "wahoo-demo-trackr-radar",
+      "name": "DEMO \u00b7 TRACKR RADAR"
+    },
+    {
+      "id": 3,
+      "slug": "workshop-tee",
+      "name": "Workshop Tee"
+    }
+  ],
+  "broken_published_urls": [],
+  "summary": {
+    "successful_imports": 0,
+    "unmatched_files": 0,
+    "duplicate_images": 0,
+    "invalid_files": 0,
+    "products_without_images": 307,
+    "broken_published_urls": 0
+  }
+}

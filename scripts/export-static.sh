@@ -4,6 +4,8 @@ set -euo pipefail
 site_url="http://127.0.0.1:8765/"
 server_log="${TMPDIR:-/tmp}/rank-thru-laravel.log"
 server_pid=""
+hot_file="public/hot"
+hot_backup=""
 
 cleanup() {
   status=$?
@@ -11,6 +13,9 @@ cleanup() {
   if [[ -n "$server_pid" ]] && kill -0 "$server_pid" 2>/dev/null; then
     kill "$server_pid" 2>/dev/null || true
     wait "$server_pid" 2>/dev/null || true
+  fi
+  if [[ -n "$hot_backup" ]] && [[ -f "$hot_backup" ]]; then
+    mv "$hot_backup" "$hot_file"
   fi
 
   if [[ "$status" -ne 0 ]]; then
@@ -35,6 +40,15 @@ export APP_URL="$site_url"
 rm -rf static-export
 python3 scripts/sync_products.py
 BUILD_STATIC=1 npm run build
+
+# A Herd/Vite development session leaves public/hot behind. Blade gives that
+# file precedence over the production manifest, so set it aside while pages
+# are rendered for the static GitHub Pages artifact and restore it on exit.
+if [[ -f "$hot_file" ]]; then
+  hot_backup="${TMPDIR:-/tmp}/rank-thru-vite-hot-$$"
+  mv "$hot_file" "$hot_backup"
+fi
+
 php artisan serve --host=127.0.0.1 --port=8765 > "$server_log" 2>&1 &
 server_pid=$!
 mkdir -p static-export
@@ -46,11 +60,40 @@ curl --fail --show-error --silent --retry 10 --retry-connrefused --retry-delay 1
   "${site_url}shop" --output static-export/shop/index.html
 cp data/*.json static-export/data/
 cp -R public/images static-export/images
+find public -maxdepth 1 -type f \( -iname '*.mp4' -o -iname '*.webm' -o -iname '*.mov' \) -exec cp {} static-export/ \;
 
-sed -i 's|http://127.0.0.1:8765/build/|/rankthrubikes/build/|g' static-export/index.html static-export/shop/index.html
+export_page() {
+  local path="$1"
+  local destination="static-export/${path}/index.html"
+  mkdir -p "$(dirname "$destination")"
+  curl --fail --show-error --silent --retry 10 --retry-connrefused --retry-delay 1 \
+    "${site_url}${path}" --output "$destination"
+}
+
+for story in enric-mas-the-triumph-of-perseverance sea-otter-europe-2026 how-to-dress-for-winter-cycling; do
+  export_page "stories/${story}"
+done
+
+for ride in brevet-nights-5 komorebi-gravel-social-ride trek-driftless-getaway cycle-cross-derby-night 3t-esmorzar-amb-forquilla social-ride-fito-velodrom; do
+  export_page "rides/${ride}"
+done
+
+for page in faqs orders shipping-delivery returns-exchanges size-guide community-events about-project privacy-policy terms-conditions accessibility; do
+  export_page "information/${page}"
+done
+
+find static-export -name '*.html' -print0 | xargs -0 sed -i \
+  -e 's|href="/|href="/ranthrubikes/|g' \
+  -e 's|src="/|src="/ranthrubikes/|g' \
+  -e 's|="/images/|="/ranthrubikes/images/|g' \
+  -e 's|="/data/|="/ranthrubikes/data/|g' \
+  -e 's|http://127.0.0.1:8765/|/ranthrubikes/|g'
 cp -R public/build static-export/build
 touch static-export/.nojekyll
 
-grep -Fq '/rankthrubikes/build/' static-export/index.html
-grep -Fq '/rankthrubikes/build/' static-export/shop/index.html
+grep -Fq '/ranthrubikes/build/' static-export/index.html
+grep -Fq '/ranthrubikes/build/' static-export/shop/index.html
+! grep -R -Fq '/rankthrubikes/' static-export
+! grep -R -Fq '="/images/' static-export --include='*.html'
+! grep -R -Fq '="/data/' static-export --include='*.html'
 test "$(python3 -c 'import json; print(len(json.load(open("static-export/data/products.json"))["products"]))')" -ge 0
