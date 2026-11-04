@@ -1,0 +1,469 @@
+{
+  "products": [
+    {
+      "name": "DEMO \u00b7 Dura-Ace FC-R9200 Crankset",
+      "sku": "DEMO-SHIMANO-01",
+      "price_cents": 25000,
+      "stock_quantity": 1,
+      "category_id": "components",
+      "subtype_id": "drivetrain-wheels",
+      "subtype_label": "Drivetrain Wheels",
+      "audiences": [
+        "unisex"
+      ],
+      "description": "Illustrative portfolio listing for the verified Shimano product identity \u2018Dura-Ace FC-R9200 Crankset\u2019. This is not a live retail offer; price, stock, size and colour are demonstration values pending an authorised dealer feed.",
+      "variants": [
+        {
+          "sku": "DEMO-SHIMANO-01",
+          "size": "One size",
+          "color": "Black",
+          "stock_quantity": 1
+        }
+      ],
+      "attributes": {
+        "manufacturer_source_url": "https://bike.shimano.com/en-US/product/component.html",
+        "provenance_status": "Manufacturer catalogue reference; identity verified for demonstration",
+        "technical_specifications": "Not published in demo until verified from an authorised feed",
+        "price_status": "Illustrative demonstration price ($250.00) \u2014 not a retail price",
+        "variant_status": "Illustrative demonstration configuration",
+        "image_status": "No licensed image supplied; use storefront black placeholder"
+      },
+      "images": [],
+      "image_rights": "unknown"
+    },
+    {
+      "name": "DEMO \u00b7 Dura-Ace RD-R9250 Rear Derailleur",
+      "sku": "DEMO-SHIMANO-02",
+      "price_cents": 25000,
+      "stock_quantity": 1,
+      "category_id": "components",
+      "subtype_id": "drivetrain-wheels",
+      "subtype_label": "Drivetrain Wheels",
+      "audiences": [
+        "unisex"
+      ],
+      "description": "Illustrative portfolio listing for the verified Shimano product identity \u2018Dura-Ace RD-R9250 Rear Derailleur\u2019. This is not a live retail offer; price, stock, size and colour are demonstration values pending an authorised dealer feed.",
+      "variants": [
+        {
+          "sku": "DEMO-SHIMANO-02",
+          "size": "One size",
+          "color": "Black",
+          "stock_quantity": 1
+        }
+      ],
+      "attributes": {
+        "manufacturer_source_url": "https://bike.shimano.com/en-US/product/component.html",
+        "provenance_status": "Manufacturer catalogue reference; identity verified for demonstration",
+        "technical_specifications": "Not published in demo until verified from an authorised feed",
+        "price_status": "Illustrative demonstration price ($250.00) \u2014 not a retail price",
+        "variant_status": "Illustrative demonstration configuration",
+        "image_status": "No licensed image supplied; use storefront black placeholder"
+      },
+      "images": [],
+      "image_rights": "unknown"
+    },
+    {
+      "name": "DEMO \u00b7 Dura-Ace FD-R9250 Front Derailleur",
+      "sku": "DEMO-SHIMANO-03",
+      "price_cents": 25000,
+      "stock_quantity": 1,
+      "category_id": "components",
+      "subtype_id": "drivetrain-wheels",
+      "subtype_label": "Drivetrain Wheels",
+      "audiences": [
+        "unisex"
+      ],
+      "description": "Illustrative portfolio listing for the verified Shimano product identity \u2018Dura-Ace FD-R9250 Front Derailleur\u2019. This is not a live retail offer; price, stock, size and colour are demonstration values pending an authorised dealer feed.",
+      "variants": [
+        {
+          "sku": "DEMO-SHIMANO-03",
+          "size": "One size",
+          "color": "Black",
+          "stock_quantity": 1
+        }
+      ],
+      "attributes": {
+        "manufacturer_source_url": "https://bike.shimano.com/en-US/product/component.html",
+        "provenance_status": "Manufacturer catalogue reference; identity verified for demonstration",
+        "technical_specifications": "Not published in demo until verified from an authorised feed",
+        "price_status": "Illustrative demonstration price ($250.00) \u2014 not a retail price",
+        "variant_status": "Illustrative demonstration configuration",
+        "image_status": "No licensed image supplied; use storefront black placeholder"
+      },
+      "images": [],
+      "image_rights": "unknown"
+    },
+    {
+      "name": "DEMO \u00b7 Dura-Ace ST-R9270 Shift Brake Lever",
+      "sku": "DEMO-SHIMANO-04",
+      "price_cents": 25000,
+      "stock_quantity": 1,
+      "category_id": "components",
+      "subtype_id": "drivetrain-wheels",
+      "subtype_label": "Drivetrain Wheels",
+      "audiences": [
+        "unisex"
+      ],
+      "description": "Illustrative portfolio listing for the verified Shimano product identity \u2018Dura-Ace ST-R9270 Shift Brake Lever\u2019. This is not a live retail offer; price, stock, size and colour are demonstration values pending an authorised dealer feed.",
+      "variants": [
+        {
+          "sku": "DEMO-SHIMANO-04",
+          "size": "One size",
+          "color": "Black",
+          "stock_quantity": 1
+        }
+      ],
+      "attributes": {
+        "manufacturer_source_url": "https://bike.shimano.com/en-US/product/component.html",
+        "provenance_status": "Manufacturer catalogue reference; identity verified for demonstration",
+        "technical_specifications": "Not published in demo until verified from an authorised feed",
+        "price_status": "Illustrative demonstration price ($250.00) \u2014 not a retail price",
+        "variant_status": "Illustrative demonstration configuration",
+        "image_status": "No licensed image supplied; use storefront black placeholder"
+      },
+      "images": [],
+      "image_rights": "unknown"
+    },
+    {
+      "name": "DEMO \u00b7 Ultegra FC-R8100 Crankset",
+      "sku": "DEMO-SHIMANO-05",
+      "price_cents": 25000,
+      "stock_quantity": 1,
+      "category_id": "components",
+      "subtype_id": "drivetrain-wheels",
+      "subtype_label": "Drivetrain Wheels",
+      "audiences": [
+        "unisex"
+      ],
+      "description": "Illustrative portfolio listing for the verified Shimano product identity \u2018Ultegra FC-R8100 Crankset\u2019. This is not a live retail offer; price, stock, size and colour are demonstration values pending an authorised dealer feed.",
+      "variants": [
+        {
+          "sku": "DEMO-SHIMANO-05",
+          "size": "One size",
+          "color": "Black",
+          "stock_quantity": 1
+        }
+      ],
+      "attributes": {
+        "manufacturer_source_url": "https://bike.shimano.com/en-US/product/component.html",
+        "provenance_status": "Manufacturer catalogue reference; identity verified for demonstration",
+        "technical_specifications": "Not published in demo until verified from an authorised feed",
+        "price_status": "Illustrative demonstration price ($250.00) \u2014 not a retail price",
+        "variant_status": "Illustrative demonstration configuration",
+        "image_status": "No licensed image supplied; use storefront black placeholder"
+      },
+      "images": [],
+      "image_rights": "unknown"
+    },
+    {
+      "name": "DEMO \u00b7 Ultegra RD-R8150 Rear Derailleur",
+      "sku": "DEMO-SHIMANO-06",
+      "price_cents": 25000,
+      "stock_quantity": 1,
+      "category_id": "components",
+      "subtype_id": "drivetrain-wheels",
+      "subtype_label": "Drivetrain Wheels",
+      "audiences": [
+        "unisex"
+      ],
+      "description": "Illustrative portfolio listing for the verified Shimano product identity \u2018Ultegra RD-R8150 Rear Derailleur\u2019. This is not a live retail offer; price, stock, size and colour are demonstration values pending an authorised dealer feed.",
+      "variants": [
+        {
+          "sku": "DEMO-SHIMANO-06",
+          "size": "One size",
+          "color": "Black",
+          "stock_quantity": 1
+        }
+      ],
+      "attributes": {
+        "manufacturer_source_url": "https://bike.shimano.com/en-US/product/component.html",
+        "provenance_status": "Manufacturer catalogue reference; identity verified for demonstration",
+        "technical_specifications": "Not published in demo until verified from an authorised feed",
+        "price_status": "Illustrative demonstration price ($250.00) \u2014 not a retail price",
+        "variant_status": "Illustrative demonstration configuration",
+        "image_status": "No licensed image supplied; use storefront black placeholder"
+      },
+      "images": [],
+      "image_rights": "unknown"
+    },
+    {
+      "name": "DEMO \u00b7 Ultegra ST-R8170 Shift Brake Lever",
+      "sku": "DEMO-SHIMANO-07",
+      "price_cents": 25000,
+      "stock_quantity": 1,
+      "category_id": "components",
+      "subtype_id": "drivetrain-wheels",
+      "subtype_label": "Drivetrain Wheels",
+      "audiences": [
+        "unisex"
+      ],
+      "description": "Illustrative portfolio listing for the verified Shimano product identity \u2018Ultegra ST-R8170 Shift Brake Lever\u2019. This is not a live retail offer; price, stock, size and colour are demonstration values pending an authorised dealer feed.",
+      "variants": [
+        {
+          "sku": "DEMO-SHIMANO-07",
+          "size": "One size",
+          "color": "Black",
+          "stock_quantity": 1
+        }
+      ],
+      "attributes": {
+        "manufacturer_source_url": "https://bike.shimano.com/en-US/product/component.html",
+        "provenance_status": "Manufacturer catalogue reference; identity verified for demonstration",
+        "technical_specifications": "Not published in demo until verified from an authorised feed",
+        "price_status": "Illustrative demonstration price ($250.00) \u2014 not a retail price",
+        "variant_status": "Illustrative demonstration configuration",
+        "image_status": "No licensed image supplied; use storefront black placeholder"
+      },
+      "images": [],
+      "image_rights": "unknown"
+    },
+    {
+      "name": "DEMO \u00b7 105 FC-R7100 Crankset",
+      "sku": "DEMO-SHIMANO-08",
+      "price_cents": 25000,
+      "stock_quantity": 1,
+      "category_id": "components",
+      "subtype_id": "drivetrain-wheels",
+      "subtype_label": "Drivetrain Wheels",
+      "audiences": [
+        "unisex"
+      ],
+      "description": "Illustrative portfolio listing for the verified Shimano product identity \u2018105 FC-R7100 Crankset\u2019. This is not a live retail offer; price, stock, size and colour are demonstration values pending an authorised dealer feed.",
+      "variants": [
+        {
+          "sku": "DEMO-SHIMANO-08",
+          "size": "One size",
+          "color": "Black",
+          "stock_quantity": 1
+        }
+      ],
+      "attributes": {
+        "manufacturer_source_url": "https://bike.shimano.com/en-US/product/component.html",
+        "provenance_status": "Manufacturer catalogue reference; identity verified for demonstration",
+        "technical_specifications": "Not published in demo until verified from an authorised feed",
+        "price_status": "Illustrative demonstration price ($250.00) \u2014 not a retail price",
+        "variant_status": "Illustrative demonstration configuration",
+        "image_status": "No licensed image supplied; use storefront black placeholder"
+      },
+      "images": [],
+      "image_rights": "unknown"
+    },
+    {
+      "name": "DEMO \u00b7 105 RD-R7150 Rear Derailleur",
+      "sku": "DEMO-SHIMANO-09",
+      "price_cents": 25000,
+      "stock_quantity": 1,
+      "category_id": "components",
+      "subtype_id": "drivetrain-wheels",
+      "subtype_label": "Drivetrain Wheels",
+      "audiences": [
+        "unisex"
+      ],
+      "description": "Illustrative portfolio listing for the verified Shimano product identity \u2018105 RD-R7150 Rear Derailleur\u2019. This is not a live retail offer; price, stock, size and colour are demonstration values pending an authorised dealer feed.",
+      "variants": [
+        {
+          "sku": "DEMO-SHIMANO-09",
+          "size": "One size",
+          "color": "Black",
+          "stock_quantity": 1
+        }
+      ],
+      "attributes": {
+        "manufacturer_source_url": "https://bike.shimano.com/en-US/product/component.html",
+        "provenance_status": "Manufacturer catalogue reference; identity verified for demonstration",
+        "technical_specifications": "Not published in demo until verified from an authorised feed",
+        "price_status": "Illustrative demonstration price ($250.00) \u2014 not a retail price",
+        "variant_status": "Illustrative demonstration configuration",
+        "image_status": "No licensed image supplied; use storefront black placeholder"
+      },
+      "images": [],
+      "image_rights": "unknown"
+    },
+    {
+      "name": "DEMO \u00b7 105 ST-R7170 Shift Brake Lever",
+      "sku": "DEMO-SHIMANO-10",
+      "price_cents": 25000,
+      "stock_quantity": 1,
+      "category_id": "components",
+      "subtype_id": "drivetrain-wheels",
+      "subtype_label": "Drivetrain Wheels",
+      "audiences": [
+        "unisex"
+      ],
+      "description": "Illustrative portfolio listing for the verified Shimano product identity \u2018105 ST-R7170 Shift Brake Lever\u2019. This is not a live retail offer; price, stock, size and colour are demonstration values pending an authorised dealer feed.",
+      "variants": [
+        {
+          "sku": "DEMO-SHIMANO-10",
+          "size": "One size",
+          "color": "Black",
+          "stock_quantity": 1
+        }
+      ],
+      "attributes": {
+        "manufacturer_source_url": "https://bike.shimano.com/en-US/product/component.html",
+        "provenance_status": "Manufacturer catalogue reference; identity verified for demonstration",
+        "technical_specifications": "Not published in demo until verified from an authorised feed",
+        "price_status": "Illustrative demonstration price ($250.00) \u2014 not a retail price",
+        "variant_status": "Illustrative demonstration configuration",
+        "image_status": "No licensed image supplied; use storefront black placeholder"
+      },
+      "images": [],
+      "image_rights": "unknown"
+    },
+    {
+      "name": "DEMO \u00b7 GRX FC-RX820-1 Crankset",
+      "sku": "DEMO-SHIMANO-11",
+      "price_cents": 25000,
+      "stock_quantity": 1,
+      "category_id": "components",
+      "subtype_id": "drivetrain-wheels",
+      "subtype_label": "Drivetrain Wheels",
+      "audiences": [
+        "unisex"
+      ],
+      "description": "Illustrative portfolio listing for the verified Shimano product identity \u2018GRX FC-RX820-1 Crankset\u2019. This is not a live retail offer; price, stock, size and colour are demonstration values pending an authorised dealer feed.",
+      "variants": [
+        {
+          "sku": "DEMO-SHIMANO-11",
+          "size": "One size",
+          "color": "Black",
+          "stock_quantity": 1
+        }
+      ],
+      "attributes": {
+        "manufacturer_source_url": "https://bike.shimano.com/en-US/product/component.html",
+        "provenance_status": "Manufacturer catalogue reference; identity verified for demonstration",
+        "technical_specifications": "Not published in demo until verified from an authorised feed",
+        "price_status": "Illustrative demonstration price ($250.00) \u2014 not a retail price",
+        "variant_status": "Illustrative demonstration configuration",
+        "image_status": "No licensed image supplied; use storefront black placeholder"
+      },
+      "images": [],
+      "image_rights": "unknown"
+    },
+    {
+      "name": "DEMO \u00b7 GRX RD-RX822 Rear Derailleur",
+      "sku": "DEMO-SHIMANO-12",
+      "price_cents": 25000,
+      "stock_quantity": 1,
+      "category_id": "components",
+      "subtype_id": "drivetrain-wheels",
+      "subtype_label": "Drivetrain Wheels",
+      "audiences": [
+        "unisex"
+      ],
+      "description": "Illustrative portfolio listing for the verified Shimano product identity \u2018GRX RD-RX822 Rear Derailleur\u2019. This is not a live retail offer; price, stock, size and colour are demonstration values pending an authorised dealer feed.",
+      "variants": [
+        {
+          "sku": "DEMO-SHIMANO-12",
+          "size": "One size",
+          "color": "Black",
+          "stock_quantity": 1
+        }
+      ],
+      "attributes": {
+        "manufacturer_source_url": "https://bike.shimano.com/en-US/product/component.html",
+        "provenance_status": "Manufacturer catalogue reference; identity verified for demonstration",
+        "technical_specifications": "Not published in demo until verified from an authorised feed",
+        "price_status": "Illustrative demonstration price ($250.00) \u2014 not a retail price",
+        "variant_status": "Illustrative demonstration configuration",
+        "image_status": "No licensed image supplied; use storefront black placeholder"
+      },
+      "images": [],
+      "image_rights": "unknown"
+    },
+    {
+      "name": "DEMO \u00b7 GRX ST-RX820 Shift Brake Lever",
+      "sku": "DEMO-SHIMANO-13",
+      "price_cents": 25000,
+      "stock_quantity": 1,
+      "category_id": "components",
+      "subtype_id": "drivetrain-wheels",
+      "subtype_label": "Drivetrain Wheels",
+      "audiences": [
+        "unisex"
+      ],
+      "description": "Illustrative portfolio listing for the verified Shimano product identity \u2018GRX ST-RX820 Shift Brake Lever\u2019. This is not a live retail offer; price, stock, size and colour are demonstration values pending an authorised dealer feed.",
+      "variants": [
+        {
+          "sku": "DEMO-SHIMANO-13",
+          "size": "One size",
+          "color": "Black",
+          "stock_quantity": 1
+        }
+      ],
+      "attributes": {
+        "manufacturer_source_url": "https://bike.shimano.com/en-US/product/component.html",
+        "provenance_status": "Manufacturer catalogue reference; identity verified for demonstration",
+        "technical_specifications": "Not published in demo until verified from an authorised feed",
+        "price_status": "Illustrative demonstration price ($250.00) \u2014 not a retail price",
+        "variant_status": "Illustrative demonstration configuration",
+        "image_status": "No licensed image supplied; use storefront black placeholder"
+      },
+      "images": [],
+      "image_rights": "unknown"
+    },
+    {
+      "name": "DEMO \u00b7 Dura-Ace WH-R9270-C50 Wheelset",
+      "sku": "DEMO-SHIMANO-14",
+      "price_cents": 25000,
+      "stock_quantity": 1,
+      "category_id": "components",
+      "subtype_id": "drivetrain-wheels",
+      "subtype_label": "Drivetrain Wheels",
+      "audiences": [
+        "unisex"
+      ],
+      "description": "Illustrative portfolio listing for the verified Shimano product identity \u2018Dura-Ace WH-R9270-C50 Wheelset\u2019. This is not a live retail offer; price, stock, size and colour are demonstration values pending an authorised dealer feed.",
+      "variants": [
+        {
+          "sku": "DEMO-SHIMANO-14",
+          "size": "One size",
+          "color": "Black",
+          "stock_quantity": 1
+        }
+      ],
+      "attributes": {
+        "manufacturer_source_url": "https://bike.shimano.com/en-US/product/component.html",
+        "provenance_status": "Manufacturer catalogue reference; identity verified for demonstration",
+        "technical_specifications": "Not published in demo until verified from an authorised feed",
+        "price_status": "Illustrative demonstration price ($250.00) \u2014 not a retail price",
+        "variant_status": "Illustrative demonstration configuration",
+        "image_status": "No licensed image supplied; use storefront black placeholder"
+      },
+      "images": [],
+      "image_rights": "unknown"
+    },
+    {
+      "name": "DEMO \u00b7 Ultegra WH-R8170-C50 Wheelset",
+      "sku": "DEMO-SHIMANO-15",
+      "price_cents": 25000,
+      "stock_quantity": 1,
+      "category_id": "components",
+      "subtype_id": "drivetrain-wheels",
+      "subtype_label": "Drivetrain Wheels",
+      "audiences": [
+        "unisex"
+      ],
+      "description": "Illustrative portfolio listing for the verified Shimano product identity \u2018Ultegra WH-R8170-C50 Wheelset\u2019. This is not a live retail offer; price, stock, size and colour are demonstration values pending an authorised dealer feed.",
+      "variants": [
+        {
+          "sku": "DEMO-SHIMANO-15",
+          "size": "One size",
+          "color": "Black",
+          "stock_quantity": 1
+        }
+      ],
+      "attributes": {
+        "manufacturer_source_url": "https://bike.shimano.com/en-US/product/component.html",
+        "provenance_status": "Manufacturer catalogue reference; identity verified for demonstration",
+        "technical_specifications": "Not published in demo until verified from an authorised feed",
+        "price_status": "Illustrative demonstration price ($250.00) \u2014 not a retail price",
+        "variant_status": "Illustrative demonstration configuration",
+        "image_status": "No licensed image supplied; use storefront black placeholder"
+      },
+      "images": [],
+      "image_rights": "unknown"
+    }
+  ]
+}

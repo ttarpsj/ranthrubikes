@@ -1,0 +1,22 @@
+{
+  "name": "Product name",
+  "slug": "product-slug",
+  "brand": "Brand name",
+  "category_id": "clothing",
+  "subtype_id": "short-sleeve-jerseys",
+  "subtype_label": "Short Sleeve Jerseys",
+  "audiences": ["men"],
+  "tags": [],
+  "description": "A concise storefront description.",
+  "price_cents": 15000,
+  "compare_at_price_cents": null,
+  "active": true,
+  "featured_rank": null,
+  "stripe_checkout_url": null,
+  "images": [
+    {"file": "front.jpg", "alt_text": "Product name front view", "display_order": 0, "primary": true}
+  ],
+  "variants": [
+    {"sku": "BRAND-PRODUCT-BLK-S", "size": "S", "color": "Black", "stock_quantity": 8, "price_cents": null, "active": true}
+  ]
+}

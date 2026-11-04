@@ -1,0 +1,54 @@
+{
+  "tags": [
+    {"id": "new-arrivals", "label": "New Arrivals"},
+    {"id": "ran-thru-collection", "label": "Ran Thru Collection"}
+  ],
+  "top_level": [
+    {"id": "new-arrivals", "label": "New Arrivals", "kind": "tag"},
+    {"id": "ran-thru-collection", "label": "Ran Thru Collection", "kind": "tag"},
+    {"id": "clothing", "label": "Clothing", "kind": "category"},
+    {"id": "equipment", "label": "Equipment", "kind": "category"},
+    {"id": "components", "label": "Components", "kind": "category"},
+    {"id": "bikes-frames", "label": "Bikes & Frames", "kind": "category"},
+    {"id": "brands", "label": "Brands", "kind": "brand"},
+    {"id": "sale", "label": "Sale", "kind": "sale"}
+  ],
+  "audiences": [
+    {"id": "men", "label": "Men"},
+    {"id": "women", "label": "Women"},
+    {"id": "unisex", "label": "Unisex"}
+  ],
+  "clothing": {
+    "men": [
+      {"id": "short-sleeve-jerseys", "label": "Short Sleeve Jerseys"},
+      {"id": "long-sleeve-jerseys", "label": "Long Sleeve Jerseys"},
+      {"id": "bibshorts", "label": "Bibshorts"},
+      {"id": "gilets", "label": "Gilets"},
+      {"id": "baselayers", "label": "Baselayers"},
+      {"id": "jackets", "label": "Jackets"},
+      {"id": "winter-tights", "label": "Winter Tights"},
+      {"id": "skinsuits", "label": "Skinsuits"}
+    ],
+    "women": [
+      {"id": "short-sleeve-jerseys", "label": "Short Sleeve Jerseys"},
+      {"id": "long-sleeve-jerseys", "label": "Long Sleeve Jerseys"},
+      {"id": "bibshorts", "label": "Bibshorts"},
+      {"id": "gilets", "label": "Gilets"},
+      {"id": "baselayers", "label": "Baselayers"},
+      {"id": "jackets", "label": "Jackets"},
+      {"id": "winter-tights", "label": "Winter Tights"},
+      {"id": "skinsuits", "label": "Skinsuits"}
+    ],
+    "lifestyle": [
+      {"id": "t-shirts", "label": "T-Shirts"},
+      {"id": "sweaters", "label": "Sweaters"},
+      {"id": "casual-wear", "label": "Casual Wear"}
+    ],
+    "accessories": [
+      {"id": "gloves", "label": "Gloves"},
+      {"id": "socks", "label": "Socks"},
+      {"id": "warmers", "label": "Warmers"},
+      {"id": "overshoes", "label": "Overshoes"}
+    ]
+  }
+}

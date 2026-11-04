@@ -1,0 +1,139 @@
+.story-page {
+    background: #f5f4f0;
+    color: #1e1e1c;
+}
+
+.story-page .story-nav {
+    position: relative;
+    inset: auto;
+    z-index: 1;
+    height: 92px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 0 5vw;
+    color: #1e1e1c;
+    background: #f5f4f0;
+    border-bottom: 1px solid #d1d0ca;
+    box-shadow: none;
+}
+
+.story-page .story-nav .logo { color: #1e1e1c; }
+.story-page .story-nav a:last-child,
+.story-page .story-back,
+.story-page .kit { font: 10px 'DM Mono'; letter-spacing: .04em; }
+
+.story-page .story {
+    padding: 48px 5vw 130px;
+}
+
+.story-page .story-back {
+    display: block;
+    width: min(1200px, 100%);
+    margin: 0 auto 28px;
+}
+
+.story-page .story-intro {
+    width: min(1200px, 100%);
+    margin: 0 auto 40px;
+}
+
+.story-page .story-intro .eyebrow {
+    margin: 0;
+    color: #666861;
+}
+
+.story-page .story-intro h1 {
+    max-width: 850px;
+    margin: 14px 0 0;
+    font-size: clamp(3rem, 5vw, 4rem);
+    font-weight: 600;
+    line-height: 1.1;
+    letter-spacing: -.055em;
+}
+
+.story-page .story-hero {
+    display: block;
+    width: min(1280px, 100%);
+    aspect-ratio: 16 / 7;
+    height: clamp(180px, 43.75vw, 560px);
+    margin: 0 auto;
+    object-fit: cover;
+    object-position: center;
+}
+
+.story-page .story-copy {
+    max-width: 740px;
+    margin: 72px auto 0;
+    font-size: 18px;
+    line-height: 1.72;
+}
+
+.story-page .story-copy p { margin: 0 0 28px; }
+
+.story-page .story-copy h2 {
+    margin: 72px 0 24px;
+    font-size: clamp(1.85rem, 3vw, 2.7rem);
+    font-weight: 600;
+    line-height: 1.1;
+    letter-spacing: -.05em;
+}
+
+.story-page .story-copy > img {
+    display: block;
+    width: 100%;
+    height: auto;
+    margin: 48px auto;
+    object-fit: cover;
+}
+
+.story-page .kit {
+    margin: 40px 0 64px;
+    overflow: hidden;
+    background: #ebeae5;
+    border: 1px solid #d8d7d1;
+    border-radius: 0;
+}
+
+.story-page .kit header,
+.story-page .kit > div {
+    position: static;
+    display: grid;
+    grid-template-columns: 30% minmax(0, 1fr);
+    gap: 18px;
+    height: auto;
+    padding: 14px 16px;
+    color: inherit;
+    background: transparent;
+    border-bottom: 1px solid #d4d3cd;
+}
+
+.story-page .kit header { font-size: 10px; }
+.story-page .kit header span { text-align: right; }
+.story-page .kit > div:last-child { border-bottom: 0; }
+.story-page .kit strong { font-size: 10px; color: #777a73; }
+.story-page .kit p { display: flex; flex-wrap: wrap; gap: 7px; margin: 0; }
+.story-page .kit p a { padding: 4px 7px; border: 1px solid #aaa9a3; border-radius: 2px; font-size: 9px; line-height: 1; text-decoration: none; }
+.story-page .kit p a:hover { text-decoration: underline; }
+
+@media (max-width: 800px) {
+    .story-page .story { padding: 36px 5vw 90px; }
+    .story-page .story-intro { margin-bottom: 32px; }
+    .story-page .story-intro h1 { font-size: clamp(2.35rem, 7vw, 3.1rem); }
+    .story-page .story-copy { margin-top: 60px; font-size: 17px; }
+}
+
+@media (max-width: 600px) {
+    .story-page .story-nav { height: 74px; padding: 0 20px; }
+    .story-page .story { padding: 30px 20px 75px; }
+    .story-page .story-back { margin-bottom: 24px; }
+    .story-page .story-intro { margin-bottom: 32px; }
+    .story-page .story-intro h1 { font-size: clamp(1.9rem, 9vw, 2.35rem); line-height: 1.12; }
+    .story-page .story-hero { aspect-ratio: 16 / 8; height: clamp(180px, 50vw, 280px); }
+    .story-page .story-copy { margin-top: 48px; font-size: 16px; line-height: 1.7; }
+    .story-page .story-copy h2 { margin-top: 56px; }
+    .story-page .story-copy > img { margin: 40px auto; }
+    .story-page .kit header,
+    .story-page .kit > div { grid-template-columns: 1fr; gap: 9px; padding: 13px; }
+    .story-page .kit header span { text-align: left; }
+}

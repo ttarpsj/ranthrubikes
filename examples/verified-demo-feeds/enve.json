@@ -1,0 +1,469 @@
+{
+  "products": [
+    {
+      "name": "DEMO \u00b7 SES 2.3 Wheelset",
+      "sku": "DEMO-ENVE-01",
+      "price_cents": 25000,
+      "stock_quantity": 1,
+      "category_id": "components",
+      "subtype_id": "drivetrain-wheels",
+      "subtype_label": "Drivetrain Wheels",
+      "audiences": [
+        "unisex"
+      ],
+      "description": "Illustrative portfolio listing for the verified ENVE product identity \u2018SES 2.3 Wheelset\u2019. This is not a live retail offer; price, stock, size and colour are demonstration values pending an authorised dealer feed.",
+      "variants": [
+        {
+          "sku": "DEMO-ENVE-01",
+          "size": "One size",
+          "color": "Black",
+          "stock_quantity": 1
+        }
+      ],
+      "attributes": {
+        "manufacturer_source_url": "https://enve.com/collections/wheels",
+        "provenance_status": "Manufacturer catalogue reference; identity verified for demonstration",
+        "technical_specifications": "Not published in demo until verified from an authorised feed",
+        "price_status": "Illustrative demonstration price ($250.00) \u2014 not a retail price",
+        "variant_status": "Illustrative demonstration configuration",
+        "image_status": "No licensed image supplied; use storefront black placeholder"
+      },
+      "images": [],
+      "image_rights": "unknown"
+    },
+    {
+      "name": "DEMO \u00b7 SES 3.4 Wheelset",
+      "sku": "DEMO-ENVE-02",
+      "price_cents": 25000,
+      "stock_quantity": 1,
+      "category_id": "components",
+      "subtype_id": "drivetrain-wheels",
+      "subtype_label": "Drivetrain Wheels",
+      "audiences": [
+        "unisex"
+      ],
+      "description": "Illustrative portfolio listing for the verified ENVE product identity \u2018SES 3.4 Wheelset\u2019. This is not a live retail offer; price, stock, size and colour are demonstration values pending an authorised dealer feed.",
+      "variants": [
+        {
+          "sku": "DEMO-ENVE-02",
+          "size": "One size",
+          "color": "Black",
+          "stock_quantity": 1
+        }
+      ],
+      "attributes": {
+        "manufacturer_source_url": "https://enve.com/collections/wheels",
+        "provenance_status": "Manufacturer catalogue reference; identity verified for demonstration",
+        "technical_specifications": "Not published in demo until verified from an authorised feed",
+        "price_status": "Illustrative demonstration price ($250.00) \u2014 not a retail price",
+        "variant_status": "Illustrative demonstration configuration",
+        "image_status": "No licensed image supplied; use storefront black placeholder"
+      },
+      "images": [],
+      "image_rights": "unknown"
+    },
+    {
+      "name": "DEMO \u00b7 SES 4.5 Wheelset",
+      "sku": "DEMO-ENVE-03",
+      "price_cents": 25000,
+      "stock_quantity": 1,
+      "category_id": "components",
+      "subtype_id": "drivetrain-wheels",
+      "subtype_label": "Drivetrain Wheels",
+      "audiences": [
+        "unisex"
+      ],
+      "description": "Illustrative portfolio listing for the verified ENVE product identity \u2018SES 4.5 Wheelset\u2019. This is not a live retail offer; price, stock, size and colour are demonstration values pending an authorised dealer feed.",
+      "variants": [
+        {
+          "sku": "DEMO-ENVE-03",
+          "size": "One size",
+          "color": "Black",
+          "stock_quantity": 1
+        }
+      ],
+      "attributes": {
+        "manufacturer_source_url": "https://enve.com/collections/wheels",
+        "provenance_status": "Manufacturer catalogue reference; identity verified for demonstration",
+        "technical_specifications": "Not published in demo until verified from an authorised feed",
+        "price_status": "Illustrative demonstration price ($250.00) \u2014 not a retail price",
+        "variant_status": "Illustrative demonstration configuration",
+        "image_status": "No licensed image supplied; use storefront black placeholder"
+      },
+      "images": [],
+      "image_rights": "unknown"
+    },
+    {
+      "name": "DEMO \u00b7 SES 6.7 Wheelset",
+      "sku": "DEMO-ENVE-04",
+      "price_cents": 25000,
+      "stock_quantity": 1,
+      "category_id": "components",
+      "subtype_id": "drivetrain-wheels",
+      "subtype_label": "Drivetrain Wheels",
+      "audiences": [
+        "unisex"
+      ],
+      "description": "Illustrative portfolio listing for the verified ENVE product identity \u2018SES 6.7 Wheelset\u2019. This is not a live retail offer; price, stock, size and colour are demonstration values pending an authorised dealer feed.",
+      "variants": [
+        {
+          "sku": "DEMO-ENVE-04",
+          "size": "One size",
+          "color": "Black",
+          "stock_quantity": 1
+        }
+      ],
+      "attributes": {
+        "manufacturer_source_url": "https://enve.com/collections/wheels",
+        "provenance_status": "Manufacturer catalogue reference; identity verified for demonstration",
+        "technical_specifications": "Not published in demo until verified from an authorised feed",
+        "price_status": "Illustrative demonstration price ($250.00) \u2014 not a retail price",
+        "variant_status": "Illustrative demonstration configuration",
+        "image_status": "No licensed image supplied; use storefront black placeholder"
+      },
+      "images": [],
+      "image_rights": "unknown"
+    },
+    {
+      "name": "DEMO \u00b7 SES 4.5 Pro Wheelset",
+      "sku": "DEMO-ENVE-05",
+      "price_cents": 25000,
+      "stock_quantity": 1,
+      "category_id": "components",
+      "subtype_id": "drivetrain-wheels",
+      "subtype_label": "Drivetrain Wheels",
+      "audiences": [
+        "unisex"
+      ],
+      "description": "Illustrative portfolio listing for the verified ENVE product identity \u2018SES 4.5 Pro Wheelset\u2019. This is not a live retail offer; price, stock, size and colour are demonstration values pending an authorised dealer feed.",
+      "variants": [
+        {
+          "sku": "DEMO-ENVE-05",
+          "size": "One size",
+          "color": "Black",
+          "stock_quantity": 1
+        }
+      ],
+      "attributes": {
+        "manufacturer_source_url": "https://enve.com/collections/wheels",
+        "provenance_status": "Manufacturer catalogue reference; identity verified for demonstration",
+        "technical_specifications": "Not published in demo until verified from an authorised feed",
+        "price_status": "Illustrative demonstration price ($250.00) \u2014 not a retail price",
+        "variant_status": "Illustrative demonstration configuration",
+        "image_status": "No licensed image supplied; use storefront black placeholder"
+      },
+      "images": [],
+      "image_rights": "unknown"
+    },
+    {
+      "name": "DEMO \u00b7 G23 Wheelset",
+      "sku": "DEMO-ENVE-06",
+      "price_cents": 25000,
+      "stock_quantity": 1,
+      "category_id": "components",
+      "subtype_id": "drivetrain-wheels",
+      "subtype_label": "Drivetrain Wheels",
+      "audiences": [
+        "unisex"
+      ],
+      "description": "Illustrative portfolio listing for the verified ENVE product identity \u2018G23 Wheelset\u2019. This is not a live retail offer; price, stock, size and colour are demonstration values pending an authorised dealer feed.",
+      "variants": [
+        {
+          "sku": "DEMO-ENVE-06",
+          "size": "One size",
+          "color": "Black",
+          "stock_quantity": 1
+        }
+      ],
+      "attributes": {
+        "manufacturer_source_url": "https://enve.com/collections/wheels",
+        "provenance_status": "Manufacturer catalogue reference; identity verified for demonstration",
+        "technical_specifications": "Not published in demo until verified from an authorised feed",
+        "price_status": "Illustrative demonstration price ($250.00) \u2014 not a retail price",
+        "variant_status": "Illustrative demonstration configuration",
+        "image_status": "No licensed image supplied; use storefront black placeholder"
+      },
+      "images": [],
+      "image_rights": "unknown"
+    },
+    {
+      "name": "DEMO \u00b7 G27 Wheelset",
+      "sku": "DEMO-ENVE-07",
+      "price_cents": 25000,
+      "stock_quantity": 1,
+      "category_id": "components",
+      "subtype_id": "drivetrain-wheels",
+      "subtype_label": "Drivetrain Wheels",
+      "audiences": [
+        "unisex"
+      ],
+      "description": "Illustrative portfolio listing for the verified ENVE product identity \u2018G27 Wheelset\u2019. This is not a live retail offer; price, stock, size and colour are demonstration values pending an authorised dealer feed.",
+      "variants": [
+        {
+          "sku": "DEMO-ENVE-07",
+          "size": "One size",
+          "color": "Black",
+          "stock_quantity": 1
+        }
+      ],
+      "attributes": {
+        "manufacturer_source_url": "https://enve.com/collections/wheels",
+        "provenance_status": "Manufacturer catalogue reference; identity verified for demonstration",
+        "technical_specifications": "Not published in demo until verified from an authorised feed",
+        "price_status": "Illustrative demonstration price ($250.00) \u2014 not a retail price",
+        "variant_status": "Illustrative demonstration configuration",
+        "image_status": "No licensed image supplied; use storefront black placeholder"
+      },
+      "images": [],
+      "image_rights": "unknown"
+    },
+    {
+      "name": "DEMO \u00b7 G30 Wheelset",
+      "sku": "DEMO-ENVE-08",
+      "price_cents": 25000,
+      "stock_quantity": 1,
+      "category_id": "components",
+      "subtype_id": "drivetrain-wheels",
+      "subtype_label": "Drivetrain Wheels",
+      "audiences": [
+        "unisex"
+      ],
+      "description": "Illustrative portfolio listing for the verified ENVE product identity \u2018G30 Wheelset\u2019. This is not a live retail offer; price, stock, size and colour are demonstration values pending an authorised dealer feed.",
+      "variants": [
+        {
+          "sku": "DEMO-ENVE-08",
+          "size": "One size",
+          "color": "Black",
+          "stock_quantity": 1
+        }
+      ],
+      "attributes": {
+        "manufacturer_source_url": "https://enve.com/collections/wheels",
+        "provenance_status": "Manufacturer catalogue reference; identity verified for demonstration",
+        "technical_specifications": "Not published in demo until verified from an authorised feed",
+        "price_status": "Illustrative demonstration price ($250.00) \u2014 not a retail price",
+        "variant_status": "Illustrative demonstration configuration",
+        "image_status": "No licensed image supplied; use storefront black placeholder"
+      },
+      "images": [],
+      "image_rights": "unknown"
+    },
+    {
+      "name": "DEMO \u00b7 AG25 Wheelset",
+      "sku": "DEMO-ENVE-09",
+      "price_cents": 25000,
+      "stock_quantity": 1,
+      "category_id": "components",
+      "subtype_id": "drivetrain-wheels",
+      "subtype_label": "Drivetrain Wheels",
+      "audiences": [
+        "unisex"
+      ],
+      "description": "Illustrative portfolio listing for the verified ENVE product identity \u2018AG25 Wheelset\u2019. This is not a live retail offer; price, stock, size and colour are demonstration values pending an authorised dealer feed.",
+      "variants": [
+        {
+          "sku": "DEMO-ENVE-09",
+          "size": "One size",
+          "color": "Black",
+          "stock_quantity": 1
+        }
+      ],
+      "attributes": {
+        "manufacturer_source_url": "https://enve.com/collections/wheels",
+        "provenance_status": "Manufacturer catalogue reference; identity verified for demonstration",
+        "technical_specifications": "Not published in demo until verified from an authorised feed",
+        "price_status": "Illustrative demonstration price ($250.00) \u2014 not a retail price",
+        "variant_status": "Illustrative demonstration configuration",
+        "image_status": "No licensed image supplied; use storefront black placeholder"
+      },
+      "images": [],
+      "image_rights": "unknown"
+    },
+    {
+      "name": "DEMO \u00b7 M5 Wheelset",
+      "sku": "DEMO-ENVE-10",
+      "price_cents": 25000,
+      "stock_quantity": 1,
+      "category_id": "components",
+      "subtype_id": "drivetrain-wheels",
+      "subtype_label": "Drivetrain Wheels",
+      "audiences": [
+        "unisex"
+      ],
+      "description": "Illustrative portfolio listing for the verified ENVE product identity \u2018M5 Wheelset\u2019. This is not a live retail offer; price, stock, size and colour are demonstration values pending an authorised dealer feed.",
+      "variants": [
+        {
+          "sku": "DEMO-ENVE-10",
+          "size": "One size",
+          "color": "Black",
+          "stock_quantity": 1
+        }
+      ],
+      "attributes": {
+        "manufacturer_source_url": "https://enve.com/collections/wheels",
+        "provenance_status": "Manufacturer catalogue reference; identity verified for demonstration",
+        "technical_specifications": "Not published in demo until verified from an authorised feed",
+        "price_status": "Illustrative demonstration price ($250.00) \u2014 not a retail price",
+        "variant_status": "Illustrative demonstration configuration",
+        "image_status": "No licensed image supplied; use storefront black placeholder"
+      },
+      "images": [],
+      "image_rights": "unknown"
+    },
+    {
+      "name": "DEMO \u00b7 M6 Wheelset",
+      "sku": "DEMO-ENVE-11",
+      "price_cents": 25000,
+      "stock_quantity": 1,
+      "category_id": "components",
+      "subtype_id": "drivetrain-wheels",
+      "subtype_label": "Drivetrain Wheels",
+      "audiences": [
+        "unisex"
+      ],
+      "description": "Illustrative portfolio listing for the verified ENVE product identity \u2018M6 Wheelset\u2019. This is not a live retail offer; price, stock, size and colour are demonstration values pending an authorised dealer feed.",
+      "variants": [
+        {
+          "sku": "DEMO-ENVE-11",
+          "size": "One size",
+          "color": "Black",
+          "stock_quantity": 1
+        }
+      ],
+      "attributes": {
+        "manufacturer_source_url": "https://enve.com/collections/wheels",
+        "provenance_status": "Manufacturer catalogue reference; identity verified for demonstration",
+        "technical_specifications": "Not published in demo until verified from an authorised feed",
+        "price_status": "Illustrative demonstration price ($250.00) \u2014 not a retail price",
+        "variant_status": "Illustrative demonstration configuration",
+        "image_status": "No licensed image supplied; use storefront black placeholder"
+      },
+      "images": [],
+      "image_rights": "unknown"
+    },
+    {
+      "name": "DEMO \u00b7 Foundation 45 Wheelset",
+      "sku": "DEMO-ENVE-12",
+      "price_cents": 25000,
+      "stock_quantity": 1,
+      "category_id": "components",
+      "subtype_id": "drivetrain-wheels",
+      "subtype_label": "Drivetrain Wheels",
+      "audiences": [
+        "unisex"
+      ],
+      "description": "Illustrative portfolio listing for the verified ENVE product identity \u2018Foundation 45 Wheelset\u2019. This is not a live retail offer; price, stock, size and colour are demonstration values pending an authorised dealer feed.",
+      "variants": [
+        {
+          "sku": "DEMO-ENVE-12",
+          "size": "One size",
+          "color": "Black",
+          "stock_quantity": 1
+        }
+      ],
+      "attributes": {
+        "manufacturer_source_url": "https://enve.com/collections/wheels",
+        "provenance_status": "Manufacturer catalogue reference; identity verified for demonstration",
+        "technical_specifications": "Not published in demo until verified from an authorised feed",
+        "price_status": "Illustrative demonstration price ($250.00) \u2014 not a retail price",
+        "variant_status": "Illustrative demonstration configuration",
+        "image_status": "No licensed image supplied; use storefront black placeholder"
+      },
+      "images": [],
+      "image_rights": "unknown"
+    },
+    {
+      "name": "DEMO \u00b7 Foundation 65 Wheelset",
+      "sku": "DEMO-ENVE-13",
+      "price_cents": 25000,
+      "stock_quantity": 1,
+      "category_id": "components",
+      "subtype_id": "drivetrain-wheels",
+      "subtype_label": "Drivetrain Wheels",
+      "audiences": [
+        "unisex"
+      ],
+      "description": "Illustrative portfolio listing for the verified ENVE product identity \u2018Foundation 65 Wheelset\u2019. This is not a live retail offer; price, stock, size and colour are demonstration values pending an authorised dealer feed.",
+      "variants": [
+        {
+          "sku": "DEMO-ENVE-13",
+          "size": "One size",
+          "color": "Black",
+          "stock_quantity": 1
+        }
+      ],
+      "attributes": {
+        "manufacturer_source_url": "https://enve.com/collections/wheels",
+        "provenance_status": "Manufacturer catalogue reference; identity verified for demonstration",
+        "technical_specifications": "Not published in demo until verified from an authorised feed",
+        "price_status": "Illustrative demonstration price ($250.00) \u2014 not a retail price",
+        "variant_status": "Illustrative demonstration configuration",
+        "image_status": "No licensed image supplied; use storefront black placeholder"
+      },
+      "images": [],
+      "image_rights": "unknown"
+    },
+    {
+      "name": "DEMO \u00b7 Road Stem",
+      "sku": "DEMO-ENVE-14",
+      "price_cents": 25000,
+      "stock_quantity": 1,
+      "category_id": "components",
+      "subtype_id": "drivetrain-wheels",
+      "subtype_label": "Drivetrain Wheels",
+      "audiences": [
+        "unisex"
+      ],
+      "description": "Illustrative portfolio listing for the verified ENVE product identity \u2018Road Stem\u2019. This is not a live retail offer; price, stock, size and colour are demonstration values pending an authorised dealer feed.",
+      "variants": [
+        {
+          "sku": "DEMO-ENVE-14",
+          "size": "One size",
+          "color": "Black",
+          "stock_quantity": 1
+        }
+      ],
+      "attributes": {
+        "manufacturer_source_url": "https://enve.com/collections/wheels",
+        "provenance_status": "Manufacturer catalogue reference; identity verified for demonstration",
+        "technical_specifications": "Not published in demo until verified from an authorised feed",
+        "price_status": "Illustrative demonstration price ($250.00) \u2014 not a retail price",
+        "variant_status": "Illustrative demonstration configuration",
+        "image_status": "No licensed image supplied; use storefront black placeholder"
+      },
+      "images": [],
+      "image_rights": "unknown"
+    },
+    {
+      "name": "DEMO \u00b7 SES Aero Road Handlebar",
+      "sku": "DEMO-ENVE-15",
+      "price_cents": 25000,
+      "stock_quantity": 1,
+      "category_id": "components",
+      "subtype_id": "drivetrain-wheels",
+      "subtype_label": "Drivetrain Wheels",
+      "audiences": [
+        "unisex"
+      ],
+      "description": "Illustrative portfolio listing for the verified ENVE product identity \u2018SES Aero Road Handlebar\u2019. This is not a live retail offer; price, stock, size and colour are demonstration values pending an authorised dealer feed.",
+      "variants": [
+        {
+          "sku": "DEMO-ENVE-15",
+          "size": "One size",
+          "color": "Black",
+          "stock_quantity": 1
+        }
+      ],
+      "attributes": {
+        "manufacturer_source_url": "https://enve.com/collections/wheels",
+        "provenance_status": "Manufacturer catalogue reference; identity verified for demonstration",
+        "technical_specifications": "Not published in demo until verified from an authorised feed",
+        "price_status": "Illustrative demonstration price ($250.00) \u2014 not a retail price",
+        "variant_status": "Illustrative demonstration configuration",
+        "image_status": "No licensed image supplied; use storefront black placeholder"
+      },
+      "images": [],
+      "image_rights": "unknown"
+    }
+  ]
+}

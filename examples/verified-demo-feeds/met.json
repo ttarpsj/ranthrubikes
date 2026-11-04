@@ -1,0 +1,469 @@
+{
+  "products": [
+    {
+      "name": "DEMO \u00b7 Trenta 3K Carbon",
+      "sku": "DEMO-MET-01",
+      "price_cents": 20000,
+      "stock_quantity": 1,
+      "category_id": "equipment",
+      "subtype_id": "helmets",
+      "subtype_label": "Helmets",
+      "audiences": [
+        "unisex"
+      ],
+      "description": "Illustrative portfolio listing for the verified MET product identity \u2018Trenta 3K Carbon\u2019. This is not a live retail offer; price, stock, size and colour are demonstration values pending an authorised dealer feed.",
+      "variants": [
+        {
+          "sku": "DEMO-MET-01",
+          "size": "M",
+          "color": "Matte Black",
+          "stock_quantity": 1
+        }
+      ],
+      "attributes": {
+        "manufacturer_source_url": "https://www.met-helmets.com/en/shop/cycling-helmets/",
+        "provenance_status": "Manufacturer catalogue reference; identity verified for demonstration",
+        "technical_specifications": "Not published in demo until verified from an authorised feed",
+        "price_status": "Illustrative demonstration price ($200.00) \u2014 not a retail price",
+        "variant_status": "Illustrative demonstration configuration",
+        "image_status": "No licensed image supplied; use storefront black placeholder"
+      },
+      "images": [],
+      "image_rights": "unknown"
+    },
+    {
+      "name": "DEMO \u00b7 Trenta",
+      "sku": "DEMO-MET-02",
+      "price_cents": 20000,
+      "stock_quantity": 1,
+      "category_id": "equipment",
+      "subtype_id": "helmets",
+      "subtype_label": "Helmets",
+      "audiences": [
+        "unisex"
+      ],
+      "description": "Illustrative portfolio listing for the verified MET product identity \u2018Trenta\u2019. This is not a live retail offer; price, stock, size and colour are demonstration values pending an authorised dealer feed.",
+      "variants": [
+        {
+          "sku": "DEMO-MET-02",
+          "size": "M",
+          "color": "Matte Black",
+          "stock_quantity": 1
+        }
+      ],
+      "attributes": {
+        "manufacturer_source_url": "https://www.met-helmets.com/en/shop/cycling-helmets/",
+        "provenance_status": "Manufacturer catalogue reference; identity verified for demonstration",
+        "technical_specifications": "Not published in demo until verified from an authorised feed",
+        "price_status": "Illustrative demonstration price ($200.00) \u2014 not a retail price",
+        "variant_status": "Illustrative demonstration configuration",
+        "image_status": "No licensed image supplied; use storefront black placeholder"
+      },
+      "images": [],
+      "image_rights": "unknown"
+    },
+    {
+      "name": "DEMO \u00b7 Manta MIPS",
+      "sku": "DEMO-MET-03",
+      "price_cents": 20000,
+      "stock_quantity": 1,
+      "category_id": "equipment",
+      "subtype_id": "helmets",
+      "subtype_label": "Helmets",
+      "audiences": [
+        "unisex"
+      ],
+      "description": "Illustrative portfolio listing for the verified MET product identity \u2018Manta MIPS\u2019. This is not a live retail offer; price, stock, size and colour are demonstration values pending an authorised dealer feed.",
+      "variants": [
+        {
+          "sku": "DEMO-MET-03",
+          "size": "M",
+          "color": "Matte Black",
+          "stock_quantity": 1
+        }
+      ],
+      "attributes": {
+        "manufacturer_source_url": "https://www.met-helmets.com/en/shop/cycling-helmets/",
+        "provenance_status": "Manufacturer catalogue reference; identity verified for demonstration",
+        "technical_specifications": "Not published in demo until verified from an authorised feed",
+        "price_status": "Illustrative demonstration price ($200.00) \u2014 not a retail price",
+        "variant_status": "Illustrative demonstration configuration",
+        "image_status": "No licensed image supplied; use storefront black placeholder"
+      },
+      "images": [],
+      "image_rights": "unknown"
+    },
+    {
+      "name": "DEMO \u00b7 Rivale MIPS",
+      "sku": "DEMO-MET-04",
+      "price_cents": 20000,
+      "stock_quantity": 1,
+      "category_id": "equipment",
+      "subtype_id": "helmets",
+      "subtype_label": "Helmets",
+      "audiences": [
+        "unisex"
+      ],
+      "description": "Illustrative portfolio listing for the verified MET product identity \u2018Rivale MIPS\u2019. This is not a live retail offer; price, stock, size and colour are demonstration values pending an authorised dealer feed.",
+      "variants": [
+        {
+          "sku": "DEMO-MET-04",
+          "size": "M",
+          "color": "Matte Black",
+          "stock_quantity": 1
+        }
+      ],
+      "attributes": {
+        "manufacturer_source_url": "https://www.met-helmets.com/en/shop/cycling-helmets/",
+        "provenance_status": "Manufacturer catalogue reference; identity verified for demonstration",
+        "technical_specifications": "Not published in demo until verified from an authorised feed",
+        "price_status": "Illustrative demonstration price ($200.00) \u2014 not a retail price",
+        "variant_status": "Illustrative demonstration configuration",
+        "image_status": "No licensed image supplied; use storefront black placeholder"
+      },
+      "images": [],
+      "image_rights": "unknown"
+    },
+    {
+      "name": "DEMO \u00b7 Estro MIPS",
+      "sku": "DEMO-MET-05",
+      "price_cents": 20000,
+      "stock_quantity": 1,
+      "category_id": "equipment",
+      "subtype_id": "helmets",
+      "subtype_label": "Helmets",
+      "audiences": [
+        "unisex"
+      ],
+      "description": "Illustrative portfolio listing for the verified MET product identity \u2018Estro MIPS\u2019. This is not a live retail offer; price, stock, size and colour are demonstration values pending an authorised dealer feed.",
+      "variants": [
+        {
+          "sku": "DEMO-MET-05",
+          "size": "M",
+          "color": "Matte Black",
+          "stock_quantity": 1
+        }
+      ],
+      "attributes": {
+        "manufacturer_source_url": "https://www.met-helmets.com/en/shop/cycling-helmets/",
+        "provenance_status": "Manufacturer catalogue reference; identity verified for demonstration",
+        "technical_specifications": "Not published in demo until verified from an authorised feed",
+        "price_status": "Illustrative demonstration price ($200.00) \u2014 not a retail price",
+        "variant_status": "Illustrative demonstration configuration",
+        "image_status": "No licensed image supplied; use storefront black placeholder"
+      },
+      "images": [],
+      "image_rights": "unknown"
+    },
+    {
+      "name": "DEMO \u00b7 Vinci MIPS",
+      "sku": "DEMO-MET-06",
+      "price_cents": 20000,
+      "stock_quantity": 1,
+      "category_id": "equipment",
+      "subtype_id": "helmets",
+      "subtype_label": "Helmets",
+      "audiences": [
+        "unisex"
+      ],
+      "description": "Illustrative portfolio listing for the verified MET product identity \u2018Vinci MIPS\u2019. This is not a live retail offer; price, stock, size and colour are demonstration values pending an authorised dealer feed.",
+      "variants": [
+        {
+          "sku": "DEMO-MET-06",
+          "size": "M",
+          "color": "Matte Black",
+          "stock_quantity": 1
+        }
+      ],
+      "attributes": {
+        "manufacturer_source_url": "https://www.met-helmets.com/en/shop/cycling-helmets/",
+        "provenance_status": "Manufacturer catalogue reference; identity verified for demonstration",
+        "technical_specifications": "Not published in demo until verified from an authorised feed",
+        "price_status": "Illustrative demonstration price ($200.00) \u2014 not a retail price",
+        "variant_status": "Illustrative demonstration configuration",
+        "image_status": "No licensed image supplied; use storefront black placeholder"
+      },
+      "images": [],
+      "image_rights": "unknown"
+    },
+    {
+      "name": "DEMO \u00b7 Miles MIPS",
+      "sku": "DEMO-MET-07",
+      "price_cents": 20000,
+      "stock_quantity": 1,
+      "category_id": "equipment",
+      "subtype_id": "helmets",
+      "subtype_label": "Helmets",
+      "audiences": [
+        "unisex"
+      ],
+      "description": "Illustrative portfolio listing for the verified MET product identity \u2018Miles MIPS\u2019. This is not a live retail offer; price, stock, size and colour are demonstration values pending an authorised dealer feed.",
+      "variants": [
+        {
+          "sku": "DEMO-MET-07",
+          "size": "M",
+          "color": "Matte Black",
+          "stock_quantity": 1
+        }
+      ],
+      "attributes": {
+        "manufacturer_source_url": "https://www.met-helmets.com/en/shop/cycling-helmets/",
+        "provenance_status": "Manufacturer catalogue reference; identity verified for demonstration",
+        "technical_specifications": "Not published in demo until verified from an authorised feed",
+        "price_status": "Illustrative demonstration price ($200.00) \u2014 not a retail price",
+        "variant_status": "Illustrative demonstration configuration",
+        "image_status": "No licensed image supplied; use storefront black placeholder"
+      },
+      "images": [],
+      "image_rights": "unknown"
+    },
+    {
+      "name": "DEMO \u00b7 Allroad MIPS",
+      "sku": "DEMO-MET-08",
+      "price_cents": 20000,
+      "stock_quantity": 1,
+      "category_id": "equipment",
+      "subtype_id": "helmets",
+      "subtype_label": "Helmets",
+      "audiences": [
+        "unisex"
+      ],
+      "description": "Illustrative portfolio listing for the verified MET product identity \u2018Allroad MIPS\u2019. This is not a live retail offer; price, stock, size and colour are demonstration values pending an authorised dealer feed.",
+      "variants": [
+        {
+          "sku": "DEMO-MET-08",
+          "size": "M",
+          "color": "Matte Black",
+          "stock_quantity": 1
+        }
+      ],
+      "attributes": {
+        "manufacturer_source_url": "https://www.met-helmets.com/en/shop/cycling-helmets/",
+        "provenance_status": "Manufacturer catalogue reference; identity verified for demonstration",
+        "technical_specifications": "Not published in demo until verified from an authorised feed",
+        "price_status": "Illustrative demonstration price ($200.00) \u2014 not a retail price",
+        "variant_status": "Illustrative demonstration configuration",
+        "image_status": "No licensed image supplied; use storefront black placeholder"
+      },
+      "images": [],
+      "image_rights": "unknown"
+    },
+    {
+      "name": "DEMO \u00b7 Terranova MIPS",
+      "sku": "DEMO-MET-09",
+      "price_cents": 20000,
+      "stock_quantity": 1,
+      "category_id": "equipment",
+      "subtype_id": "helmets",
+      "subtype_label": "Helmets",
+      "audiences": [
+        "unisex"
+      ],
+      "description": "Illustrative portfolio listing for the verified MET product identity \u2018Terranova MIPS\u2019. This is not a live retail offer; price, stock, size and colour are demonstration values pending an authorised dealer feed.",
+      "variants": [
+        {
+          "sku": "DEMO-MET-09",
+          "size": "M",
+          "color": "Matte Black",
+          "stock_quantity": 1
+        }
+      ],
+      "attributes": {
+        "manufacturer_source_url": "https://www.met-helmets.com/en/shop/cycling-helmets/",
+        "provenance_status": "Manufacturer catalogue reference; identity verified for demonstration",
+        "technical_specifications": "Not published in demo until verified from an authorised feed",
+        "price_status": "Illustrative demonstration price ($200.00) \u2014 not a retail price",
+        "variant_status": "Illustrative demonstration configuration",
+        "image_status": "No licensed image supplied; use storefront black placeholder"
+      },
+      "images": [],
+      "image_rights": "unknown"
+    },
+    {
+      "name": "DEMO \u00b7 Parachute MCR MIPS",
+      "sku": "DEMO-MET-10",
+      "price_cents": 20000,
+      "stock_quantity": 1,
+      "category_id": "equipment",
+      "subtype_id": "helmets",
+      "subtype_label": "Helmets",
+      "audiences": [
+        "unisex"
+      ],
+      "description": "Illustrative portfolio listing for the verified MET product identity \u2018Parachute MCR MIPS\u2019. This is not a live retail offer; price, stock, size and colour are demonstration values pending an authorised dealer feed.",
+      "variants": [
+        {
+          "sku": "DEMO-MET-10",
+          "size": "M",
+          "color": "Matte Black",
+          "stock_quantity": 1
+        }
+      ],
+      "attributes": {
+        "manufacturer_source_url": "https://www.met-helmets.com/en/shop/cycling-helmets/",
+        "provenance_status": "Manufacturer catalogue reference; identity verified for demonstration",
+        "technical_specifications": "Not published in demo until verified from an authorised feed",
+        "price_status": "Illustrative demonstration price ($200.00) \u2014 not a retail price",
+        "variant_status": "Illustrative demonstration configuration",
+        "image_status": "No licensed image supplied; use storefront black placeholder"
+      },
+      "images": [],
+      "image_rights": "unknown"
+    },
+    {
+      "name": "DEMO \u00b7 Roam MIPS",
+      "sku": "DEMO-MET-11",
+      "price_cents": 20000,
+      "stock_quantity": 1,
+      "category_id": "equipment",
+      "subtype_id": "helmets",
+      "subtype_label": "Helmets",
+      "audiences": [
+        "unisex"
+      ],
+      "description": "Illustrative portfolio listing for the verified MET product identity \u2018Roam MIPS\u2019. This is not a live retail offer; price, stock, size and colour are demonstration values pending an authorised dealer feed.",
+      "variants": [
+        {
+          "sku": "DEMO-MET-11",
+          "size": "M",
+          "color": "Matte Black",
+          "stock_quantity": 1
+        }
+      ],
+      "attributes": {
+        "manufacturer_source_url": "https://www.met-helmets.com/en/shop/cycling-helmets/",
+        "provenance_status": "Manufacturer catalogue reference; identity verified for demonstration",
+        "technical_specifications": "Not published in demo until verified from an authorised feed",
+        "price_status": "Illustrative demonstration price ($200.00) \u2014 not a retail price",
+        "variant_status": "Illustrative demonstration configuration",
+        "image_status": "No licensed image supplied; use storefront black placeholder"
+      },
+      "images": [],
+      "image_rights": "unknown"
+    },
+    {
+      "name": "DEMO \u00b7 Echo MIPS",
+      "sku": "DEMO-MET-12",
+      "price_cents": 20000,
+      "stock_quantity": 1,
+      "category_id": "equipment",
+      "subtype_id": "helmets",
+      "subtype_label": "Helmets",
+      "audiences": [
+        "unisex"
+      ],
+      "description": "Illustrative portfolio listing for the verified MET product identity \u2018Echo MIPS\u2019. This is not a live retail offer; price, stock, size and colour are demonstration values pending an authorised dealer feed.",
+      "variants": [
+        {
+          "sku": "DEMO-MET-12",
+          "size": "M",
+          "color": "Matte Black",
+          "stock_quantity": 1
+        }
+      ],
+      "attributes": {
+        "manufacturer_source_url": "https://www.met-helmets.com/en/shop/cycling-helmets/",
+        "provenance_status": "Manufacturer catalogue reference; identity verified for demonstration",
+        "technical_specifications": "Not published in demo until verified from an authorised feed",
+        "price_status": "Illustrative demonstration price ($200.00) \u2014 not a retail price",
+        "variant_status": "Illustrative demonstration configuration",
+        "image_status": "No licensed image supplied; use storefront black placeholder"
+      },
+      "images": [],
+      "image_rights": "unknown"
+    },
+    {
+      "name": "DEMO \u00b7 Codatronca",
+      "sku": "DEMO-MET-13",
+      "price_cents": 20000,
+      "stock_quantity": 1,
+      "category_id": "equipment",
+      "subtype_id": "helmets",
+      "subtype_label": "Helmets",
+      "audiences": [
+        "unisex"
+      ],
+      "description": "Illustrative portfolio listing for the verified MET product identity \u2018Codatronca\u2019. This is not a live retail offer; price, stock, size and colour are demonstration values pending an authorised dealer feed.",
+      "variants": [
+        {
+          "sku": "DEMO-MET-13",
+          "size": "M",
+          "color": "Matte Black",
+          "stock_quantity": 1
+        }
+      ],
+      "attributes": {
+        "manufacturer_source_url": "https://www.met-helmets.com/en/shop/cycling-helmets/",
+        "provenance_status": "Manufacturer catalogue reference; identity verified for demonstration",
+        "technical_specifications": "Not published in demo until verified from an authorised feed",
+        "price_status": "Illustrative demonstration price ($200.00) \u2014 not a retail price",
+        "variant_status": "Illustrative demonstration configuration",
+        "image_status": "No licensed image supplied; use storefront black placeholder"
+      },
+      "images": [],
+      "image_rights": "unknown"
+    },
+    {
+      "name": "DEMO \u00b7 Drone Wide Body",
+      "sku": "DEMO-MET-14",
+      "price_cents": 20000,
+      "stock_quantity": 1,
+      "category_id": "equipment",
+      "subtype_id": "helmets",
+      "subtype_label": "Helmets",
+      "audiences": [
+        "unisex"
+      ],
+      "description": "Illustrative portfolio listing for the verified MET product identity \u2018Drone Wide Body\u2019. This is not a live retail offer; price, stock, size and colour are demonstration values pending an authorised dealer feed.",
+      "variants": [
+        {
+          "sku": "DEMO-MET-14",
+          "size": "M",
+          "color": "Matte Black",
+          "stock_quantity": 1
+        }
+      ],
+      "attributes": {
+        "manufacturer_source_url": "https://www.met-helmets.com/en/shop/cycling-helmets/",
+        "provenance_status": "Manufacturer catalogue reference; identity verified for demonstration",
+        "technical_specifications": "Not published in demo until verified from an authorised feed",
+        "price_status": "Illustrative demonstration price ($200.00) \u2014 not a retail price",
+        "variant_status": "Illustrative demonstration configuration",
+        "image_status": "No licensed image supplied; use storefront black placeholder"
+      },
+      "images": [],
+      "image_rights": "unknown"
+    },
+    {
+      "name": "DEMO \u00b7 Idolo MIPS",
+      "sku": "DEMO-MET-15",
+      "price_cents": 20000,
+      "stock_quantity": 1,
+      "category_id": "equipment",
+      "subtype_id": "helmets",
+      "subtype_label": "Helmets",
+      "audiences": [
+        "unisex"
+      ],
+      "description": "Illustrative portfolio listing for the verified MET product identity \u2018Idolo MIPS\u2019. This is not a live retail offer; price, stock, size and colour are demonstration values pending an authorised dealer feed.",
+      "variants": [
+        {
+          "sku": "DEMO-MET-15",
+          "size": "M",
+          "color": "Matte Black",
+          "stock_quantity": 1
+        }
+      ],
+      "attributes": {
+        "manufacturer_source_url": "https://www.met-helmets.com/en/shop/cycling-helmets/",
+        "provenance_status": "Manufacturer catalogue reference; identity verified for demonstration",
+        "technical_specifications": "Not published in demo until verified from an authorised feed",
+        "price_status": "Illustrative demonstration price ($200.00) \u2014 not a retail price",
+        "variant_status": "Illustrative demonstration configuration",
+        "image_status": "No licensed image supplied; use storefront black placeholder"
+      },
+      "images": [],
+      "image_rights": "unknown"
+    }
+  ]
+}

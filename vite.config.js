@@ -6,7 +6,7 @@ export default defineConfig({
     base: process.env.BUILD_STATIC ? '/rankthrubikes/' : '/',
     plugins: [
         laravel({
-            input: ['resources/css/app.css', 'resources/js/app.js'],
+            input: ['resources/css/app.css', 'resources/js/app.js', 'resources/js/shop.js'],
             refresh: true,
         }),
         tailwindcss(),

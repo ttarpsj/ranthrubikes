@@ -1,0 +1,469 @@
+{
+  "products": [
+    {
+      "name": "DEMO \u00b7 P ZERO Race TLR RS",
+      "sku": "DEMO-PIRELLI-01",
+      "price_cents": 6000,
+      "stock_quantity": 1,
+      "category_id": "components",
+      "subtype_id": "tires",
+      "subtype_label": "Tires",
+      "audiences": [
+        "unisex"
+      ],
+      "description": "Illustrative portfolio listing for the verified Pirelli product identity \u2018P ZERO Race TLR RS\u2019. This is not a live retail offer; price, stock, size and colour are demonstration values pending an authorised dealer feed.",
+      "variants": [
+        {
+          "sku": "DEMO-PIRELLI-01",
+          "size": "700x28",
+          "color": "Black",
+          "stock_quantity": 1
+        }
+      ],
+      "attributes": {
+        "manufacturer_source_url": "https://www.pirelli.com/tyres/en-ww/bike/tyres/catalogue",
+        "provenance_status": "Manufacturer catalogue reference; identity verified for demonstration",
+        "technical_specifications": "Not published in demo until verified from an authorised feed",
+        "price_status": "Illustrative demonstration price ($60.00) \u2014 not a retail price",
+        "variant_status": "Illustrative demonstration configuration",
+        "image_status": "No licensed image supplied; use storefront black placeholder"
+      },
+      "images": [],
+      "image_rights": "unknown"
+    },
+    {
+      "name": "DEMO \u00b7 P ZERO Race TLR",
+      "sku": "DEMO-PIRELLI-02",
+      "price_cents": 6000,
+      "stock_quantity": 1,
+      "category_id": "components",
+      "subtype_id": "tires",
+      "subtype_label": "Tires",
+      "audiences": [
+        "unisex"
+      ],
+      "description": "Illustrative portfolio listing for the verified Pirelli product identity \u2018P ZERO Race TLR\u2019. This is not a live retail offer; price, stock, size and colour are demonstration values pending an authorised dealer feed.",
+      "variants": [
+        {
+          "sku": "DEMO-PIRELLI-02",
+          "size": "700x28",
+          "color": "Black",
+          "stock_quantity": 1
+        }
+      ],
+      "attributes": {
+        "manufacturer_source_url": "https://www.pirelli.com/tyres/en-ww/bike/tyres/catalogue",
+        "provenance_status": "Manufacturer catalogue reference; identity verified for demonstration",
+        "technical_specifications": "Not published in demo until verified from an authorised feed",
+        "price_status": "Illustrative demonstration price ($60.00) \u2014 not a retail price",
+        "variant_status": "Illustrative demonstration configuration",
+        "image_status": "No licensed image supplied; use storefront black placeholder"
+      },
+      "images": [],
+      "image_rights": "unknown"
+    },
+    {
+      "name": "DEMO \u00b7 P ZERO Race",
+      "sku": "DEMO-PIRELLI-03",
+      "price_cents": 6000,
+      "stock_quantity": 1,
+      "category_id": "components",
+      "subtype_id": "tires",
+      "subtype_label": "Tires",
+      "audiences": [
+        "unisex"
+      ],
+      "description": "Illustrative portfolio listing for the verified Pirelli product identity \u2018P ZERO Race\u2019. This is not a live retail offer; price, stock, size and colour are demonstration values pending an authorised dealer feed.",
+      "variants": [
+        {
+          "sku": "DEMO-PIRELLI-03",
+          "size": "700x28",
+          "color": "Black",
+          "stock_quantity": 1
+        }
+      ],
+      "attributes": {
+        "manufacturer_source_url": "https://www.pirelli.com/tyres/en-ww/bike/tyres/catalogue",
+        "provenance_status": "Manufacturer catalogue reference; identity verified for demonstration",
+        "technical_specifications": "Not published in demo until verified from an authorised feed",
+        "price_status": "Illustrative demonstration price ($60.00) \u2014 not a retail price",
+        "variant_status": "Illustrative demonstration configuration",
+        "image_status": "No licensed image supplied; use storefront black placeholder"
+      },
+      "images": [],
+      "image_rights": "unknown"
+    },
+    {
+      "name": "DEMO \u00b7 P ZERO Road",
+      "sku": "DEMO-PIRELLI-04",
+      "price_cents": 6000,
+      "stock_quantity": 1,
+      "category_id": "components",
+      "subtype_id": "tires",
+      "subtype_label": "Tires",
+      "audiences": [
+        "unisex"
+      ],
+      "description": "Illustrative portfolio listing for the verified Pirelli product identity \u2018P ZERO Road\u2019. This is not a live retail offer; price, stock, size and colour are demonstration values pending an authorised dealer feed.",
+      "variants": [
+        {
+          "sku": "DEMO-PIRELLI-04",
+          "size": "700x28",
+          "color": "Black",
+          "stock_quantity": 1
+        }
+      ],
+      "attributes": {
+        "manufacturer_source_url": "https://www.pirelli.com/tyres/en-ww/bike/tyres/catalogue",
+        "provenance_status": "Manufacturer catalogue reference; identity verified for demonstration",
+        "technical_specifications": "Not published in demo until verified from an authorised feed",
+        "price_status": "Illustrative demonstration price ($60.00) \u2014 not a retail price",
+        "variant_status": "Illustrative demonstration configuration",
+        "image_status": "No licensed image supplied; use storefront black placeholder"
+      },
+      "images": [],
+      "image_rights": "unknown"
+    },
+    {
+      "name": "DEMO \u00b7 P7 Sport",
+      "sku": "DEMO-PIRELLI-05",
+      "price_cents": 6000,
+      "stock_quantity": 1,
+      "category_id": "components",
+      "subtype_id": "tires",
+      "subtype_label": "Tires",
+      "audiences": [
+        "unisex"
+      ],
+      "description": "Illustrative portfolio listing for the verified Pirelli product identity \u2018P7 Sport\u2019. This is not a live retail offer; price, stock, size and colour are demonstration values pending an authorised dealer feed.",
+      "variants": [
+        {
+          "sku": "DEMO-PIRELLI-05",
+          "size": "700x28",
+          "color": "Black",
+          "stock_quantity": 1
+        }
+      ],
+      "attributes": {
+        "manufacturer_source_url": "https://www.pirelli.com/tyres/en-ww/bike/tyres/catalogue",
+        "provenance_status": "Manufacturer catalogue reference; identity verified for demonstration",
+        "technical_specifications": "Not published in demo until verified from an authorised feed",
+        "price_status": "Illustrative demonstration price ($60.00) \u2014 not a retail price",
+        "variant_status": "Illustrative demonstration configuration",
+        "image_status": "No licensed image supplied; use storefront black placeholder"
+      },
+      "images": [],
+      "image_rights": "unknown"
+    },
+    {
+      "name": "DEMO \u00b7 Cinturato Velo TLR",
+      "sku": "DEMO-PIRELLI-06",
+      "price_cents": 6000,
+      "stock_quantity": 1,
+      "category_id": "components",
+      "subtype_id": "tires",
+      "subtype_label": "Tires",
+      "audiences": [
+        "unisex"
+      ],
+      "description": "Illustrative portfolio listing for the verified Pirelli product identity \u2018Cinturato Velo TLR\u2019. This is not a live retail offer; price, stock, size and colour are demonstration values pending an authorised dealer feed.",
+      "variants": [
+        {
+          "sku": "DEMO-PIRELLI-06",
+          "size": "700x28",
+          "color": "Black",
+          "stock_quantity": 1
+        }
+      ],
+      "attributes": {
+        "manufacturer_source_url": "https://www.pirelli.com/tyres/en-ww/bike/tyres/catalogue",
+        "provenance_status": "Manufacturer catalogue reference; identity verified for demonstration",
+        "technical_specifications": "Not published in demo until verified from an authorised feed",
+        "price_status": "Illustrative demonstration price ($60.00) \u2014 not a retail price",
+        "variant_status": "Illustrative demonstration configuration",
+        "image_status": "No licensed image supplied; use storefront black placeholder"
+      },
+      "images": [],
+      "image_rights": "unknown"
+    },
+    {
+      "name": "DEMO \u00b7 Cinturato Gravel H",
+      "sku": "DEMO-PIRELLI-07",
+      "price_cents": 6000,
+      "stock_quantity": 1,
+      "category_id": "components",
+      "subtype_id": "tires",
+      "subtype_label": "Tires",
+      "audiences": [
+        "unisex"
+      ],
+      "description": "Illustrative portfolio listing for the verified Pirelli product identity \u2018Cinturato Gravel H\u2019. This is not a live retail offer; price, stock, size and colour are demonstration values pending an authorised dealer feed.",
+      "variants": [
+        {
+          "sku": "DEMO-PIRELLI-07",
+          "size": "700x28",
+          "color": "Black",
+          "stock_quantity": 1
+        }
+      ],
+      "attributes": {
+        "manufacturer_source_url": "https://www.pirelli.com/tyres/en-ww/bike/tyres/catalogue",
+        "provenance_status": "Manufacturer catalogue reference; identity verified for demonstration",
+        "technical_specifications": "Not published in demo until verified from an authorised feed",
+        "price_status": "Illustrative demonstration price ($60.00) \u2014 not a retail price",
+        "variant_status": "Illustrative demonstration configuration",
+        "image_status": "No licensed image supplied; use storefront black placeholder"
+      },
+      "images": [],
+      "image_rights": "unknown"
+    },
+    {
+      "name": "DEMO \u00b7 Cinturato Gravel M",
+      "sku": "DEMO-PIRELLI-08",
+      "price_cents": 6000,
+      "stock_quantity": 1,
+      "category_id": "components",
+      "subtype_id": "tires",
+      "subtype_label": "Tires",
+      "audiences": [
+        "unisex"
+      ],
+      "description": "Illustrative portfolio listing for the verified Pirelli product identity \u2018Cinturato Gravel M\u2019. This is not a live retail offer; price, stock, size and colour are demonstration values pending an authorised dealer feed.",
+      "variants": [
+        {
+          "sku": "DEMO-PIRELLI-08",
+          "size": "700x28",
+          "color": "Black",
+          "stock_quantity": 1
+        }
+      ],
+      "attributes": {
+        "manufacturer_source_url": "https://www.pirelli.com/tyres/en-ww/bike/tyres/catalogue",
+        "provenance_status": "Manufacturer catalogue reference; identity verified for demonstration",
+        "technical_specifications": "Not published in demo until verified from an authorised feed",
+        "price_status": "Illustrative demonstration price ($60.00) \u2014 not a retail price",
+        "variant_status": "Illustrative demonstration configuration",
+        "image_status": "No licensed image supplied; use storefront black placeholder"
+      },
+      "images": [],
+      "image_rights": "unknown"
+    },
+    {
+      "name": "DEMO \u00b7 Cinturato Gravel RC X",
+      "sku": "DEMO-PIRELLI-09",
+      "price_cents": 6000,
+      "stock_quantity": 1,
+      "category_id": "components",
+      "subtype_id": "tires",
+      "subtype_label": "Tires",
+      "audiences": [
+        "unisex"
+      ],
+      "description": "Illustrative portfolio listing for the verified Pirelli product identity \u2018Cinturato Gravel RC X\u2019. This is not a live retail offer; price, stock, size and colour are demonstration values pending an authorised dealer feed.",
+      "variants": [
+        {
+          "sku": "DEMO-PIRELLI-09",
+          "size": "700x28",
+          "color": "Black",
+          "stock_quantity": 1
+        }
+      ],
+      "attributes": {
+        "manufacturer_source_url": "https://www.pirelli.com/tyres/en-ww/bike/tyres/catalogue",
+        "provenance_status": "Manufacturer catalogue reference; identity verified for demonstration",
+        "technical_specifications": "Not published in demo until verified from an authorised feed",
+        "price_status": "Illustrative demonstration price ($60.00) \u2014 not a retail price",
+        "variant_status": "Illustrative demonstration configuration",
+        "image_status": "No licensed image supplied; use storefront black placeholder"
+      },
+      "images": [],
+      "image_rights": "unknown"
+    },
+    {
+      "name": "DEMO \u00b7 Scorpion XC RC",
+      "sku": "DEMO-PIRELLI-10",
+      "price_cents": 6000,
+      "stock_quantity": 1,
+      "category_id": "components",
+      "subtype_id": "tires",
+      "subtype_label": "Tires",
+      "audiences": [
+        "unisex"
+      ],
+      "description": "Illustrative portfolio listing for the verified Pirelli product identity \u2018Scorpion XC RC\u2019. This is not a live retail offer; price, stock, size and colour are demonstration values pending an authorised dealer feed.",
+      "variants": [
+        {
+          "sku": "DEMO-PIRELLI-10",
+          "size": "700x28",
+          "color": "Black",
+          "stock_quantity": 1
+        }
+      ],
+      "attributes": {
+        "manufacturer_source_url": "https://www.pirelli.com/tyres/en-ww/bike/tyres/catalogue",
+        "provenance_status": "Manufacturer catalogue reference; identity verified for demonstration",
+        "technical_specifications": "Not published in demo until verified from an authorised feed",
+        "price_status": "Illustrative demonstration price ($60.00) \u2014 not a retail price",
+        "variant_status": "Illustrative demonstration configuration",
+        "image_status": "No licensed image supplied; use storefront black placeholder"
+      },
+      "images": [],
+      "image_rights": "unknown"
+    },
+    {
+      "name": "DEMO \u00b7 Scorpion XC M",
+      "sku": "DEMO-PIRELLI-11",
+      "price_cents": 6000,
+      "stock_quantity": 1,
+      "category_id": "components",
+      "subtype_id": "tires",
+      "subtype_label": "Tires",
+      "audiences": [
+        "unisex"
+      ],
+      "description": "Illustrative portfolio listing for the verified Pirelli product identity \u2018Scorpion XC M\u2019. This is not a live retail offer; price, stock, size and colour are demonstration values pending an authorised dealer feed.",
+      "variants": [
+        {
+          "sku": "DEMO-PIRELLI-11",
+          "size": "700x28",
+          "color": "Black",
+          "stock_quantity": 1
+        }
+      ],
+      "attributes": {
+        "manufacturer_source_url": "https://www.pirelli.com/tyres/en-ww/bike/tyres/catalogue",
+        "provenance_status": "Manufacturer catalogue reference; identity verified for demonstration",
+        "technical_specifications": "Not published in demo until verified from an authorised feed",
+        "price_status": "Illustrative demonstration price ($60.00) \u2014 not a retail price",
+        "variant_status": "Illustrative demonstration configuration",
+        "image_status": "No licensed image supplied; use storefront black placeholder"
+      },
+      "images": [],
+      "image_rights": "unknown"
+    },
+    {
+      "name": "DEMO \u00b7 Scorpion XC H",
+      "sku": "DEMO-PIRELLI-12",
+      "price_cents": 6000,
+      "stock_quantity": 1,
+      "category_id": "components",
+      "subtype_id": "tires",
+      "subtype_label": "Tires",
+      "audiences": [
+        "unisex"
+      ],
+      "description": "Illustrative portfolio listing for the verified Pirelli product identity \u2018Scorpion XC H\u2019. This is not a live retail offer; price, stock, size and colour are demonstration values pending an authorised dealer feed.",
+      "variants": [
+        {
+          "sku": "DEMO-PIRELLI-12",
+          "size": "700x28",
+          "color": "Black",
+          "stock_quantity": 1
+        }
+      ],
+      "attributes": {
+        "manufacturer_source_url": "https://www.pirelli.com/tyres/en-ww/bike/tyres/catalogue",
+        "provenance_status": "Manufacturer catalogue reference; identity verified for demonstration",
+        "technical_specifications": "Not published in demo until verified from an authorised feed",
+        "price_status": "Illustrative demonstration price ($60.00) \u2014 not a retail price",
+        "variant_status": "Illustrative demonstration configuration",
+        "image_status": "No licensed image supplied; use storefront black placeholder"
+      },
+      "images": [],
+      "image_rights": "unknown"
+    },
+    {
+      "name": "DEMO \u00b7 Scorpion Trail M",
+      "sku": "DEMO-PIRELLI-13",
+      "price_cents": 6000,
+      "stock_quantity": 1,
+      "category_id": "components",
+      "subtype_id": "tires",
+      "subtype_label": "Tires",
+      "audiences": [
+        "unisex"
+      ],
+      "description": "Illustrative portfolio listing for the verified Pirelli product identity \u2018Scorpion Trail M\u2019. This is not a live retail offer; price, stock, size and colour are demonstration values pending an authorised dealer feed.",
+      "variants": [
+        {
+          "sku": "DEMO-PIRELLI-13",
+          "size": "700x28",
+          "color": "Black",
+          "stock_quantity": 1
+        }
+      ],
+      "attributes": {
+        "manufacturer_source_url": "https://www.pirelli.com/tyres/en-ww/bike/tyres/catalogue",
+        "provenance_status": "Manufacturer catalogue reference; identity verified for demonstration",
+        "technical_specifications": "Not published in demo until verified from an authorised feed",
+        "price_status": "Illustrative demonstration price ($60.00) \u2014 not a retail price",
+        "variant_status": "Illustrative demonstration configuration",
+        "image_status": "No licensed image supplied; use storefront black placeholder"
+      },
+      "images": [],
+      "image_rights": "unknown"
+    },
+    {
+      "name": "DEMO \u00b7 Scorpion Trail R",
+      "sku": "DEMO-PIRELLI-14",
+      "price_cents": 6000,
+      "stock_quantity": 1,
+      "category_id": "components",
+      "subtype_id": "tires",
+      "subtype_label": "Tires",
+      "audiences": [
+        "unisex"
+      ],
+      "description": "Illustrative portfolio listing for the verified Pirelli product identity \u2018Scorpion Trail R\u2019. This is not a live retail offer; price, stock, size and colour are demonstration values pending an authorised dealer feed.",
+      "variants": [
+        {
+          "sku": "DEMO-PIRELLI-14",
+          "size": "700x28",
+          "color": "Black",
+          "stock_quantity": 1
+        }
+      ],
+      "attributes": {
+        "manufacturer_source_url": "https://www.pirelli.com/tyres/en-ww/bike/tyres/catalogue",
+        "provenance_status": "Manufacturer catalogue reference; identity verified for demonstration",
+        "technical_specifications": "Not published in demo until verified from an authorised feed",
+        "price_status": "Illustrative demonstration price ($60.00) \u2014 not a retail price",
+        "variant_status": "Illustrative demonstration configuration",
+        "image_status": "No licensed image supplied; use storefront black placeholder"
+      },
+      "images": [],
+      "image_rights": "unknown"
+    },
+    {
+      "name": "DEMO \u00b7 Scorpion Enduro M",
+      "sku": "DEMO-PIRELLI-15",
+      "price_cents": 6000,
+      "stock_quantity": 1,
+      "category_id": "components",
+      "subtype_id": "tires",
+      "subtype_label": "Tires",
+      "audiences": [
+        "unisex"
+      ],
+      "description": "Illustrative portfolio listing for the verified Pirelli product identity \u2018Scorpion Enduro M\u2019. This is not a live retail offer; price, stock, size and colour are demonstration values pending an authorised dealer feed.",
+      "variants": [
+        {
+          "sku": "DEMO-PIRELLI-15",
+          "size": "700x28",
+          "color": "Black",
+          "stock_quantity": 1
+        }
+      ],
+      "attributes": {
+        "manufacturer_source_url": "https://www.pirelli.com/tyres/en-ww/bike/tyres/catalogue",
+        "provenance_status": "Manufacturer catalogue reference; identity verified for demonstration",
+        "technical_specifications": "Not published in demo until verified from an authorised feed",
+        "price_status": "Illustrative demonstration price ($60.00) \u2014 not a retail price",
+        "variant_status": "Illustrative demonstration configuration",
+        "image_status": "No licensed image supplied; use storefront black placeholder"
+      },
+      "images": [],
+      "image_rights": "unknown"
+    }
+  ]
+}

@@ -21,6 +21,9 @@ jobs:
         with: { node-version: 22, cache: npm }
       - run: composer install --no-dev --no-interaction --prefer-dist --optimize-autoloader
       - run: npm ci
+      - run: python3 scripts/catalog_ingest.py validate
+      - run: python3 scripts/sync_products.py --dry-run
+      - run: python3 -m unittest discover -s tests -p "test_*.py"
       - run: chmod +x scripts/export-static.sh && scripts/export-static.sh
       - uses: actions/upload-pages-artifact@v3
         with: { path: static-export }

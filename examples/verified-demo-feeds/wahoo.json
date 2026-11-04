@@ -1,0 +1,469 @@
+{
+  "products": [
+    {
+      "name": "DEMO \u00b7 ELEMNT ACE",
+      "sku": "DEMO-WAHOO-01",
+      "price_cents": 30000,
+      "stock_quantity": 1,
+      "category_id": "equipment",
+      "subtype_id": "electronics",
+      "subtype_label": "Electronics",
+      "audiences": [
+        "unisex"
+      ],
+      "description": "Illustrative portfolio listing for the verified Wahoo product identity \u2018ELEMNT ACE\u2019. This is not a live retail offer; price, stock, size and colour are demonstration values pending an authorised dealer feed.",
+      "variants": [
+        {
+          "sku": "DEMO-WAHOO-01",
+          "size": "One size",
+          "color": "Black",
+          "stock_quantity": 1
+        }
+      ],
+      "attributes": {
+        "manufacturer_source_url": "https://www.wahoofitness.com/devices",
+        "provenance_status": "Manufacturer catalogue reference; identity verified for demonstration",
+        "technical_specifications": "Not published in demo until verified from an authorised feed",
+        "price_status": "Illustrative demonstration price ($300.00) \u2014 not a retail price",
+        "variant_status": "Illustrative demonstration configuration",
+        "image_status": "No licensed image supplied; use storefront black placeholder"
+      },
+      "images": [],
+      "image_rights": "unknown"
+    },
+    {
+      "name": "DEMO \u00b7 ELEMNT ROAM v2",
+      "sku": "DEMO-WAHOO-02",
+      "price_cents": 30000,
+      "stock_quantity": 1,
+      "category_id": "equipment",
+      "subtype_id": "electronics",
+      "subtype_label": "Electronics",
+      "audiences": [
+        "unisex"
+      ],
+      "description": "Illustrative portfolio listing for the verified Wahoo product identity \u2018ELEMNT ROAM v2\u2019. This is not a live retail offer; price, stock, size and colour are demonstration values pending an authorised dealer feed.",
+      "variants": [
+        {
+          "sku": "DEMO-WAHOO-02",
+          "size": "One size",
+          "color": "Black",
+          "stock_quantity": 1
+        }
+      ],
+      "attributes": {
+        "manufacturer_source_url": "https://www.wahoofitness.com/devices",
+        "provenance_status": "Manufacturer catalogue reference; identity verified for demonstration",
+        "technical_specifications": "Not published in demo until verified from an authorised feed",
+        "price_status": "Illustrative demonstration price ($300.00) \u2014 not a retail price",
+        "variant_status": "Illustrative demonstration configuration",
+        "image_status": "No licensed image supplied; use storefront black placeholder"
+      },
+      "images": [],
+      "image_rights": "unknown"
+    },
+    {
+      "name": "DEMO \u00b7 ELEMNT BOLT v2",
+      "sku": "DEMO-WAHOO-03",
+      "price_cents": 30000,
+      "stock_quantity": 1,
+      "category_id": "equipment",
+      "subtype_id": "electronics",
+      "subtype_label": "Electronics",
+      "audiences": [
+        "unisex"
+      ],
+      "description": "Illustrative portfolio listing for the verified Wahoo product identity \u2018ELEMNT BOLT v2\u2019. This is not a live retail offer; price, stock, size and colour are demonstration values pending an authorised dealer feed.",
+      "variants": [
+        {
+          "sku": "DEMO-WAHOO-03",
+          "size": "One size",
+          "color": "Black",
+          "stock_quantity": 1
+        }
+      ],
+      "attributes": {
+        "manufacturer_source_url": "https://www.wahoofitness.com/devices",
+        "provenance_status": "Manufacturer catalogue reference; identity verified for demonstration",
+        "technical_specifications": "Not published in demo until verified from an authorised feed",
+        "price_status": "Illustrative demonstration price ($300.00) \u2014 not a retail price",
+        "variant_status": "Illustrative demonstration configuration",
+        "image_status": "No licensed image supplied; use storefront black placeholder"
+      },
+      "images": [],
+      "image_rights": "unknown"
+    },
+    {
+      "name": "DEMO \u00b7 KICKR MOVE",
+      "sku": "DEMO-WAHOO-04",
+      "price_cents": 30000,
+      "stock_quantity": 1,
+      "category_id": "equipment",
+      "subtype_id": "electronics",
+      "subtype_label": "Electronics",
+      "audiences": [
+        "unisex"
+      ],
+      "description": "Illustrative portfolio listing for the verified Wahoo product identity \u2018KICKR MOVE\u2019. This is not a live retail offer; price, stock, size and colour are demonstration values pending an authorised dealer feed.",
+      "variants": [
+        {
+          "sku": "DEMO-WAHOO-04",
+          "size": "One size",
+          "color": "Black",
+          "stock_quantity": 1
+        }
+      ],
+      "attributes": {
+        "manufacturer_source_url": "https://www.wahoofitness.com/devices",
+        "provenance_status": "Manufacturer catalogue reference; identity verified for demonstration",
+        "technical_specifications": "Not published in demo until verified from an authorised feed",
+        "price_status": "Illustrative demonstration price ($300.00) \u2014 not a retail price",
+        "variant_status": "Illustrative demonstration configuration",
+        "image_status": "No licensed image supplied; use storefront black placeholder"
+      },
+      "images": [],
+      "image_rights": "unknown"
+    },
+    {
+      "name": "DEMO \u00b7 KICKR CORE",
+      "sku": "DEMO-WAHOO-05",
+      "price_cents": 30000,
+      "stock_quantity": 1,
+      "category_id": "equipment",
+      "subtype_id": "electronics",
+      "subtype_label": "Electronics",
+      "audiences": [
+        "unisex"
+      ],
+      "description": "Illustrative portfolio listing for the verified Wahoo product identity \u2018KICKR CORE\u2019. This is not a live retail offer; price, stock, size and colour are demonstration values pending an authorised dealer feed.",
+      "variants": [
+        {
+          "sku": "DEMO-WAHOO-05",
+          "size": "One size",
+          "color": "Black",
+          "stock_quantity": 1
+        }
+      ],
+      "attributes": {
+        "manufacturer_source_url": "https://www.wahoofitness.com/devices",
+        "provenance_status": "Manufacturer catalogue reference; identity verified for demonstration",
+        "technical_specifications": "Not published in demo until verified from an authorised feed",
+        "price_status": "Illustrative demonstration price ($300.00) \u2014 not a retail price",
+        "variant_status": "Illustrative demonstration configuration",
+        "image_status": "No licensed image supplied; use storefront black placeholder"
+      },
+      "images": [],
+      "image_rights": "unknown"
+    },
+    {
+      "name": "DEMO \u00b7 KICKR Smart Trainer",
+      "sku": "DEMO-WAHOO-06",
+      "price_cents": 30000,
+      "stock_quantity": 1,
+      "category_id": "equipment",
+      "subtype_id": "electronics",
+      "subtype_label": "Electronics",
+      "audiences": [
+        "unisex"
+      ],
+      "description": "Illustrative portfolio listing for the verified Wahoo product identity \u2018KICKR Smart Trainer\u2019. This is not a live retail offer; price, stock, size and colour are demonstration values pending an authorised dealer feed.",
+      "variants": [
+        {
+          "sku": "DEMO-WAHOO-06",
+          "size": "One size",
+          "color": "Black",
+          "stock_quantity": 1
+        }
+      ],
+      "attributes": {
+        "manufacturer_source_url": "https://www.wahoofitness.com/devices",
+        "provenance_status": "Manufacturer catalogue reference; identity verified for demonstration",
+        "technical_specifications": "Not published in demo until verified from an authorised feed",
+        "price_status": "Illustrative demonstration price ($300.00) \u2014 not a retail price",
+        "variant_status": "Illustrative demonstration configuration",
+        "image_status": "No licensed image supplied; use storefront black placeholder"
+      },
+      "images": [],
+      "image_rights": "unknown"
+    },
+    {
+      "name": "DEMO \u00b7 KICKR BIKE SHIFT",
+      "sku": "DEMO-WAHOO-07",
+      "price_cents": 30000,
+      "stock_quantity": 1,
+      "category_id": "equipment",
+      "subtype_id": "electronics",
+      "subtype_label": "Electronics",
+      "audiences": [
+        "unisex"
+      ],
+      "description": "Illustrative portfolio listing for the verified Wahoo product identity \u2018KICKR BIKE SHIFT\u2019. This is not a live retail offer; price, stock, size and colour are demonstration values pending an authorised dealer feed.",
+      "variants": [
+        {
+          "sku": "DEMO-WAHOO-07",
+          "size": "One size",
+          "color": "Black",
+          "stock_quantity": 1
+        }
+      ],
+      "attributes": {
+        "manufacturer_source_url": "https://www.wahoofitness.com/devices",
+        "provenance_status": "Manufacturer catalogue reference; identity verified for demonstration",
+        "technical_specifications": "Not published in demo until verified from an authorised feed",
+        "price_status": "Illustrative demonstration price ($300.00) \u2014 not a retail price",
+        "variant_status": "Illustrative demonstration configuration",
+        "image_status": "No licensed image supplied; use storefront black placeholder"
+      },
+      "images": [],
+      "image_rights": "unknown"
+    },
+    {
+      "name": "DEMO \u00b7 KICKR BIKE",
+      "sku": "DEMO-WAHOO-08",
+      "price_cents": 30000,
+      "stock_quantity": 1,
+      "category_id": "equipment",
+      "subtype_id": "electronics",
+      "subtype_label": "Electronics",
+      "audiences": [
+        "unisex"
+      ],
+      "description": "Illustrative portfolio listing for the verified Wahoo product identity \u2018KICKR BIKE\u2019. This is not a live retail offer; price, stock, size and colour are demonstration values pending an authorised dealer feed.",
+      "variants": [
+        {
+          "sku": "DEMO-WAHOO-08",
+          "size": "One size",
+          "color": "Black",
+          "stock_quantity": 1
+        }
+      ],
+      "attributes": {
+        "manufacturer_source_url": "https://www.wahoofitness.com/devices",
+        "provenance_status": "Manufacturer catalogue reference; identity verified for demonstration",
+        "technical_specifications": "Not published in demo until verified from an authorised feed",
+        "price_status": "Illustrative demonstration price ($300.00) \u2014 not a retail price",
+        "variant_status": "Illustrative demonstration configuration",
+        "image_status": "No licensed image supplied; use storefront black placeholder"
+      },
+      "images": [],
+      "image_rights": "unknown"
+    },
+    {
+      "name": "DEMO \u00b7 KICKR HEADWIND",
+      "sku": "DEMO-WAHOO-09",
+      "price_cents": 30000,
+      "stock_quantity": 1,
+      "category_id": "equipment",
+      "subtype_id": "electronics",
+      "subtype_label": "Electronics",
+      "audiences": [
+        "unisex"
+      ],
+      "description": "Illustrative portfolio listing for the verified Wahoo product identity \u2018KICKR HEADWIND\u2019. This is not a live retail offer; price, stock, size and colour are demonstration values pending an authorised dealer feed.",
+      "variants": [
+        {
+          "sku": "DEMO-WAHOO-09",
+          "size": "One size",
+          "color": "Black",
+          "stock_quantity": 1
+        }
+      ],
+      "attributes": {
+        "manufacturer_source_url": "https://www.wahoofitness.com/devices",
+        "provenance_status": "Manufacturer catalogue reference; identity verified for demonstration",
+        "technical_specifications": "Not published in demo until verified from an authorised feed",
+        "price_status": "Illustrative demonstration price ($300.00) \u2014 not a retail price",
+        "variant_status": "Illustrative demonstration configuration",
+        "image_status": "No licensed image supplied; use storefront black placeholder"
+      },
+      "images": [],
+      "image_rights": "unknown"
+    },
+    {
+      "name": "DEMO \u00b7 TRACKR RADAR",
+      "sku": "DEMO-WAHOO-10",
+      "price_cents": 30000,
+      "stock_quantity": 1,
+      "category_id": "equipment",
+      "subtype_id": "electronics",
+      "subtype_label": "Electronics",
+      "audiences": [
+        "unisex"
+      ],
+      "description": "Illustrative portfolio listing for the verified Wahoo product identity \u2018TRACKR RADAR\u2019. This is not a live retail offer; price, stock, size and colour are demonstration values pending an authorised dealer feed.",
+      "variants": [
+        {
+          "sku": "DEMO-WAHOO-10",
+          "size": "One size",
+          "color": "Black",
+          "stock_quantity": 1
+        }
+      ],
+      "attributes": {
+        "manufacturer_source_url": "https://www.wahoofitness.com/devices",
+        "provenance_status": "Manufacturer catalogue reference; identity verified for demonstration",
+        "technical_specifications": "Not published in demo until verified from an authorised feed",
+        "price_status": "Illustrative demonstration price ($300.00) \u2014 not a retail price",
+        "variant_status": "Illustrative demonstration configuration",
+        "image_status": "No licensed image supplied; use storefront black placeholder"
+      },
+      "images": [],
+      "image_rights": "unknown"
+    },
+    {
+      "name": "DEMO \u00b7 TRACKR HEART RATE",
+      "sku": "DEMO-WAHOO-11",
+      "price_cents": 30000,
+      "stock_quantity": 1,
+      "category_id": "equipment",
+      "subtype_id": "electronics",
+      "subtype_label": "Electronics",
+      "audiences": [
+        "unisex"
+      ],
+      "description": "Illustrative portfolio listing for the verified Wahoo product identity \u2018TRACKR HEART RATE\u2019. This is not a live retail offer; price, stock, size and colour are demonstration values pending an authorised dealer feed.",
+      "variants": [
+        {
+          "sku": "DEMO-WAHOO-11",
+          "size": "One size",
+          "color": "Black",
+          "stock_quantity": 1
+        }
+      ],
+      "attributes": {
+        "manufacturer_source_url": "https://www.wahoofitness.com/devices",
+        "provenance_status": "Manufacturer catalogue reference; identity verified for demonstration",
+        "technical_specifications": "Not published in demo until verified from an authorised feed",
+        "price_status": "Illustrative demonstration price ($300.00) \u2014 not a retail price",
+        "variant_status": "Illustrative demonstration configuration",
+        "image_status": "No licensed image supplied; use storefront black placeholder"
+      },
+      "images": [],
+      "image_rights": "unknown"
+    },
+    {
+      "name": "DEMO \u00b7 SPEEDPLAY COMP Pedals",
+      "sku": "DEMO-WAHOO-12",
+      "price_cents": 30000,
+      "stock_quantity": 1,
+      "category_id": "equipment",
+      "subtype_id": "electronics",
+      "subtype_label": "Electronics",
+      "audiences": [
+        "unisex"
+      ],
+      "description": "Illustrative portfolio listing for the verified Wahoo product identity \u2018SPEEDPLAY COMP Pedals\u2019. This is not a live retail offer; price, stock, size and colour are demonstration values pending an authorised dealer feed.",
+      "variants": [
+        {
+          "sku": "DEMO-WAHOO-12",
+          "size": "One size",
+          "color": "Black",
+          "stock_quantity": 1
+        }
+      ],
+      "attributes": {
+        "manufacturer_source_url": "https://www.wahoofitness.com/devices",
+        "provenance_status": "Manufacturer catalogue reference; identity verified for demonstration",
+        "technical_specifications": "Not published in demo until verified from an authorised feed",
+        "price_status": "Illustrative demonstration price ($300.00) \u2014 not a retail price",
+        "variant_status": "Illustrative demonstration configuration",
+        "image_status": "No licensed image supplied; use storefront black placeholder"
+      },
+      "images": [],
+      "image_rights": "unknown"
+    },
+    {
+      "name": "DEMO \u00b7 SPEEDPLAY ZERO Pedals",
+      "sku": "DEMO-WAHOO-13",
+      "price_cents": 30000,
+      "stock_quantity": 1,
+      "category_id": "equipment",
+      "subtype_id": "electronics",
+      "subtype_label": "Electronics",
+      "audiences": [
+        "unisex"
+      ],
+      "description": "Illustrative portfolio listing for the verified Wahoo product identity \u2018SPEEDPLAY ZERO Pedals\u2019. This is not a live retail offer; price, stock, size and colour are demonstration values pending an authorised dealer feed.",
+      "variants": [
+        {
+          "sku": "DEMO-WAHOO-13",
+          "size": "One size",
+          "color": "Black",
+          "stock_quantity": 1
+        }
+      ],
+      "attributes": {
+        "manufacturer_source_url": "https://www.wahoofitness.com/devices",
+        "provenance_status": "Manufacturer catalogue reference; identity verified for demonstration",
+        "technical_specifications": "Not published in demo until verified from an authorised feed",
+        "price_status": "Illustrative demonstration price ($300.00) \u2014 not a retail price",
+        "variant_status": "Illustrative demonstration configuration",
+        "image_status": "No licensed image supplied; use storefront black placeholder"
+      },
+      "images": [],
+      "image_rights": "unknown"
+    },
+    {
+      "name": "DEMO \u00b7 SPEEDPLAY NANO Pedals",
+      "sku": "DEMO-WAHOO-14",
+      "price_cents": 30000,
+      "stock_quantity": 1,
+      "category_id": "equipment",
+      "subtype_id": "electronics",
+      "subtype_label": "Electronics",
+      "audiences": [
+        "unisex"
+      ],
+      "description": "Illustrative portfolio listing for the verified Wahoo product identity \u2018SPEEDPLAY NANO Pedals\u2019. This is not a live retail offer; price, stock, size and colour are demonstration values pending an authorised dealer feed.",
+      "variants": [
+        {
+          "sku": "DEMO-WAHOO-14",
+          "size": "One size",
+          "color": "Black",
+          "stock_quantity": 1
+        }
+      ],
+      "attributes": {
+        "manufacturer_source_url": "https://www.wahoofitness.com/devices",
+        "provenance_status": "Manufacturer catalogue reference; identity verified for demonstration",
+        "technical_specifications": "Not published in demo until verified from an authorised feed",
+        "price_status": "Illustrative demonstration price ($300.00) \u2014 not a retail price",
+        "variant_status": "Illustrative demonstration configuration",
+        "image_status": "No licensed image supplied; use storefront black placeholder"
+      },
+      "images": [],
+      "image_rights": "unknown"
+    },
+    {
+      "name": "DEMO \u00b7 POWRLINK ZERO Dual-Sided Power Pedals",
+      "sku": "DEMO-WAHOO-15",
+      "price_cents": 30000,
+      "stock_quantity": 1,
+      "category_id": "equipment",
+      "subtype_id": "electronics",
+      "subtype_label": "Electronics",
+      "audiences": [
+        "unisex"
+      ],
+      "description": "Illustrative portfolio listing for the verified Wahoo product identity \u2018POWRLINK ZERO Dual-Sided Power Pedals\u2019. This is not a live retail offer; price, stock, size and colour are demonstration values pending an authorised dealer feed.",
+      "variants": [
+        {
+          "sku": "DEMO-WAHOO-15",
+          "size": "One size",
+          "color": "Black",
+          "stock_quantity": 1
+        }
+      ],
+      "attributes": {
+        "manufacturer_source_url": "https://www.wahoofitness.com/devices",
+        "provenance_status": "Manufacturer catalogue reference; identity verified for demonstration",
+        "technical_specifications": "Not published in demo until verified from an authorised feed",
+        "price_status": "Illustrative demonstration price ($300.00) \u2014 not a retail price",
+        "variant_status": "Illustrative demonstration configuration",
+        "image_status": "No licensed image supplied; use storefront black placeholder"
+      },
+      "images": [],
+      "image_rights": "unknown"
+    }
+  ]
+}

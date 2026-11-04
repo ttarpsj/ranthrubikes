@@ -1,0 +1,469 @@
+{
+  "products": [
+    {
+      "name": "DEMO \u00b7 Nano Tech Bike Cleaner",
+      "sku": "DEMO-MUC-OFF-01",
+      "price_cents": 2500,
+      "stock_quantity": 1,
+      "category_id": "equipment",
+      "subtype_id": "bike-care",
+      "subtype_label": "Bike Care",
+      "audiences": [
+        "unisex"
+      ],
+      "description": "Illustrative portfolio listing for the verified Muc-Off product identity \u2018Nano Tech Bike Cleaner\u2019. This is not a live retail offer; price, stock, size and colour are demonstration values pending an authorised dealer feed.",
+      "variants": [
+        {
+          "sku": "DEMO-MUC-OFF-01",
+          "size": "One size",
+          "color": "N/A",
+          "stock_quantity": 1
+        }
+      ],
+      "attributes": {
+        "manufacturer_source_url": "https://muc-off.com/collections/bicycle",
+        "provenance_status": "Manufacturer catalogue reference; identity verified for demonstration",
+        "technical_specifications": "Not published in demo until verified from an authorised feed",
+        "price_status": "Illustrative demonstration price ($25.00) \u2014 not a retail price",
+        "variant_status": "Illustrative demonstration configuration",
+        "image_status": "No licensed image supplied; use storefront black placeholder"
+      },
+      "images": [],
+      "image_rights": "unknown"
+    },
+    {
+      "name": "DEMO \u00b7 Nano Tech Bike Cleaner Concentrate",
+      "sku": "DEMO-MUC-OFF-02",
+      "price_cents": 2500,
+      "stock_quantity": 1,
+      "category_id": "equipment",
+      "subtype_id": "bike-care",
+      "subtype_label": "Bike Care",
+      "audiences": [
+        "unisex"
+      ],
+      "description": "Illustrative portfolio listing for the verified Muc-Off product identity \u2018Nano Tech Bike Cleaner Concentrate\u2019. This is not a live retail offer; price, stock, size and colour are demonstration values pending an authorised dealer feed.",
+      "variants": [
+        {
+          "sku": "DEMO-MUC-OFF-02",
+          "size": "One size",
+          "color": "N/A",
+          "stock_quantity": 1
+        }
+      ],
+      "attributes": {
+        "manufacturer_source_url": "https://muc-off.com/collections/bicycle",
+        "provenance_status": "Manufacturer catalogue reference; identity verified for demonstration",
+        "technical_specifications": "Not published in demo until verified from an authorised feed",
+        "price_status": "Illustrative demonstration price ($25.00) \u2014 not a retail price",
+        "variant_status": "Illustrative demonstration configuration",
+        "image_status": "No licensed image supplied; use storefront black placeholder"
+      },
+      "images": [],
+      "image_rights": "unknown"
+    },
+    {
+      "name": "DEMO \u00b7 Drivetrain Cleaner",
+      "sku": "DEMO-MUC-OFF-03",
+      "price_cents": 2500,
+      "stock_quantity": 1,
+      "category_id": "equipment",
+      "subtype_id": "bike-care",
+      "subtype_label": "Bike Care",
+      "audiences": [
+        "unisex"
+      ],
+      "description": "Illustrative portfolio listing for the verified Muc-Off product identity \u2018Drivetrain Cleaner\u2019. This is not a live retail offer; price, stock, size and colour are demonstration values pending an authorised dealer feed.",
+      "variants": [
+        {
+          "sku": "DEMO-MUC-OFF-03",
+          "size": "One size",
+          "color": "N/A",
+          "stock_quantity": 1
+        }
+      ],
+      "attributes": {
+        "manufacturer_source_url": "https://muc-off.com/collections/bicycle",
+        "provenance_status": "Manufacturer catalogue reference; identity verified for demonstration",
+        "technical_specifications": "Not published in demo until verified from an authorised feed",
+        "price_status": "Illustrative demonstration price ($25.00) \u2014 not a retail price",
+        "variant_status": "Illustrative demonstration configuration",
+        "image_status": "No licensed image supplied; use storefront black placeholder"
+      },
+      "images": [],
+      "image_rights": "unknown"
+    },
+    {
+      "name": "DEMO \u00b7 Bio Drivetrain Cleaner",
+      "sku": "DEMO-MUC-OFF-04",
+      "price_cents": 2500,
+      "stock_quantity": 1,
+      "category_id": "equipment",
+      "subtype_id": "bike-care",
+      "subtype_label": "Bike Care",
+      "audiences": [
+        "unisex"
+      ],
+      "description": "Illustrative portfolio listing for the verified Muc-Off product identity \u2018Bio Drivetrain Cleaner\u2019. This is not a live retail offer; price, stock, size and colour are demonstration values pending an authorised dealer feed.",
+      "variants": [
+        {
+          "sku": "DEMO-MUC-OFF-04",
+          "size": "One size",
+          "color": "N/A",
+          "stock_quantity": 1
+        }
+      ],
+      "attributes": {
+        "manufacturer_source_url": "https://muc-off.com/collections/bicycle",
+        "provenance_status": "Manufacturer catalogue reference; identity verified for demonstration",
+        "technical_specifications": "Not published in demo until verified from an authorised feed",
+        "price_status": "Illustrative demonstration price ($25.00) \u2014 not a retail price",
+        "variant_status": "Illustrative demonstration configuration",
+        "image_status": "No licensed image supplied; use storefront black placeholder"
+      },
+      "images": [],
+      "image_rights": "unknown"
+    },
+    {
+      "name": "DEMO \u00b7 Disc Brake Cleaner",
+      "sku": "DEMO-MUC-OFF-05",
+      "price_cents": 2500,
+      "stock_quantity": 1,
+      "category_id": "equipment",
+      "subtype_id": "bike-care",
+      "subtype_label": "Bike Care",
+      "audiences": [
+        "unisex"
+      ],
+      "description": "Illustrative portfolio listing for the verified Muc-Off product identity \u2018Disc Brake Cleaner\u2019. This is not a live retail offer; price, stock, size and colour are demonstration values pending an authorised dealer feed.",
+      "variants": [
+        {
+          "sku": "DEMO-MUC-OFF-05",
+          "size": "One size",
+          "color": "N/A",
+          "stock_quantity": 1
+        }
+      ],
+      "attributes": {
+        "manufacturer_source_url": "https://muc-off.com/collections/bicycle",
+        "provenance_status": "Manufacturer catalogue reference; identity verified for demonstration",
+        "technical_specifications": "Not published in demo until verified from an authorised feed",
+        "price_status": "Illustrative demonstration price ($25.00) \u2014 not a retail price",
+        "variant_status": "Illustrative demonstration configuration",
+        "image_status": "No licensed image supplied; use storefront black placeholder"
+      },
+      "images": [],
+      "image_rights": "unknown"
+    },
+    {
+      "name": "DEMO \u00b7 Wet Weather Lube",
+      "sku": "DEMO-MUC-OFF-06",
+      "price_cents": 2500,
+      "stock_quantity": 1,
+      "category_id": "equipment",
+      "subtype_id": "bike-care",
+      "subtype_label": "Bike Care",
+      "audiences": [
+        "unisex"
+      ],
+      "description": "Illustrative portfolio listing for the verified Muc-Off product identity \u2018Wet Weather Lube\u2019. This is not a live retail offer; price, stock, size and colour are demonstration values pending an authorised dealer feed.",
+      "variants": [
+        {
+          "sku": "DEMO-MUC-OFF-06",
+          "size": "One size",
+          "color": "N/A",
+          "stock_quantity": 1
+        }
+      ],
+      "attributes": {
+        "manufacturer_source_url": "https://muc-off.com/collections/bicycle",
+        "provenance_status": "Manufacturer catalogue reference; identity verified for demonstration",
+        "technical_specifications": "Not published in demo until verified from an authorised feed",
+        "price_status": "Illustrative demonstration price ($25.00) \u2014 not a retail price",
+        "variant_status": "Illustrative demonstration configuration",
+        "image_status": "No licensed image supplied; use storefront black placeholder"
+      },
+      "images": [],
+      "image_rights": "unknown"
+    },
+    {
+      "name": "DEMO \u00b7 Dry Weather Lube",
+      "sku": "DEMO-MUC-OFF-07",
+      "price_cents": 2500,
+      "stock_quantity": 1,
+      "category_id": "equipment",
+      "subtype_id": "bike-care",
+      "subtype_label": "Bike Care",
+      "audiences": [
+        "unisex"
+      ],
+      "description": "Illustrative portfolio listing for the verified Muc-Off product identity \u2018Dry Weather Lube\u2019. This is not a live retail offer; price, stock, size and colour are demonstration values pending an authorised dealer feed.",
+      "variants": [
+        {
+          "sku": "DEMO-MUC-OFF-07",
+          "size": "One size",
+          "color": "N/A",
+          "stock_quantity": 1
+        }
+      ],
+      "attributes": {
+        "manufacturer_source_url": "https://muc-off.com/collections/bicycle",
+        "provenance_status": "Manufacturer catalogue reference; identity verified for demonstration",
+        "technical_specifications": "Not published in demo until verified from an authorised feed",
+        "price_status": "Illustrative demonstration price ($25.00) \u2014 not a retail price",
+        "variant_status": "Illustrative demonstration configuration",
+        "image_status": "No licensed image supplied; use storefront black placeholder"
+      },
+      "images": [],
+      "image_rights": "unknown"
+    },
+    {
+      "name": "DEMO \u00b7 All Weather Lube",
+      "sku": "DEMO-MUC-OFF-08",
+      "price_cents": 2500,
+      "stock_quantity": 1,
+      "category_id": "equipment",
+      "subtype_id": "bike-care",
+      "subtype_label": "Bike Care",
+      "audiences": [
+        "unisex"
+      ],
+      "description": "Illustrative portfolio listing for the verified Muc-Off product identity \u2018All Weather Lube\u2019. This is not a live retail offer; price, stock, size and colour are demonstration values pending an authorised dealer feed.",
+      "variants": [
+        {
+          "sku": "DEMO-MUC-OFF-08",
+          "size": "One size",
+          "color": "N/A",
+          "stock_quantity": 1
+        }
+      ],
+      "attributes": {
+        "manufacturer_source_url": "https://muc-off.com/collections/bicycle",
+        "provenance_status": "Manufacturer catalogue reference; identity verified for demonstration",
+        "technical_specifications": "Not published in demo until verified from an authorised feed",
+        "price_status": "Illustrative demonstration price ($25.00) \u2014 not a retail price",
+        "variant_status": "Illustrative demonstration configuration",
+        "image_status": "No licensed image supplied; use storefront black placeholder"
+      },
+      "images": [],
+      "image_rights": "unknown"
+    },
+    {
+      "name": "DEMO \u00b7 C3 Ceramic Wet Lube",
+      "sku": "DEMO-MUC-OFF-09",
+      "price_cents": 2500,
+      "stock_quantity": 1,
+      "category_id": "equipment",
+      "subtype_id": "bike-care",
+      "subtype_label": "Bike Care",
+      "audiences": [
+        "unisex"
+      ],
+      "description": "Illustrative portfolio listing for the verified Muc-Off product identity \u2018C3 Ceramic Wet Lube\u2019. This is not a live retail offer; price, stock, size and colour are demonstration values pending an authorised dealer feed.",
+      "variants": [
+        {
+          "sku": "DEMO-MUC-OFF-09",
+          "size": "One size",
+          "color": "N/A",
+          "stock_quantity": 1
+        }
+      ],
+      "attributes": {
+        "manufacturer_source_url": "https://muc-off.com/collections/bicycle",
+        "provenance_status": "Manufacturer catalogue reference; identity verified for demonstration",
+        "technical_specifications": "Not published in demo until verified from an authorised feed",
+        "price_status": "Illustrative demonstration price ($25.00) \u2014 not a retail price",
+        "variant_status": "Illustrative demonstration configuration",
+        "image_status": "No licensed image supplied; use storefront black placeholder"
+      },
+      "images": [],
+      "image_rights": "unknown"
+    },
+    {
+      "name": "DEMO \u00b7 C3 Ceramic Dry Lube",
+      "sku": "DEMO-MUC-OFF-10",
+      "price_cents": 2500,
+      "stock_quantity": 1,
+      "category_id": "equipment",
+      "subtype_id": "bike-care",
+      "subtype_label": "Bike Care",
+      "audiences": [
+        "unisex"
+      ],
+      "description": "Illustrative portfolio listing for the verified Muc-Off product identity \u2018C3 Ceramic Dry Lube\u2019. This is not a live retail offer; price, stock, size and colour are demonstration values pending an authorised dealer feed.",
+      "variants": [
+        {
+          "sku": "DEMO-MUC-OFF-10",
+          "size": "One size",
+          "color": "N/A",
+          "stock_quantity": 1
+        }
+      ],
+      "attributes": {
+        "manufacturer_source_url": "https://muc-off.com/collections/bicycle",
+        "provenance_status": "Manufacturer catalogue reference; identity verified for demonstration",
+        "technical_specifications": "Not published in demo until verified from an authorised feed",
+        "price_status": "Illustrative demonstration price ($25.00) \u2014 not a retail price",
+        "variant_status": "Illustrative demonstration configuration",
+        "image_status": "No licensed image supplied; use storefront black placeholder"
+      },
+      "images": [],
+      "image_rights": "unknown"
+    },
+    {
+      "name": "DEMO \u00b7 MO-94",
+      "sku": "DEMO-MUC-OFF-11",
+      "price_cents": 2500,
+      "stock_quantity": 1,
+      "category_id": "equipment",
+      "subtype_id": "bike-care",
+      "subtype_label": "Bike Care",
+      "audiences": [
+        "unisex"
+      ],
+      "description": "Illustrative portfolio listing for the verified Muc-Off product identity \u2018MO-94\u2019. This is not a live retail offer; price, stock, size and colour are demonstration values pending an authorised dealer feed.",
+      "variants": [
+        {
+          "sku": "DEMO-MUC-OFF-11",
+          "size": "One size",
+          "color": "N/A",
+          "stock_quantity": 1
+        }
+      ],
+      "attributes": {
+        "manufacturer_source_url": "https://muc-off.com/collections/bicycle",
+        "provenance_status": "Manufacturer catalogue reference; identity verified for demonstration",
+        "technical_specifications": "Not published in demo until verified from an authorised feed",
+        "price_status": "Illustrative demonstration price ($25.00) \u2014 not a retail price",
+        "variant_status": "Illustrative demonstration configuration",
+        "image_status": "No licensed image supplied; use storefront black placeholder"
+      },
+      "images": [],
+      "image_rights": "unknown"
+    },
+    {
+      "name": "DEMO \u00b7 HCB-1",
+      "sku": "DEMO-MUC-OFF-12",
+      "price_cents": 2500,
+      "stock_quantity": 1,
+      "category_id": "equipment",
+      "subtype_id": "bike-care",
+      "subtype_label": "Bike Care",
+      "audiences": [
+        "unisex"
+      ],
+      "description": "Illustrative portfolio listing for the verified Muc-Off product identity \u2018HCB-1\u2019. This is not a live retail offer; price, stock, size and colour are demonstration values pending an authorised dealer feed.",
+      "variants": [
+        {
+          "sku": "DEMO-MUC-OFF-12",
+          "size": "One size",
+          "color": "N/A",
+          "stock_quantity": 1
+        }
+      ],
+      "attributes": {
+        "manufacturer_source_url": "https://muc-off.com/collections/bicycle",
+        "provenance_status": "Manufacturer catalogue reference; identity verified for demonstration",
+        "technical_specifications": "Not published in demo until verified from an authorised feed",
+        "price_status": "Illustrative demonstration price ($25.00) \u2014 not a retail price",
+        "variant_status": "Illustrative demonstration configuration",
+        "image_status": "No licensed image supplied; use storefront black placeholder"
+      },
+      "images": [],
+      "image_rights": "unknown"
+    },
+    {
+      "name": "DEMO \u00b7 No Puncture Hassle Tubeless Sealant",
+      "sku": "DEMO-MUC-OFF-13",
+      "price_cents": 2500,
+      "stock_quantity": 1,
+      "category_id": "equipment",
+      "subtype_id": "bike-care",
+      "subtype_label": "Bike Care",
+      "audiences": [
+        "unisex"
+      ],
+      "description": "Illustrative portfolio listing for the verified Muc-Off product identity \u2018No Puncture Hassle Tubeless Sealant\u2019. This is not a live retail offer; price, stock, size and colour are demonstration values pending an authorised dealer feed.",
+      "variants": [
+        {
+          "sku": "DEMO-MUC-OFF-13",
+          "size": "One size",
+          "color": "N/A",
+          "stock_quantity": 1
+        }
+      ],
+      "attributes": {
+        "manufacturer_source_url": "https://muc-off.com/collections/bicycle",
+        "provenance_status": "Manufacturer catalogue reference; identity verified for demonstration",
+        "technical_specifications": "Not published in demo until verified from an authorised feed",
+        "price_status": "Illustrative demonstration price ($25.00) \u2014 not a retail price",
+        "variant_status": "Illustrative demonstration configuration",
+        "image_status": "No licensed image supplied; use storefront black placeholder"
+      },
+      "images": [],
+      "image_rights": "unknown"
+    },
+    {
+      "name": "DEMO \u00b7 Stealth Tubeless Puncture Plug",
+      "sku": "DEMO-MUC-OFF-14",
+      "price_cents": 2500,
+      "stock_quantity": 1,
+      "category_id": "equipment",
+      "subtype_id": "bike-care",
+      "subtype_label": "Bike Care",
+      "audiences": [
+        "unisex"
+      ],
+      "description": "Illustrative portfolio listing for the verified Muc-Off product identity \u2018Stealth Tubeless Puncture Plug\u2019. This is not a live retail offer; price, stock, size and colour are demonstration values pending an authorised dealer feed.",
+      "variants": [
+        {
+          "sku": "DEMO-MUC-OFF-14",
+          "size": "One size",
+          "color": "N/A",
+          "stock_quantity": 1
+        }
+      ],
+      "attributes": {
+        "manufacturer_source_url": "https://muc-off.com/collections/bicycle",
+        "provenance_status": "Manufacturer catalogue reference; identity verified for demonstration",
+        "technical_specifications": "Not published in demo until verified from an authorised feed",
+        "price_status": "Illustrative demonstration price ($25.00) \u2014 not a retail price",
+        "variant_status": "Illustrative demonstration configuration",
+        "image_status": "No licensed image supplied; use storefront black placeholder"
+      },
+      "images": [],
+      "image_rights": "unknown"
+    },
+    {
+      "name": "DEMO \u00b7 Ultimate Bicycle Cleaning Kit",
+      "sku": "DEMO-MUC-OFF-15",
+      "price_cents": 2500,
+      "stock_quantity": 1,
+      "category_id": "equipment",
+      "subtype_id": "bike-care",
+      "subtype_label": "Bike Care",
+      "audiences": [
+        "unisex"
+      ],
+      "description": "Illustrative portfolio listing for the verified Muc-Off product identity \u2018Ultimate Bicycle Cleaning Kit\u2019. This is not a live retail offer; price, stock, size and colour are demonstration values pending an authorised dealer feed.",
+      "variants": [
+        {
+          "sku": "DEMO-MUC-OFF-15",
+          "size": "One size",
+          "color": "N/A",
+          "stock_quantity": 1
+        }
+      ],
+      "attributes": {
+        "manufacturer_source_url": "https://muc-off.com/collections/bicycle",
+        "provenance_status": "Manufacturer catalogue reference; identity verified for demonstration",
+        "technical_specifications": "Not published in demo until verified from an authorised feed",
+        "price_status": "Illustrative demonstration price ($25.00) \u2014 not a retail price",
+        "variant_status": "Illustrative demonstration configuration",
+        "image_status": "No licensed image supplied; use storefront black placeholder"
+      },
+      "images": [],
+      "image_rights": "unknown"
+    }
+  ]
+}

@@ -1,0 +1,469 @@
+{
+  "products": [
+    {
+      "name": "DEMO \u00b7 CX Pro 4.0 Jersey",
+      "sku": "DEMO-GOBIK-01",
+      "price_cents": 12000,
+      "stock_quantity": 1,
+      "category_id": "clothing",
+      "subtype_id": "short-sleeve-jerseys",
+      "subtype_label": "Short Sleeve Jerseys",
+      "audiences": [
+        "men"
+      ],
+      "description": "Illustrative portfolio listing for the verified GOBIK product identity \u2018CX Pro 4.0 Jersey\u2019. This is not a live retail offer; price, stock, size and colour are demonstration values pending an authorised dealer feed.",
+      "variants": [
+        {
+          "sku": "DEMO-GOBIK-01",
+          "size": "M",
+          "color": "Demo Black",
+          "stock_quantity": 1
+        }
+      ],
+      "attributes": {
+        "manufacturer_source_url": "https://gobik.com/en/collections/cycling-clothing",
+        "provenance_status": "Manufacturer catalogue reference; identity verified for demonstration",
+        "technical_specifications": "Not published in demo until verified from an authorised feed",
+        "price_status": "Illustrative demonstration price ($120.00) \u2014 not a retail price",
+        "variant_status": "Illustrative demonstration configuration",
+        "image_status": "No licensed image supplied; use storefront black placeholder"
+      },
+      "images": [],
+      "image_rights": "unknown"
+    },
+    {
+      "name": "DEMO \u00b7 Stark Jersey",
+      "sku": "DEMO-GOBIK-02",
+      "price_cents": 12000,
+      "stock_quantity": 1,
+      "category_id": "clothing",
+      "subtype_id": "short-sleeve-jerseys",
+      "subtype_label": "Short Sleeve Jerseys",
+      "audiences": [
+        "men"
+      ],
+      "description": "Illustrative portfolio listing for the verified GOBIK product identity \u2018Stark Jersey\u2019. This is not a live retail offer; price, stock, size and colour are demonstration values pending an authorised dealer feed.",
+      "variants": [
+        {
+          "sku": "DEMO-GOBIK-02",
+          "size": "M",
+          "color": "Demo Black",
+          "stock_quantity": 1
+        }
+      ],
+      "attributes": {
+        "manufacturer_source_url": "https://gobik.com/en/collections/cycling-clothing",
+        "provenance_status": "Manufacturer catalogue reference; identity verified for demonstration",
+        "technical_specifications": "Not published in demo until verified from an authorised feed",
+        "price_status": "Illustrative demonstration price ($120.00) \u2014 not a retail price",
+        "variant_status": "Illustrative demonstration configuration",
+        "image_status": "No licensed image supplied; use storefront black placeholder"
+      },
+      "images": [],
+      "image_rights": "unknown"
+    },
+    {
+      "name": "DEMO \u00b7 Carrera 2.0 Bib Shorts",
+      "sku": "DEMO-GOBIK-03",
+      "price_cents": 12000,
+      "stock_quantity": 1,
+      "category_id": "clothing",
+      "subtype_id": "bibshorts",
+      "subtype_label": "Bibshorts",
+      "audiences": [
+        "men"
+      ],
+      "description": "Illustrative portfolio listing for the verified GOBIK product identity \u2018Carrera 2.0 Bib Shorts\u2019. This is not a live retail offer; price, stock, size and colour are demonstration values pending an authorised dealer feed.",
+      "variants": [
+        {
+          "sku": "DEMO-GOBIK-03",
+          "size": "M",
+          "color": "Demo Black",
+          "stock_quantity": 1
+        }
+      ],
+      "attributes": {
+        "manufacturer_source_url": "https://gobik.com/en/collections/cycling-clothing",
+        "provenance_status": "Manufacturer catalogue reference; identity verified for demonstration",
+        "technical_specifications": "Not published in demo until verified from an authorised feed",
+        "price_status": "Illustrative demonstration price ($120.00) \u2014 not a retail price",
+        "variant_status": "Illustrative demonstration configuration",
+        "image_status": "No licensed image supplied; use storefront black placeholder"
+      },
+      "images": [],
+      "image_rights": "unknown"
+    },
+    {
+      "name": "DEMO \u00b7 Absolute 6.0 Bib Shorts",
+      "sku": "DEMO-GOBIK-04",
+      "price_cents": 12000,
+      "stock_quantity": 1,
+      "category_id": "clothing",
+      "subtype_id": "bibshorts",
+      "subtype_label": "Bibshorts",
+      "audiences": [
+        "men"
+      ],
+      "description": "Illustrative portfolio listing for the verified GOBIK product identity \u2018Absolute 6.0 Bib Shorts\u2019. This is not a live retail offer; price, stock, size and colour are demonstration values pending an authorised dealer feed.",
+      "variants": [
+        {
+          "sku": "DEMO-GOBIK-04",
+          "size": "M",
+          "color": "Demo Black",
+          "stock_quantity": 1
+        }
+      ],
+      "attributes": {
+        "manufacturer_source_url": "https://gobik.com/en/collections/cycling-clothing",
+        "provenance_status": "Manufacturer catalogue reference; identity verified for demonstration",
+        "technical_specifications": "Not published in demo until verified from an authorised feed",
+        "price_status": "Illustrative demonstration price ($120.00) \u2014 not a retail price",
+        "variant_status": "Illustrative demonstration configuration",
+        "image_status": "No licensed image supplied; use storefront black placeholder"
+      },
+      "images": [],
+      "image_rights": "unknown"
+    },
+    {
+      "name": "DEMO \u00b7 Phantom Jacket",
+      "sku": "DEMO-GOBIK-05",
+      "price_cents": 12000,
+      "stock_quantity": 1,
+      "category_id": "clothing",
+      "subtype_id": "jackets",
+      "subtype_label": "Jackets",
+      "audiences": [
+        "men"
+      ],
+      "description": "Illustrative portfolio listing for the verified GOBIK product identity \u2018Phantom Jacket\u2019. This is not a live retail offer; price, stock, size and colour are demonstration values pending an authorised dealer feed.",
+      "variants": [
+        {
+          "sku": "DEMO-GOBIK-05",
+          "size": "M",
+          "color": "Demo Black",
+          "stock_quantity": 1
+        }
+      ],
+      "attributes": {
+        "manufacturer_source_url": "https://gobik.com/en/collections/cycling-clothing",
+        "provenance_status": "Manufacturer catalogue reference; identity verified for demonstration",
+        "technical_specifications": "Not published in demo until verified from an authorised feed",
+        "price_status": "Illustrative demonstration price ($120.00) \u2014 not a retail price",
+        "variant_status": "Illustrative demonstration configuration",
+        "image_status": "No licensed image supplied; use storefront black placeholder"
+      },
+      "images": [],
+      "image_rights": "unknown"
+    },
+    {
+      "name": "DEMO \u00b7 Skimo Pro Jacket",
+      "sku": "DEMO-GOBIK-06",
+      "price_cents": 12000,
+      "stock_quantity": 1,
+      "category_id": "clothing",
+      "subtype_id": "jackets",
+      "subtype_label": "Jackets",
+      "audiences": [
+        "men"
+      ],
+      "description": "Illustrative portfolio listing for the verified GOBIK product identity \u2018Skimo Pro Jacket\u2019. This is not a live retail offer; price, stock, size and colour are demonstration values pending an authorised dealer feed.",
+      "variants": [
+        {
+          "sku": "DEMO-GOBIK-06",
+          "size": "M",
+          "color": "Demo Black",
+          "stock_quantity": 1
+        }
+      ],
+      "attributes": {
+        "manufacturer_source_url": "https://gobik.com/en/collections/cycling-clothing",
+        "provenance_status": "Manufacturer catalogue reference; identity verified for demonstration",
+        "technical_specifications": "Not published in demo until verified from an authorised feed",
+        "price_status": "Illustrative demonstration price ($120.00) \u2014 not a retail price",
+        "variant_status": "Illustrative demonstration configuration",
+        "image_status": "No licensed image supplied; use storefront black placeholder"
+      },
+      "images": [],
+      "image_rights": "unknown"
+    },
+    {
+      "name": "DEMO \u00b7 Kaba 2.0 Jacket",
+      "sku": "DEMO-GOBIK-07",
+      "price_cents": 12000,
+      "stock_quantity": 1,
+      "category_id": "clothing",
+      "subtype_id": "jackets",
+      "subtype_label": "Jackets",
+      "audiences": [
+        "men"
+      ],
+      "description": "Illustrative portfolio listing for the verified GOBIK product identity \u2018Kaba 2.0 Jacket\u2019. This is not a live retail offer; price, stock, size and colour are demonstration values pending an authorised dealer feed.",
+      "variants": [
+        {
+          "sku": "DEMO-GOBIK-07",
+          "size": "M",
+          "color": "Demo Black",
+          "stock_quantity": 1
+        }
+      ],
+      "attributes": {
+        "manufacturer_source_url": "https://gobik.com/en/collections/cycling-clothing",
+        "provenance_status": "Manufacturer catalogue reference; identity verified for demonstration",
+        "technical_specifications": "Not published in demo until verified from an authorised feed",
+        "price_status": "Illustrative demonstration price ($120.00) \u2014 not a retail price",
+        "variant_status": "Illustrative demonstration configuration",
+        "image_status": "No licensed image supplied; use storefront black placeholder"
+      },
+      "images": [],
+      "image_rights": "unknown"
+    },
+    {
+      "name": "DEMO \u00b7 Plus 2.0 Gilet",
+      "sku": "DEMO-GOBIK-08",
+      "price_cents": 12000,
+      "stock_quantity": 1,
+      "category_id": "clothing",
+      "subtype_id": "gilets",
+      "subtype_label": "Gilets",
+      "audiences": [
+        "men"
+      ],
+      "description": "Illustrative portfolio listing for the verified GOBIK product identity \u2018Plus 2.0 Gilet\u2019. This is not a live retail offer; price, stock, size and colour are demonstration values pending an authorised dealer feed.",
+      "variants": [
+        {
+          "sku": "DEMO-GOBIK-08",
+          "size": "M",
+          "color": "Demo Black",
+          "stock_quantity": 1
+        }
+      ],
+      "attributes": {
+        "manufacturer_source_url": "https://gobik.com/en/collections/cycling-clothing",
+        "provenance_status": "Manufacturer catalogue reference; identity verified for demonstration",
+        "technical_specifications": "Not published in demo until verified from an authorised feed",
+        "price_status": "Illustrative demonstration price ($120.00) \u2014 not a retail price",
+        "variant_status": "Illustrative demonstration configuration",
+        "image_status": "No licensed image supplied; use storefront black placeholder"
+      },
+      "images": [],
+      "image_rights": "unknown"
+    },
+    {
+      "name": "DEMO \u00b7 Second Skin Baselayer",
+      "sku": "DEMO-GOBIK-09",
+      "price_cents": 12000,
+      "stock_quantity": 1,
+      "category_id": "clothing",
+      "subtype_id": "baselayers",
+      "subtype_label": "Baselayers",
+      "audiences": [
+        "men"
+      ],
+      "description": "Illustrative portfolio listing for the verified GOBIK product identity \u2018Second Skin Baselayer\u2019. This is not a live retail offer; price, stock, size and colour are demonstration values pending an authorised dealer feed.",
+      "variants": [
+        {
+          "sku": "DEMO-GOBIK-09",
+          "size": "M",
+          "color": "Demo Black",
+          "stock_quantity": 1
+        }
+      ],
+      "attributes": {
+        "manufacturer_source_url": "https://gobik.com/en/collections/cycling-clothing",
+        "provenance_status": "Manufacturer catalogue reference; identity verified for demonstration",
+        "technical_specifications": "Not published in demo until verified from an authorised feed",
+        "price_status": "Illustrative demonstration price ($120.00) \u2014 not a retail price",
+        "variant_status": "Illustrative demonstration configuration",
+        "image_status": "No licensed image supplied; use storefront black placeholder"
+      },
+      "images": [],
+      "image_rights": "unknown"
+    },
+    {
+      "name": "DEMO \u00b7 Rocket 2.0 Socks",
+      "sku": "DEMO-GOBIK-10",
+      "price_cents": 12000,
+      "stock_quantity": 1,
+      "category_id": "clothing",
+      "subtype_id": "socks",
+      "subtype_label": "Socks",
+      "audiences": [
+        "unisex"
+      ],
+      "description": "Illustrative portfolio listing for the verified GOBIK product identity \u2018Rocket 2.0 Socks\u2019. This is not a live retail offer; price, stock, size and colour are demonstration values pending an authorised dealer feed.",
+      "variants": [
+        {
+          "sku": "DEMO-GOBIK-10",
+          "size": "M",
+          "color": "Demo Black",
+          "stock_quantity": 1
+        }
+      ],
+      "attributes": {
+        "manufacturer_source_url": "https://gobik.com/en/collections/cycling-clothing",
+        "provenance_status": "Manufacturer catalogue reference; identity verified for demonstration",
+        "technical_specifications": "Not published in demo until verified from an authorised feed",
+        "price_status": "Illustrative demonstration price ($120.00) \u2014 not a retail price",
+        "variant_status": "Illustrative demonstration configuration",
+        "image_status": "No licensed image supplied; use storefront black placeholder"
+      },
+      "images": [],
+      "image_rights": "unknown"
+    },
+    {
+      "name": "DEMO \u00b7 Ionic Gloves",
+      "sku": "DEMO-GOBIK-11",
+      "price_cents": 12000,
+      "stock_quantity": 1,
+      "category_id": "clothing",
+      "subtype_id": "gloves",
+      "subtype_label": "Gloves",
+      "audiences": [
+        "unisex"
+      ],
+      "description": "Illustrative portfolio listing for the verified GOBIK product identity \u2018Ionic Gloves\u2019. This is not a live retail offer; price, stock, size and colour are demonstration values pending an authorised dealer feed.",
+      "variants": [
+        {
+          "sku": "DEMO-GOBIK-11",
+          "size": "M",
+          "color": "Demo Black",
+          "stock_quantity": 1
+        }
+      ],
+      "attributes": {
+        "manufacturer_source_url": "https://gobik.com/en/collections/cycling-clothing",
+        "provenance_status": "Manufacturer catalogue reference; identity verified for demonstration",
+        "technical_specifications": "Not published in demo until verified from an authorised feed",
+        "price_status": "Illustrative demonstration price ($120.00) \u2014 not a retail price",
+        "variant_status": "Illustrative demonstration configuration",
+        "image_status": "No licensed image supplied; use storefront black placeholder"
+      },
+      "images": [],
+      "image_rights": "unknown"
+    },
+    {
+      "name": "DEMO \u00b7 Armour 2.0 Winter Tights",
+      "sku": "DEMO-GOBIK-12",
+      "price_cents": 12000,
+      "stock_quantity": 1,
+      "category_id": "clothing",
+      "subtype_id": "winter-tights",
+      "subtype_label": "Winter Tights",
+      "audiences": [
+        "men"
+      ],
+      "description": "Illustrative portfolio listing for the verified GOBIK product identity \u2018Armour 2.0 Winter Tights\u2019. This is not a live retail offer; price, stock, size and colour are demonstration values pending an authorised dealer feed.",
+      "variants": [
+        {
+          "sku": "DEMO-GOBIK-12",
+          "size": "M",
+          "color": "Demo Black",
+          "stock_quantity": 1
+        }
+      ],
+      "attributes": {
+        "manufacturer_source_url": "https://gobik.com/en/collections/cycling-clothing",
+        "provenance_status": "Manufacturer catalogue reference; identity verified for demonstration",
+        "technical_specifications": "Not published in demo until verified from an authorised feed",
+        "price_status": "Illustrative demonstration price ($120.00) \u2014 not a retail price",
+        "variant_status": "Illustrative demonstration configuration",
+        "image_status": "No licensed image supplied; use storefront black placeholder"
+      },
+      "images": [],
+      "image_rights": "unknown"
+    },
+    {
+      "name": "DEMO \u00b7 Unisex Hoodie",
+      "sku": "DEMO-GOBIK-13",
+      "price_cents": 12000,
+      "stock_quantity": 1,
+      "category_id": "clothing",
+      "subtype_id": "sweaters",
+      "subtype_label": "Sweaters",
+      "audiences": [
+        "unisex"
+      ],
+      "description": "Illustrative portfolio listing for the verified GOBIK product identity \u2018Unisex Hoodie\u2019. This is not a live retail offer; price, stock, size and colour are demonstration values pending an authorised dealer feed.",
+      "variants": [
+        {
+          "sku": "DEMO-GOBIK-13",
+          "size": "M",
+          "color": "Demo Black",
+          "stock_quantity": 1
+        }
+      ],
+      "attributes": {
+        "manufacturer_source_url": "https://gobik.com/en/collections/cycling-clothing",
+        "provenance_status": "Manufacturer catalogue reference; identity verified for demonstration",
+        "technical_specifications": "Not published in demo until verified from an authorised feed",
+        "price_status": "Illustrative demonstration price ($120.00) \u2014 not a retail price",
+        "variant_status": "Illustrative demonstration configuration",
+        "image_status": "No licensed image supplied; use storefront black placeholder"
+      },
+      "images": [],
+      "image_rights": "unknown"
+    },
+    {
+      "name": "DEMO \u00b7 Tech T-Shirt",
+      "sku": "DEMO-GOBIK-14",
+      "price_cents": 12000,
+      "stock_quantity": 1,
+      "category_id": "clothing",
+      "subtype_id": "t-shirts",
+      "subtype_label": "T Shirts",
+      "audiences": [
+        "unisex"
+      ],
+      "description": "Illustrative portfolio listing for the verified GOBIK product identity \u2018Tech T-Shirt\u2019. This is not a live retail offer; price, stock, size and colour are demonstration values pending an authorised dealer feed.",
+      "variants": [
+        {
+          "sku": "DEMO-GOBIK-14",
+          "size": "M",
+          "color": "Demo Black",
+          "stock_quantity": 1
+        }
+      ],
+      "attributes": {
+        "manufacturer_source_url": "https://gobik.com/en/collections/cycling-clothing",
+        "provenance_status": "Manufacturer catalogue reference; identity verified for demonstration",
+        "technical_specifications": "Not published in demo until verified from an authorised feed",
+        "price_status": "Illustrative demonstration price ($120.00) \u2014 not a retail price",
+        "variant_status": "Illustrative demonstration configuration",
+        "image_status": "No licensed image supplied; use storefront black placeholder"
+      },
+      "images": [],
+      "image_rights": "unknown"
+    },
+    {
+      "name": "DEMO \u00b7 Overshoes 2.0",
+      "sku": "DEMO-GOBIK-15",
+      "price_cents": 12000,
+      "stock_quantity": 1,
+      "category_id": "clothing",
+      "subtype_id": "overshoes",
+      "subtype_label": "Overshoes",
+      "audiences": [
+        "unisex"
+      ],
+      "description": "Illustrative portfolio listing for the verified GOBIK product identity \u2018Overshoes 2.0\u2019. This is not a live retail offer; price, stock, size and colour are demonstration values pending an authorised dealer feed.",
+      "variants": [
+        {
+          "sku": "DEMO-GOBIK-15",
+          "size": "M",
+          "color": "Demo Black",
+          "stock_quantity": 1
+        }
+      ],
+      "attributes": {
+        "manufacturer_source_url": "https://gobik.com/en/collections/cycling-clothing",
+        "provenance_status": "Manufacturer catalogue reference; identity verified for demonstration",
+        "technical_specifications": "Not published in demo until verified from an authorised feed",
+        "price_status": "Illustrative demonstration price ($120.00) \u2014 not a retail price",
+        "variant_status": "Illustrative demonstration configuration",
+        "image_status": "No licensed image supplied; use storefront black placeholder"
+      },
+      "images": [],
+      "image_rights": "unknown"
+    }
+  ]
+}

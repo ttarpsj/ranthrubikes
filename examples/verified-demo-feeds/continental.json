@@ -1,0 +1,469 @@
+{
+  "products": [
+    {
+      "name": "DEMO \u00b7 Grand Prix 5000 S TR",
+      "sku": "DEMO-CONTINENTAL-01",
+      "price_cents": 6000,
+      "stock_quantity": 1,
+      "category_id": "components",
+      "subtype_id": "tires",
+      "subtype_label": "Tires",
+      "audiences": [
+        "unisex"
+      ],
+      "description": "Illustrative portfolio listing for the verified Continental product identity \u2018Grand Prix 5000 S TR\u2019. This is not a live retail offer; price, stock, size and colour are demonstration values pending an authorised dealer feed.",
+      "variants": [
+        {
+          "sku": "DEMO-CONTINENTAL-01",
+          "size": "700x28",
+          "color": "Black",
+          "stock_quantity": 1
+        }
+      ],
+      "attributes": {
+        "manufacturer_source_url": "https://www.continental-tires.com/products/bicycle/tires/",
+        "provenance_status": "Manufacturer catalogue reference; identity verified for demonstration",
+        "technical_specifications": "Not published in demo until verified from an authorised feed",
+        "price_status": "Illustrative demonstration price ($60.00) \u2014 not a retail price",
+        "variant_status": "Illustrative demonstration configuration",
+        "image_status": "No licensed image supplied; use storefront black placeholder"
+      },
+      "images": [],
+      "image_rights": "unknown"
+    },
+    {
+      "name": "DEMO \u00b7 Grand Prix 5000 AS TR",
+      "sku": "DEMO-CONTINENTAL-02",
+      "price_cents": 6000,
+      "stock_quantity": 1,
+      "category_id": "components",
+      "subtype_id": "tires",
+      "subtype_label": "Tires",
+      "audiences": [
+        "unisex"
+      ],
+      "description": "Illustrative portfolio listing for the verified Continental product identity \u2018Grand Prix 5000 AS TR\u2019. This is not a live retail offer; price, stock, size and colour are demonstration values pending an authorised dealer feed.",
+      "variants": [
+        {
+          "sku": "DEMO-CONTINENTAL-02",
+          "size": "700x28",
+          "color": "Black",
+          "stock_quantity": 1
+        }
+      ],
+      "attributes": {
+        "manufacturer_source_url": "https://www.continental-tires.com/products/bicycle/tires/",
+        "provenance_status": "Manufacturer catalogue reference; identity verified for demonstration",
+        "technical_specifications": "Not published in demo until verified from an authorised feed",
+        "price_status": "Illustrative demonstration price ($60.00) \u2014 not a retail price",
+        "variant_status": "Illustrative demonstration configuration",
+        "image_status": "No licensed image supplied; use storefront black placeholder"
+      },
+      "images": [],
+      "image_rights": "unknown"
+    },
+    {
+      "name": "DEMO \u00b7 Grand Prix 5000 TT TR",
+      "sku": "DEMO-CONTINENTAL-03",
+      "price_cents": 6000,
+      "stock_quantity": 1,
+      "category_id": "components",
+      "subtype_id": "tires",
+      "subtype_label": "Tires",
+      "audiences": [
+        "unisex"
+      ],
+      "description": "Illustrative portfolio listing for the verified Continental product identity \u2018Grand Prix 5000 TT TR\u2019. This is not a live retail offer; price, stock, size and colour are demonstration values pending an authorised dealer feed.",
+      "variants": [
+        {
+          "sku": "DEMO-CONTINENTAL-03",
+          "size": "700x28",
+          "color": "Black",
+          "stock_quantity": 1
+        }
+      ],
+      "attributes": {
+        "manufacturer_source_url": "https://www.continental-tires.com/products/bicycle/tires/",
+        "provenance_status": "Manufacturer catalogue reference; identity verified for demonstration",
+        "technical_specifications": "Not published in demo until verified from an authorised feed",
+        "price_status": "Illustrative demonstration price ($60.00) \u2014 not a retail price",
+        "variant_status": "Illustrative demonstration configuration",
+        "image_status": "No licensed image supplied; use storefront black placeholder"
+      },
+      "images": [],
+      "image_rights": "unknown"
+    },
+    {
+      "name": "DEMO \u00b7 Grand Prix 5000",
+      "sku": "DEMO-CONTINENTAL-04",
+      "price_cents": 6000,
+      "stock_quantity": 1,
+      "category_id": "components",
+      "subtype_id": "tires",
+      "subtype_label": "Tires",
+      "audiences": [
+        "unisex"
+      ],
+      "description": "Illustrative portfolio listing for the verified Continental product identity \u2018Grand Prix 5000\u2019. This is not a live retail offer; price, stock, size and colour are demonstration values pending an authorised dealer feed.",
+      "variants": [
+        {
+          "sku": "DEMO-CONTINENTAL-04",
+          "size": "700x28",
+          "color": "Black",
+          "stock_quantity": 1
+        }
+      ],
+      "attributes": {
+        "manufacturer_source_url": "https://www.continental-tires.com/products/bicycle/tires/",
+        "provenance_status": "Manufacturer catalogue reference; identity verified for demonstration",
+        "technical_specifications": "Not published in demo until verified from an authorised feed",
+        "price_status": "Illustrative demonstration price ($60.00) \u2014 not a retail price",
+        "variant_status": "Illustrative demonstration configuration",
+        "image_status": "No licensed image supplied; use storefront black placeholder"
+      },
+      "images": [],
+      "image_rights": "unknown"
+    },
+    {
+      "name": "DEMO \u00b7 Grand Prix 5000 AllSeason",
+      "sku": "DEMO-CONTINENTAL-05",
+      "price_cents": 6000,
+      "stock_quantity": 1,
+      "category_id": "components",
+      "subtype_id": "tires",
+      "subtype_label": "Tires",
+      "audiences": [
+        "unisex"
+      ],
+      "description": "Illustrative portfolio listing for the verified Continental product identity \u2018Grand Prix 5000 AllSeason\u2019. This is not a live retail offer; price, stock, size and colour are demonstration values pending an authorised dealer feed.",
+      "variants": [
+        {
+          "sku": "DEMO-CONTINENTAL-05",
+          "size": "700x28",
+          "color": "Black",
+          "stock_quantity": 1
+        }
+      ],
+      "attributes": {
+        "manufacturer_source_url": "https://www.continental-tires.com/products/bicycle/tires/",
+        "provenance_status": "Manufacturer catalogue reference; identity verified for demonstration",
+        "technical_specifications": "Not published in demo until verified from an authorised feed",
+        "price_status": "Illustrative demonstration price ($60.00) \u2014 not a retail price",
+        "variant_status": "Illustrative demonstration configuration",
+        "image_status": "No licensed image supplied; use storefront black placeholder"
+      },
+      "images": [],
+      "image_rights": "unknown"
+    },
+    {
+      "name": "DEMO \u00b7 Grand Prix 5000 Clincher",
+      "sku": "DEMO-CONTINENTAL-06",
+      "price_cents": 6000,
+      "stock_quantity": 1,
+      "category_id": "components",
+      "subtype_id": "tires",
+      "subtype_label": "Tires",
+      "audiences": [
+        "unisex"
+      ],
+      "description": "Illustrative portfolio listing for the verified Continental product identity \u2018Grand Prix 5000 Clincher\u2019. This is not a live retail offer; price, stock, size and colour are demonstration values pending an authorised dealer feed.",
+      "variants": [
+        {
+          "sku": "DEMO-CONTINENTAL-06",
+          "size": "700x28",
+          "color": "Black",
+          "stock_quantity": 1
+        }
+      ],
+      "attributes": {
+        "manufacturer_source_url": "https://www.continental-tires.com/products/bicycle/tires/",
+        "provenance_status": "Manufacturer catalogue reference; identity verified for demonstration",
+        "technical_specifications": "Not published in demo until verified from an authorised feed",
+        "price_status": "Illustrative demonstration price ($60.00) \u2014 not a retail price",
+        "variant_status": "Illustrative demonstration configuration",
+        "image_status": "No licensed image supplied; use storefront black placeholder"
+      },
+      "images": [],
+      "image_rights": "unknown"
+    },
+    {
+      "name": "DEMO \u00b7 Terra Speed",
+      "sku": "DEMO-CONTINENTAL-07",
+      "price_cents": 6000,
+      "stock_quantity": 1,
+      "category_id": "components",
+      "subtype_id": "tires",
+      "subtype_label": "Tires",
+      "audiences": [
+        "unisex"
+      ],
+      "description": "Illustrative portfolio listing for the verified Continental product identity \u2018Terra Speed\u2019. This is not a live retail offer; price, stock, size and colour are demonstration values pending an authorised dealer feed.",
+      "variants": [
+        {
+          "sku": "DEMO-CONTINENTAL-07",
+          "size": "700x28",
+          "color": "Black",
+          "stock_quantity": 1
+        }
+      ],
+      "attributes": {
+        "manufacturer_source_url": "https://www.continental-tires.com/products/bicycle/tires/",
+        "provenance_status": "Manufacturer catalogue reference; identity verified for demonstration",
+        "technical_specifications": "Not published in demo until verified from an authorised feed",
+        "price_status": "Illustrative demonstration price ($60.00) \u2014 not a retail price",
+        "variant_status": "Illustrative demonstration configuration",
+        "image_status": "No licensed image supplied; use storefront black placeholder"
+      },
+      "images": [],
+      "image_rights": "unknown"
+    },
+    {
+      "name": "DEMO \u00b7 Terra Trail",
+      "sku": "DEMO-CONTINENTAL-08",
+      "price_cents": 6000,
+      "stock_quantity": 1,
+      "category_id": "components",
+      "subtype_id": "tires",
+      "subtype_label": "Tires",
+      "audiences": [
+        "unisex"
+      ],
+      "description": "Illustrative portfolio listing for the verified Continental product identity \u2018Terra Trail\u2019. This is not a live retail offer; price, stock, size and colour are demonstration values pending an authorised dealer feed.",
+      "variants": [
+        {
+          "sku": "DEMO-CONTINENTAL-08",
+          "size": "700x28",
+          "color": "Black",
+          "stock_quantity": 1
+        }
+      ],
+      "attributes": {
+        "manufacturer_source_url": "https://www.continental-tires.com/products/bicycle/tires/",
+        "provenance_status": "Manufacturer catalogue reference; identity verified for demonstration",
+        "technical_specifications": "Not published in demo until verified from an authorised feed",
+        "price_status": "Illustrative demonstration price ($60.00) \u2014 not a retail price",
+        "variant_status": "Illustrative demonstration configuration",
+        "image_status": "No licensed image supplied; use storefront black placeholder"
+      },
+      "images": [],
+      "image_rights": "unknown"
+    },
+    {
+      "name": "DEMO \u00b7 Terra Hardpack",
+      "sku": "DEMO-CONTINENTAL-09",
+      "price_cents": 6000,
+      "stock_quantity": 1,
+      "category_id": "components",
+      "subtype_id": "tires",
+      "subtype_label": "Tires",
+      "audiences": [
+        "unisex"
+      ],
+      "description": "Illustrative portfolio listing for the verified Continental product identity \u2018Terra Hardpack\u2019. This is not a live retail offer; price, stock, size and colour are demonstration values pending an authorised dealer feed.",
+      "variants": [
+        {
+          "sku": "DEMO-CONTINENTAL-09",
+          "size": "700x28",
+          "color": "Black",
+          "stock_quantity": 1
+        }
+      ],
+      "attributes": {
+        "manufacturer_source_url": "https://www.continental-tires.com/products/bicycle/tires/",
+        "provenance_status": "Manufacturer catalogue reference; identity verified for demonstration",
+        "technical_specifications": "Not published in demo until verified from an authorised feed",
+        "price_status": "Illustrative demonstration price ($60.00) \u2014 not a retail price",
+        "variant_status": "Illustrative demonstration configuration",
+        "image_status": "No licensed image supplied; use storefront black placeholder"
+      },
+      "images": [],
+      "image_rights": "unknown"
+    },
+    {
+      "name": "DEMO \u00b7 Terra Adventure",
+      "sku": "DEMO-CONTINENTAL-10",
+      "price_cents": 6000,
+      "stock_quantity": 1,
+      "category_id": "components",
+      "subtype_id": "tires",
+      "subtype_label": "Tires",
+      "audiences": [
+        "unisex"
+      ],
+      "description": "Illustrative portfolio listing for the verified Continental product identity \u2018Terra Adventure\u2019. This is not a live retail offer; price, stock, size and colour are demonstration values pending an authorised dealer feed.",
+      "variants": [
+        {
+          "sku": "DEMO-CONTINENTAL-10",
+          "size": "700x28",
+          "color": "Black",
+          "stock_quantity": 1
+        }
+      ],
+      "attributes": {
+        "manufacturer_source_url": "https://www.continental-tires.com/products/bicycle/tires/",
+        "provenance_status": "Manufacturer catalogue reference; identity verified for demonstration",
+        "technical_specifications": "Not published in demo until verified from an authorised feed",
+        "price_status": "Illustrative demonstration price ($60.00) \u2014 not a retail price",
+        "variant_status": "Illustrative demonstration configuration",
+        "image_status": "No licensed image supplied; use storefront black placeholder"
+      },
+      "images": [],
+      "image_rights": "unknown"
+    },
+    {
+      "name": "DEMO \u00b7 Race King",
+      "sku": "DEMO-CONTINENTAL-11",
+      "price_cents": 6000,
+      "stock_quantity": 1,
+      "category_id": "components",
+      "subtype_id": "tires",
+      "subtype_label": "Tires",
+      "audiences": [
+        "unisex"
+      ],
+      "description": "Illustrative portfolio listing for the verified Continental product identity \u2018Race King\u2019. This is not a live retail offer; price, stock, size and colour are demonstration values pending an authorised dealer feed.",
+      "variants": [
+        {
+          "sku": "DEMO-CONTINENTAL-11",
+          "size": "700x28",
+          "color": "Black",
+          "stock_quantity": 1
+        }
+      ],
+      "attributes": {
+        "manufacturer_source_url": "https://www.continental-tires.com/products/bicycle/tires/",
+        "provenance_status": "Manufacturer catalogue reference; identity verified for demonstration",
+        "technical_specifications": "Not published in demo until verified from an authorised feed",
+        "price_status": "Illustrative demonstration price ($60.00) \u2014 not a retail price",
+        "variant_status": "Illustrative demonstration configuration",
+        "image_status": "No licensed image supplied; use storefront black placeholder"
+      },
+      "images": [],
+      "image_rights": "unknown"
+    },
+    {
+      "name": "DEMO \u00b7 Cross King",
+      "sku": "DEMO-CONTINENTAL-12",
+      "price_cents": 6000,
+      "stock_quantity": 1,
+      "category_id": "components",
+      "subtype_id": "tires",
+      "subtype_label": "Tires",
+      "audiences": [
+        "unisex"
+      ],
+      "description": "Illustrative portfolio listing for the verified Continental product identity \u2018Cross King\u2019. This is not a live retail offer; price, stock, size and colour are demonstration values pending an authorised dealer feed.",
+      "variants": [
+        {
+          "sku": "DEMO-CONTINENTAL-12",
+          "size": "700x28",
+          "color": "Black",
+          "stock_quantity": 1
+        }
+      ],
+      "attributes": {
+        "manufacturer_source_url": "https://www.continental-tires.com/products/bicycle/tires/",
+        "provenance_status": "Manufacturer catalogue reference; identity verified for demonstration",
+        "technical_specifications": "Not published in demo until verified from an authorised feed",
+        "price_status": "Illustrative demonstration price ($60.00) \u2014 not a retail price",
+        "variant_status": "Illustrative demonstration configuration",
+        "image_status": "No licensed image supplied; use storefront black placeholder"
+      },
+      "images": [],
+      "image_rights": "unknown"
+    },
+    {
+      "name": "DEMO \u00b7 Kryptotal Front",
+      "sku": "DEMO-CONTINENTAL-13",
+      "price_cents": 6000,
+      "stock_quantity": 1,
+      "category_id": "components",
+      "subtype_id": "tires",
+      "subtype_label": "Tires",
+      "audiences": [
+        "unisex"
+      ],
+      "description": "Illustrative portfolio listing for the verified Continental product identity \u2018Kryptotal Front\u2019. This is not a live retail offer; price, stock, size and colour are demonstration values pending an authorised dealer feed.",
+      "variants": [
+        {
+          "sku": "DEMO-CONTINENTAL-13",
+          "size": "700x28",
+          "color": "Black",
+          "stock_quantity": 1
+        }
+      ],
+      "attributes": {
+        "manufacturer_source_url": "https://www.continental-tires.com/products/bicycle/tires/",
+        "provenance_status": "Manufacturer catalogue reference; identity verified for demonstration",
+        "technical_specifications": "Not published in demo until verified from an authorised feed",
+        "price_status": "Illustrative demonstration price ($60.00) \u2014 not a retail price",
+        "variant_status": "Illustrative demonstration configuration",
+        "image_status": "No licensed image supplied; use storefront black placeholder"
+      },
+      "images": [],
+      "image_rights": "unknown"
+    },
+    {
+      "name": "DEMO \u00b7 Kryptotal Rear",
+      "sku": "DEMO-CONTINENTAL-14",
+      "price_cents": 6000,
+      "stock_quantity": 1,
+      "category_id": "components",
+      "subtype_id": "tires",
+      "subtype_label": "Tires",
+      "audiences": [
+        "unisex"
+      ],
+      "description": "Illustrative portfolio listing for the verified Continental product identity \u2018Kryptotal Rear\u2019. This is not a live retail offer; price, stock, size and colour are demonstration values pending an authorised dealer feed.",
+      "variants": [
+        {
+          "sku": "DEMO-CONTINENTAL-14",
+          "size": "700x28",
+          "color": "Black",
+          "stock_quantity": 1
+        }
+      ],
+      "attributes": {
+        "manufacturer_source_url": "https://www.continental-tires.com/products/bicycle/tires/",
+        "provenance_status": "Manufacturer catalogue reference; identity verified for demonstration",
+        "technical_specifications": "Not published in demo until verified from an authorised feed",
+        "price_status": "Illustrative demonstration price ($60.00) \u2014 not a retail price",
+        "variant_status": "Illustrative demonstration configuration",
+        "image_status": "No licensed image supplied; use storefront black placeholder"
+      },
+      "images": [],
+      "image_rights": "unknown"
+    },
+    {
+      "name": "DEMO \u00b7 Contact Urban",
+      "sku": "DEMO-CONTINENTAL-15",
+      "price_cents": 6000,
+      "stock_quantity": 1,
+      "category_id": "components",
+      "subtype_id": "tires",
+      "subtype_label": "Tires",
+      "audiences": [
+        "unisex"
+      ],
+      "description": "Illustrative portfolio listing for the verified Continental product identity \u2018Contact Urban\u2019. This is not a live retail offer; price, stock, size and colour are demonstration values pending an authorised dealer feed.",
+      "variants": [
+        {
+          "sku": "DEMO-CONTINENTAL-15",
+          "size": "700x28",
+          "color": "Black",
+          "stock_quantity": 1
+        }
+      ],
+      "attributes": {
+        "manufacturer_source_url": "https://www.continental-tires.com/products/bicycle/tires/",
+        "provenance_status": "Manufacturer catalogue reference; identity verified for demonstration",
+        "technical_specifications": "Not published in demo until verified from an authorised feed",
+        "price_status": "Illustrative demonstration price ($60.00) \u2014 not a retail price",
+        "variant_status": "Illustrative demonstration configuration",
+        "image_status": "No licensed image supplied; use storefront black placeholder"
+      },
+      "images": [],
+      "image_rights": "unknown"
+    }
+  ]
+}

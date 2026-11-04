@@ -33,6 +33,7 @@ export APP_DEBUG=false
 export APP_URL="$site_url"
 
 rm -rf static-export
+python3 scripts/sync_products.py
 BUILD_STATIC=1 npm run build
 php artisan serve --host=127.0.0.1 --port=8765 > "$server_log" 2>&1 &
 server_pid=$!
@@ -40,9 +41,16 @@ mkdir -p static-export
 
 curl --fail --show-error --silent --retry 10 --retry-connrefused --retry-delay 1 \
   "$site_url" --output static-export/index.html
+mkdir -p static-export/shop static-export/data
+curl --fail --show-error --silent --retry 10 --retry-connrefused --retry-delay 1 \
+  "${site_url}shop" --output static-export/shop/index.html
+cp data/*.json static-export/data/
+cp -R public/images static-export/images
 
-sed -i 's|http://127.0.0.1:8765/build/|/rankthrubikes/build/|g' static-export/index.html
+sed -i 's|http://127.0.0.1:8765/build/|/rankthrubikes/build/|g' static-export/index.html static-export/shop/index.html
 cp -R public/build static-export/build
 touch static-export/.nojekyll
 
 grep -Fq '/rankthrubikes/build/' static-export/index.html
+grep -Fq '/rankthrubikes/build/' static-export/shop/index.html
+test "$(python3 -c 'import json; print(len(json.load(open("static-export/data/products.json"))["products"]))')" -ge 0

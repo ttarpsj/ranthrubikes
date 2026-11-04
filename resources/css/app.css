@@ -1,5 +1,9 @@
 @import 'tailwindcss';
 @import './rank.css';
+@import './stories.css';
+@import './shop.css';
+@import './footer.css';
+@import './rides.css';
 
 @source '../../vendor/laravel/framework/src/Illuminate/Pagination/resources/views/*.blade.php';
 @source '../../storage/framework/views/*.php';

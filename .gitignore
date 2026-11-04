@@ -13,11 +13,14 @@
 /.zed
 /auth.json
 /node_modules
+__pycache__/
+*.py[cod]
 /public/build
 /public/hot
 /public/storage
 /storage/*.key
 /storage/pail
+/database/backups/
 /vendor
 Homestead.json
 Homestead.yaml

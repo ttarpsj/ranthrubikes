@@ -1,0 +1,469 @@
+{
+  "products": [
+    {
+      "name": "DEMO \u00b7 Vento Infinito Carbon 2",
+      "sku": "DEMO-FIZIK-01",
+      "price_cents": 15000,
+      "stock_quantity": 1,
+      "category_id": "equipment",
+      "subtype_id": "cycling-shoes",
+      "subtype_label": "Cycling Shoes",
+      "audiences": [
+        "unisex"
+      ],
+      "description": "Illustrative portfolio listing for the verified Fizik product identity \u2018Vento Infinito Carbon 2\u2019. This is not a live retail offer; price, stock, size and colour are demonstration values pending an authorised dealer feed.",
+      "variants": [
+        {
+          "sku": "DEMO-FIZIK-01",
+          "size": "EU 42",
+          "color": "Black",
+          "stock_quantity": 1
+        }
+      ],
+      "attributes": {
+        "manufacturer_source_url": "https://www.fizik.com/us_en/cycling-shoes.html",
+        "provenance_status": "Manufacturer catalogue reference; identity verified for demonstration",
+        "technical_specifications": "Not published in demo until verified from an authorised feed",
+        "price_status": "Illustrative demonstration price ($150.00) \u2014 not a retail price",
+        "variant_status": "Illustrative demonstration configuration",
+        "image_status": "No licensed image supplied; use storefront black placeholder"
+      },
+      "images": [],
+      "image_rights": "unknown"
+    },
+    {
+      "name": "DEMO \u00b7 Vento Ferox Carbon",
+      "sku": "DEMO-FIZIK-02",
+      "price_cents": 15000,
+      "stock_quantity": 1,
+      "category_id": "equipment",
+      "subtype_id": "cycling-shoes",
+      "subtype_label": "Cycling Shoes",
+      "audiences": [
+        "unisex"
+      ],
+      "description": "Illustrative portfolio listing for the verified Fizik product identity \u2018Vento Ferox Carbon\u2019. This is not a live retail offer; price, stock, size and colour are demonstration values pending an authorised dealer feed.",
+      "variants": [
+        {
+          "sku": "DEMO-FIZIK-02",
+          "size": "EU 42",
+          "color": "Black",
+          "stock_quantity": 1
+        }
+      ],
+      "attributes": {
+        "manufacturer_source_url": "https://www.fizik.com/us_en/cycling-shoes.html",
+        "provenance_status": "Manufacturer catalogue reference; identity verified for demonstration",
+        "technical_specifications": "Not published in demo until verified from an authorised feed",
+        "price_status": "Illustrative demonstration price ($150.00) \u2014 not a retail price",
+        "variant_status": "Illustrative demonstration configuration",
+        "image_status": "No licensed image supplied; use storefront black placeholder"
+      },
+      "images": [],
+      "image_rights": "unknown"
+    },
+    {
+      "name": "DEMO \u00b7 Vento Proxy",
+      "sku": "DEMO-FIZIK-03",
+      "price_cents": 15000,
+      "stock_quantity": 1,
+      "category_id": "equipment",
+      "subtype_id": "cycling-shoes",
+      "subtype_label": "Cycling Shoes",
+      "audiences": [
+        "unisex"
+      ],
+      "description": "Illustrative portfolio listing for the verified Fizik product identity \u2018Vento Proxy\u2019. This is not a live retail offer; price, stock, size and colour are demonstration values pending an authorised dealer feed.",
+      "variants": [
+        {
+          "sku": "DEMO-FIZIK-03",
+          "size": "EU 42",
+          "color": "Black",
+          "stock_quantity": 1
+        }
+      ],
+      "attributes": {
+        "manufacturer_source_url": "https://www.fizik.com/us_en/cycling-shoes.html",
+        "provenance_status": "Manufacturer catalogue reference; identity verified for demonstration",
+        "technical_specifications": "Not published in demo until verified from an authorised feed",
+        "price_status": "Illustrative demonstration price ($150.00) \u2014 not a retail price",
+        "variant_status": "Illustrative demonstration configuration",
+        "image_status": "No licensed image supplied; use storefront black placeholder"
+      },
+      "images": [],
+      "image_rights": "unknown"
+    },
+    {
+      "name": "DEMO \u00b7 Vento Powerstrap Aeroweave",
+      "sku": "DEMO-FIZIK-04",
+      "price_cents": 15000,
+      "stock_quantity": 1,
+      "category_id": "equipment",
+      "subtype_id": "cycling-shoes",
+      "subtype_label": "Cycling Shoes",
+      "audiences": [
+        "unisex"
+      ],
+      "description": "Illustrative portfolio listing for the verified Fizik product identity \u2018Vento Powerstrap Aeroweave\u2019. This is not a live retail offer; price, stock, size and colour are demonstration values pending an authorised dealer feed.",
+      "variants": [
+        {
+          "sku": "DEMO-FIZIK-04",
+          "size": "EU 42",
+          "color": "Black",
+          "stock_quantity": 1
+        }
+      ],
+      "attributes": {
+        "manufacturer_source_url": "https://www.fizik.com/us_en/cycling-shoes.html",
+        "provenance_status": "Manufacturer catalogue reference; identity verified for demonstration",
+        "technical_specifications": "Not published in demo until verified from an authorised feed",
+        "price_status": "Illustrative demonstration price ($150.00) \u2014 not a retail price",
+        "variant_status": "Illustrative demonstration configuration",
+        "image_status": "No licensed image supplied; use storefront black placeholder"
+      },
+      "images": [],
+      "image_rights": "unknown"
+    },
+    {
+      "name": "DEMO \u00b7 Tempo Overcurve R4",
+      "sku": "DEMO-FIZIK-05",
+      "price_cents": 15000,
+      "stock_quantity": 1,
+      "category_id": "equipment",
+      "subtype_id": "cycling-shoes",
+      "subtype_label": "Cycling Shoes",
+      "audiences": [
+        "unisex"
+      ],
+      "description": "Illustrative portfolio listing for the verified Fizik product identity \u2018Tempo Overcurve R4\u2019. This is not a live retail offer; price, stock, size and colour are demonstration values pending an authorised dealer feed.",
+      "variants": [
+        {
+          "sku": "DEMO-FIZIK-05",
+          "size": "EU 42",
+          "color": "Black",
+          "stock_quantity": 1
+        }
+      ],
+      "attributes": {
+        "manufacturer_source_url": "https://www.fizik.com/us_en/cycling-shoes.html",
+        "provenance_status": "Manufacturer catalogue reference; identity verified for demonstration",
+        "technical_specifications": "Not published in demo until verified from an authorised feed",
+        "price_status": "Illustrative demonstration price ($150.00) \u2014 not a retail price",
+        "variant_status": "Illustrative demonstration configuration",
+        "image_status": "No licensed image supplied; use storefront black placeholder"
+      },
+      "images": [],
+      "image_rights": "unknown"
+    },
+    {
+      "name": "DEMO \u00b7 Tempo Decos Carbon",
+      "sku": "DEMO-FIZIK-06",
+      "price_cents": 15000,
+      "stock_quantity": 1,
+      "category_id": "equipment",
+      "subtype_id": "cycling-shoes",
+      "subtype_label": "Cycling Shoes",
+      "audiences": [
+        "unisex"
+      ],
+      "description": "Illustrative portfolio listing for the verified Fizik product identity \u2018Tempo Decos Carbon\u2019. This is not a live retail offer; price, stock, size and colour are demonstration values pending an authorised dealer feed.",
+      "variants": [
+        {
+          "sku": "DEMO-FIZIK-06",
+          "size": "EU 42",
+          "color": "Black",
+          "stock_quantity": 1
+        }
+      ],
+      "attributes": {
+        "manufacturer_source_url": "https://www.fizik.com/us_en/cycling-shoes.html",
+        "provenance_status": "Manufacturer catalogue reference; identity verified for demonstration",
+        "technical_specifications": "Not published in demo until verified from an authorised feed",
+        "price_status": "Illustrative demonstration price ($150.00) \u2014 not a retail price",
+        "variant_status": "Illustrative demonstration configuration",
+        "image_status": "No licensed image supplied; use storefront black placeholder"
+      },
+      "images": [],
+      "image_rights": "unknown"
+    },
+    {
+      "name": "DEMO \u00b7 Tempo Decos",
+      "sku": "DEMO-FIZIK-07",
+      "price_cents": 15000,
+      "stock_quantity": 1,
+      "category_id": "equipment",
+      "subtype_id": "cycling-shoes",
+      "subtype_label": "Cycling Shoes",
+      "audiences": [
+        "unisex"
+      ],
+      "description": "Illustrative portfolio listing for the verified Fizik product identity \u2018Tempo Decos\u2019. This is not a live retail offer; price, stock, size and colour are demonstration values pending an authorised dealer feed.",
+      "variants": [
+        {
+          "sku": "DEMO-FIZIK-07",
+          "size": "EU 42",
+          "color": "Black",
+          "stock_quantity": 1
+        }
+      ],
+      "attributes": {
+        "manufacturer_source_url": "https://www.fizik.com/us_en/cycling-shoes.html",
+        "provenance_status": "Manufacturer catalogue reference; identity verified for demonstration",
+        "technical_specifications": "Not published in demo until verified from an authorised feed",
+        "price_status": "Illustrative demonstration price ($150.00) \u2014 not a retail price",
+        "variant_status": "Illustrative demonstration configuration",
+        "image_status": "No licensed image supplied; use storefront black placeholder"
+      },
+      "images": [],
+      "image_rights": "unknown"
+    },
+    {
+      "name": "DEMO \u00b7 Terra Atlas",
+      "sku": "DEMO-FIZIK-08",
+      "price_cents": 15000,
+      "stock_quantity": 1,
+      "category_id": "equipment",
+      "subtype_id": "cycling-shoes",
+      "subtype_label": "Cycling Shoes",
+      "audiences": [
+        "unisex"
+      ],
+      "description": "Illustrative portfolio listing for the verified Fizik product identity \u2018Terra Atlas\u2019. This is not a live retail offer; price, stock, size and colour are demonstration values pending an authorised dealer feed.",
+      "variants": [
+        {
+          "sku": "DEMO-FIZIK-08",
+          "size": "EU 42",
+          "color": "Black",
+          "stock_quantity": 1
+        }
+      ],
+      "attributes": {
+        "manufacturer_source_url": "https://www.fizik.com/us_en/cycling-shoes.html",
+        "provenance_status": "Manufacturer catalogue reference; identity verified for demonstration",
+        "technical_specifications": "Not published in demo until verified from an authorised feed",
+        "price_status": "Illustrative demonstration price ($150.00) \u2014 not a retail price",
+        "variant_status": "Illustrative demonstration configuration",
+        "image_status": "No licensed image supplied; use storefront black placeholder"
+      },
+      "images": [],
+      "image_rights": "unknown"
+    },
+    {
+      "name": "DEMO \u00b7 Terra Artica X2",
+      "sku": "DEMO-FIZIK-09",
+      "price_cents": 15000,
+      "stock_quantity": 1,
+      "category_id": "equipment",
+      "subtype_id": "cycling-shoes",
+      "subtype_label": "Cycling Shoes",
+      "audiences": [
+        "unisex"
+      ],
+      "description": "Illustrative portfolio listing for the verified Fizik product identity \u2018Terra Artica X2\u2019. This is not a live retail offer; price, stock, size and colour are demonstration values pending an authorised dealer feed.",
+      "variants": [
+        {
+          "sku": "DEMO-FIZIK-09",
+          "size": "EU 42",
+          "color": "Black",
+          "stock_quantity": 1
+        }
+      ],
+      "attributes": {
+        "manufacturer_source_url": "https://www.fizik.com/us_en/cycling-shoes.html",
+        "provenance_status": "Manufacturer catalogue reference; identity verified for demonstration",
+        "technical_specifications": "Not published in demo until verified from an authorised feed",
+        "price_status": "Illustrative demonstration price ($150.00) \u2014 not a retail price",
+        "variant_status": "Illustrative demonstration configuration",
+        "image_status": "No licensed image supplied; use storefront black placeholder"
+      },
+      "images": [],
+      "image_rights": "unknown"
+    },
+    {
+      "name": "DEMO \u00b7 Terra Ergolace X2",
+      "sku": "DEMO-FIZIK-10",
+      "price_cents": 15000,
+      "stock_quantity": 1,
+      "category_id": "equipment",
+      "subtype_id": "cycling-shoes",
+      "subtype_label": "Cycling Shoes",
+      "audiences": [
+        "unisex"
+      ],
+      "description": "Illustrative portfolio listing for the verified Fizik product identity \u2018Terra Ergolace X2\u2019. This is not a live retail offer; price, stock, size and colour are demonstration values pending an authorised dealer feed.",
+      "variants": [
+        {
+          "sku": "DEMO-FIZIK-10",
+          "size": "EU 42",
+          "color": "Black",
+          "stock_quantity": 1
+        }
+      ],
+      "attributes": {
+        "manufacturer_source_url": "https://www.fizik.com/us_en/cycling-shoes.html",
+        "provenance_status": "Manufacturer catalogue reference; identity verified for demonstration",
+        "technical_specifications": "Not published in demo until verified from an authorised feed",
+        "price_status": "Illustrative demonstration price ($150.00) \u2014 not a retail price",
+        "variant_status": "Illustrative demonstration configuration",
+        "image_status": "No licensed image supplied; use storefront black placeholder"
+      },
+      "images": [],
+      "image_rights": "unknown"
+    },
+    {
+      "name": "DEMO \u00b7 Vento Argo R1",
+      "sku": "DEMO-FIZIK-11",
+      "price_cents": 15000,
+      "stock_quantity": 1,
+      "category_id": "equipment",
+      "subtype_id": "saddles",
+      "subtype_label": "Saddles",
+      "audiences": [
+        "unisex"
+      ],
+      "description": "Illustrative portfolio listing for the verified Fizik product identity \u2018Vento Argo R1\u2019. This is not a live retail offer; price, stock, size and colour are demonstration values pending an authorised dealer feed.",
+      "variants": [
+        {
+          "sku": "DEMO-FIZIK-11",
+          "size": "EU 42",
+          "color": "Black",
+          "stock_quantity": 1
+        }
+      ],
+      "attributes": {
+        "manufacturer_source_url": "https://www.fizik.com/us_en/cycling-shoes.html",
+        "provenance_status": "Manufacturer catalogue reference; identity verified for demonstration",
+        "technical_specifications": "Not published in demo until verified from an authorised feed",
+        "price_status": "Illustrative demonstration price ($150.00) \u2014 not a retail price",
+        "variant_status": "Illustrative demonstration configuration",
+        "image_status": "No licensed image supplied; use storefront black placeholder"
+      },
+      "images": [],
+      "image_rights": "unknown"
+    },
+    {
+      "name": "DEMO \u00b7 Vento Argo R3",
+      "sku": "DEMO-FIZIK-12",
+      "price_cents": 15000,
+      "stock_quantity": 1,
+      "category_id": "equipment",
+      "subtype_id": "saddles",
+      "subtype_label": "Saddles",
+      "audiences": [
+        "unisex"
+      ],
+      "description": "Illustrative portfolio listing for the verified Fizik product identity \u2018Vento Argo R3\u2019. This is not a live retail offer; price, stock, size and colour are demonstration values pending an authorised dealer feed.",
+      "variants": [
+        {
+          "sku": "DEMO-FIZIK-12",
+          "size": "EU 42",
+          "color": "Black",
+          "stock_quantity": 1
+        }
+      ],
+      "attributes": {
+        "manufacturer_source_url": "https://www.fizik.com/us_en/cycling-shoes.html",
+        "provenance_status": "Manufacturer catalogue reference; identity verified for demonstration",
+        "technical_specifications": "Not published in demo until verified from an authorised feed",
+        "price_status": "Illustrative demonstration price ($150.00) \u2014 not a retail price",
+        "variant_status": "Illustrative demonstration configuration",
+        "image_status": "No licensed image supplied; use storefront black placeholder"
+      },
+      "images": [],
+      "image_rights": "unknown"
+    },
+    {
+      "name": "DEMO \u00b7 Antares R1",
+      "sku": "DEMO-FIZIK-13",
+      "price_cents": 15000,
+      "stock_quantity": 1,
+      "category_id": "equipment",
+      "subtype_id": "saddles",
+      "subtype_label": "Saddles",
+      "audiences": [
+        "unisex"
+      ],
+      "description": "Illustrative portfolio listing for the verified Fizik product identity \u2018Antares R1\u2019. This is not a live retail offer; price, stock, size and colour are demonstration values pending an authorised dealer feed.",
+      "variants": [
+        {
+          "sku": "DEMO-FIZIK-13",
+          "size": "EU 42",
+          "color": "Black",
+          "stock_quantity": 1
+        }
+      ],
+      "attributes": {
+        "manufacturer_source_url": "https://www.fizik.com/us_en/cycling-shoes.html",
+        "provenance_status": "Manufacturer catalogue reference; identity verified for demonstration",
+        "technical_specifications": "Not published in demo until verified from an authorised feed",
+        "price_status": "Illustrative demonstration price ($150.00) \u2014 not a retail price",
+        "variant_status": "Illustrative demonstration configuration",
+        "image_status": "No licensed image supplied; use storefront black placeholder"
+      },
+      "images": [],
+      "image_rights": "unknown"
+    },
+    {
+      "name": "DEMO \u00b7 Aliante R1",
+      "sku": "DEMO-FIZIK-14",
+      "price_cents": 15000,
+      "stock_quantity": 1,
+      "category_id": "equipment",
+      "subtype_id": "saddles",
+      "subtype_label": "Saddles",
+      "audiences": [
+        "unisex"
+      ],
+      "description": "Illustrative portfolio listing for the verified Fizik product identity \u2018Aliante R1\u2019. This is not a live retail offer; price, stock, size and colour are demonstration values pending an authorised dealer feed.",
+      "variants": [
+        {
+          "sku": "DEMO-FIZIK-14",
+          "size": "EU 42",
+          "color": "Black",
+          "stock_quantity": 1
+        }
+      ],
+      "attributes": {
+        "manufacturer_source_url": "https://www.fizik.com/us_en/cycling-shoes.html",
+        "provenance_status": "Manufacturer catalogue reference; identity verified for demonstration",
+        "technical_specifications": "Not published in demo until verified from an authorised feed",
+        "price_status": "Illustrative demonstration price ($150.00) \u2014 not a retail price",
+        "variant_status": "Illustrative demonstration configuration",
+        "image_status": "No licensed image supplied; use storefront black placeholder"
+      },
+      "images": [],
+      "image_rights": "unknown"
+    },
+    {
+      "name": "DEMO \u00b7 Tempo Argo R5",
+      "sku": "DEMO-FIZIK-15",
+      "price_cents": 15000,
+      "stock_quantity": 1,
+      "category_id": "equipment",
+      "subtype_id": "saddles",
+      "subtype_label": "Saddles",
+      "audiences": [
+        "unisex"
+      ],
+      "description": "Illustrative portfolio listing for the verified Fizik product identity \u2018Tempo Argo R5\u2019. This is not a live retail offer; price, stock, size and colour are demonstration values pending an authorised dealer feed.",
+      "variants": [
+        {
+          "sku": "DEMO-FIZIK-15",
+          "size": "EU 42",
+          "color": "Black",
+          "stock_quantity": 1
+        }
+      ],
+      "attributes": {
+        "manufacturer_source_url": "https://www.fizik.com/us_en/cycling-shoes.html",
+        "provenance_status": "Manufacturer catalogue reference; identity verified for demonstration",
+        "technical_specifications": "Not published in demo until verified from an authorised feed",
+        "price_status": "Illustrative demonstration price ($150.00) \u2014 not a retail price",
+        "variant_status": "Illustrative demonstration configuration",
+        "image_status": "No licensed image supplied; use storefront black placeholder"
+      },
+      "images": [],
+      "image_rights": "unknown"
+    }
+  ]
+}

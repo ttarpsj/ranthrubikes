@@ -1,0 +1,469 @@
+{
+  "products": [
+    {
+      "name": "DEMO \u00b7 V4Rs",
+      "sku": "DEMO-COLNAGO-01",
+      "price_cents": 250000,
+      "stock_quantity": 1,
+      "category_id": "bikes-frames",
+      "subtype_id": "bikes-framesets",
+      "subtype_label": "Bikes Framesets",
+      "audiences": [
+        "unisex"
+      ],
+      "description": "Illustrative portfolio listing for the verified Colnago product identity \u2018V4Rs\u2019. This is not a live retail offer; price, stock, size and colour are demonstration values pending an authorised dealer feed.",
+      "variants": [
+        {
+          "sku": "DEMO-COLNAGO-01",
+          "size": "54",
+          "color": "Demo Black",
+          "stock_quantity": 1
+        }
+      ],
+      "attributes": {
+        "manufacturer_source_url": "https://www.colnago.com/collections/bikes",
+        "provenance_status": "Manufacturer catalogue reference; identity verified for demonstration",
+        "technical_specifications": "Not published in demo until verified from an authorised feed",
+        "price_status": "Illustrative demonstration price ($2500.00) \u2014 not a retail price",
+        "variant_status": "Illustrative demonstration configuration",
+        "image_status": "No licensed image supplied; use storefront black placeholder"
+      },
+      "images": [],
+      "image_rights": "unknown"
+    },
+    {
+      "name": "DEMO \u00b7 V4",
+      "sku": "DEMO-COLNAGO-02",
+      "price_cents": 250000,
+      "stock_quantity": 1,
+      "category_id": "bikes-frames",
+      "subtype_id": "bikes-framesets",
+      "subtype_label": "Bikes Framesets",
+      "audiences": [
+        "unisex"
+      ],
+      "description": "Illustrative portfolio listing for the verified Colnago product identity \u2018V4\u2019. This is not a live retail offer; price, stock, size and colour are demonstration values pending an authorised dealer feed.",
+      "variants": [
+        {
+          "sku": "DEMO-COLNAGO-02",
+          "size": "54",
+          "color": "Demo Black",
+          "stock_quantity": 1
+        }
+      ],
+      "attributes": {
+        "manufacturer_source_url": "https://www.colnago.com/collections/bikes",
+        "provenance_status": "Manufacturer catalogue reference; identity verified for demonstration",
+        "technical_specifications": "Not published in demo until verified from an authorised feed",
+        "price_status": "Illustrative demonstration price ($2500.00) \u2014 not a retail price",
+        "variant_status": "Illustrative demonstration configuration",
+        "image_status": "No licensed image supplied; use storefront black placeholder"
+      },
+      "images": [],
+      "image_rights": "unknown"
+    },
+    {
+      "name": "DEMO \u00b7 C68 Road",
+      "sku": "DEMO-COLNAGO-03",
+      "price_cents": 250000,
+      "stock_quantity": 1,
+      "category_id": "bikes-frames",
+      "subtype_id": "bikes-framesets",
+      "subtype_label": "Bikes Framesets",
+      "audiences": [
+        "unisex"
+      ],
+      "description": "Illustrative portfolio listing for the verified Colnago product identity \u2018C68 Road\u2019. This is not a live retail offer; price, stock, size and colour are demonstration values pending an authorised dealer feed.",
+      "variants": [
+        {
+          "sku": "DEMO-COLNAGO-03",
+          "size": "54",
+          "color": "Demo Black",
+          "stock_quantity": 1
+        }
+      ],
+      "attributes": {
+        "manufacturer_source_url": "https://www.colnago.com/collections/bikes",
+        "provenance_status": "Manufacturer catalogue reference; identity verified for demonstration",
+        "technical_specifications": "Not published in demo until verified from an authorised feed",
+        "price_status": "Illustrative demonstration price ($2500.00) \u2014 not a retail price",
+        "variant_status": "Illustrative demonstration configuration",
+        "image_status": "No licensed image supplied; use storefront black placeholder"
+      },
+      "images": [],
+      "image_rights": "unknown"
+    },
+    {
+      "name": "DEMO \u00b7 C68 Allroad",
+      "sku": "DEMO-COLNAGO-04",
+      "price_cents": 250000,
+      "stock_quantity": 1,
+      "category_id": "bikes-frames",
+      "subtype_id": "bikes-framesets",
+      "subtype_label": "Bikes Framesets",
+      "audiences": [
+        "unisex"
+      ],
+      "description": "Illustrative portfolio listing for the verified Colnago product identity \u2018C68 Allroad\u2019. This is not a live retail offer; price, stock, size and colour are demonstration values pending an authorised dealer feed.",
+      "variants": [
+        {
+          "sku": "DEMO-COLNAGO-04",
+          "size": "54",
+          "color": "Demo Black",
+          "stock_quantity": 1
+        }
+      ],
+      "attributes": {
+        "manufacturer_source_url": "https://www.colnago.com/collections/bikes",
+        "provenance_status": "Manufacturer catalogue reference; identity verified for demonstration",
+        "technical_specifications": "Not published in demo until verified from an authorised feed",
+        "price_status": "Illustrative demonstration price ($2500.00) \u2014 not a retail price",
+        "variant_status": "Illustrative demonstration configuration",
+        "image_status": "No licensed image supplied; use storefront black placeholder"
+      },
+      "images": [],
+      "image_rights": "unknown"
+    },
+    {
+      "name": "DEMO \u00b7 C68 Gravel",
+      "sku": "DEMO-COLNAGO-05",
+      "price_cents": 250000,
+      "stock_quantity": 1,
+      "category_id": "bikes-frames",
+      "subtype_id": "bikes-framesets",
+      "subtype_label": "Bikes Framesets",
+      "audiences": [
+        "unisex"
+      ],
+      "description": "Illustrative portfolio listing for the verified Colnago product identity \u2018C68 Gravel\u2019. This is not a live retail offer; price, stock, size and colour are demonstration values pending an authorised dealer feed.",
+      "variants": [
+        {
+          "sku": "DEMO-COLNAGO-05",
+          "size": "54",
+          "color": "Demo Black",
+          "stock_quantity": 1
+        }
+      ],
+      "attributes": {
+        "manufacturer_source_url": "https://www.colnago.com/collections/bikes",
+        "provenance_status": "Manufacturer catalogue reference; identity verified for demonstration",
+        "technical_specifications": "Not published in demo until verified from an authorised feed",
+        "price_status": "Illustrative demonstration price ($2500.00) \u2014 not a retail price",
+        "variant_status": "Illustrative demonstration configuration",
+        "image_status": "No licensed image supplied; use storefront black placeholder"
+      },
+      "images": [],
+      "image_rights": "unknown"
+    },
+    {
+      "name": "DEMO \u00b7 Y1Rs",
+      "sku": "DEMO-COLNAGO-06",
+      "price_cents": 250000,
+      "stock_quantity": 1,
+      "category_id": "bikes-frames",
+      "subtype_id": "bikes-framesets",
+      "subtype_label": "Bikes Framesets",
+      "audiences": [
+        "unisex"
+      ],
+      "description": "Illustrative portfolio listing for the verified Colnago product identity \u2018Y1Rs\u2019. This is not a live retail offer; price, stock, size and colour are demonstration values pending an authorised dealer feed.",
+      "variants": [
+        {
+          "sku": "DEMO-COLNAGO-06",
+          "size": "54",
+          "color": "Demo Black",
+          "stock_quantity": 1
+        }
+      ],
+      "attributes": {
+        "manufacturer_source_url": "https://www.colnago.com/collections/bikes",
+        "provenance_status": "Manufacturer catalogue reference; identity verified for demonstration",
+        "technical_specifications": "Not published in demo until verified from an authorised feed",
+        "price_status": "Illustrative demonstration price ($2500.00) \u2014 not a retail price",
+        "variant_status": "Illustrative demonstration configuration",
+        "image_status": "No licensed image supplied; use storefront black placeholder"
+      },
+      "images": [],
+      "image_rights": "unknown"
+    },
+    {
+      "name": "DEMO \u00b7 G4-X",
+      "sku": "DEMO-COLNAGO-07",
+      "price_cents": 250000,
+      "stock_quantity": 1,
+      "category_id": "bikes-frames",
+      "subtype_id": "bikes-framesets",
+      "subtype_label": "Bikes Framesets",
+      "audiences": [
+        "unisex"
+      ],
+      "description": "Illustrative portfolio listing for the verified Colnago product identity \u2018G4-X\u2019. This is not a live retail offer; price, stock, size and colour are demonstration values pending an authorised dealer feed.",
+      "variants": [
+        {
+          "sku": "DEMO-COLNAGO-07",
+          "size": "54",
+          "color": "Demo Black",
+          "stock_quantity": 1
+        }
+      ],
+      "attributes": {
+        "manufacturer_source_url": "https://www.colnago.com/collections/bikes",
+        "provenance_status": "Manufacturer catalogue reference; identity verified for demonstration",
+        "technical_specifications": "Not published in demo until verified from an authorised feed",
+        "price_status": "Illustrative demonstration price ($2500.00) \u2014 not a retail price",
+        "variant_status": "Illustrative demonstration configuration",
+        "image_status": "No licensed image supplied; use storefront black placeholder"
+      },
+      "images": [],
+      "image_rights": "unknown"
+    },
+    {
+      "name": "DEMO \u00b7 C68 Ti",
+      "sku": "DEMO-COLNAGO-08",
+      "price_cents": 250000,
+      "stock_quantity": 1,
+      "category_id": "bikes-frames",
+      "subtype_id": "bikes-framesets",
+      "subtype_label": "Bikes Framesets",
+      "audiences": [
+        "unisex"
+      ],
+      "description": "Illustrative portfolio listing for the verified Colnago product identity \u2018C68 Ti\u2019. This is not a live retail offer; price, stock, size and colour are demonstration values pending an authorised dealer feed.",
+      "variants": [
+        {
+          "sku": "DEMO-COLNAGO-08",
+          "size": "54",
+          "color": "Demo Black",
+          "stock_quantity": 1
+        }
+      ],
+      "attributes": {
+        "manufacturer_source_url": "https://www.colnago.com/collections/bikes",
+        "provenance_status": "Manufacturer catalogue reference; identity verified for demonstration",
+        "technical_specifications": "Not published in demo until verified from an authorised feed",
+        "price_status": "Illustrative demonstration price ($2500.00) \u2014 not a retail price",
+        "variant_status": "Illustrative demonstration configuration",
+        "image_status": "No licensed image supplied; use storefront black placeholder"
+      },
+      "images": [],
+      "image_rights": "unknown"
+    },
+    {
+      "name": "DEMO \u00b7 Master",
+      "sku": "DEMO-COLNAGO-09",
+      "price_cents": 250000,
+      "stock_quantity": 1,
+      "category_id": "bikes-frames",
+      "subtype_id": "bikes-framesets",
+      "subtype_label": "Bikes Framesets",
+      "audiences": [
+        "unisex"
+      ],
+      "description": "Illustrative portfolio listing for the verified Colnago product identity \u2018Master\u2019. This is not a live retail offer; price, stock, size and colour are demonstration values pending an authorised dealer feed.",
+      "variants": [
+        {
+          "sku": "DEMO-COLNAGO-09",
+          "size": "54",
+          "color": "Demo Black",
+          "stock_quantity": 1
+        }
+      ],
+      "attributes": {
+        "manufacturer_source_url": "https://www.colnago.com/collections/bikes",
+        "provenance_status": "Manufacturer catalogue reference; identity verified for demonstration",
+        "technical_specifications": "Not published in demo until verified from an authorised feed",
+        "price_status": "Illustrative demonstration price ($2500.00) \u2014 not a retail price",
+        "variant_status": "Illustrative demonstration configuration",
+        "image_status": "No licensed image supplied; use storefront black placeholder"
+      },
+      "images": [],
+      "image_rights": "unknown"
+    },
+    {
+      "name": "DEMO \u00b7 Arabesque",
+      "sku": "DEMO-COLNAGO-10",
+      "price_cents": 250000,
+      "stock_quantity": 1,
+      "category_id": "bikes-frames",
+      "subtype_id": "bikes-framesets",
+      "subtype_label": "Bikes Framesets",
+      "audiences": [
+        "unisex"
+      ],
+      "description": "Illustrative portfolio listing for the verified Colnago product identity \u2018Arabesque\u2019. This is not a live retail offer; price, stock, size and colour are demonstration values pending an authorised dealer feed.",
+      "variants": [
+        {
+          "sku": "DEMO-COLNAGO-10",
+          "size": "54",
+          "color": "Demo Black",
+          "stock_quantity": 1
+        }
+      ],
+      "attributes": {
+        "manufacturer_source_url": "https://www.colnago.com/collections/bikes",
+        "provenance_status": "Manufacturer catalogue reference; identity verified for demonstration",
+        "technical_specifications": "Not published in demo until verified from an authorised feed",
+        "price_status": "Illustrative demonstration price ($2500.00) \u2014 not a retail price",
+        "variant_status": "Illustrative demonstration configuration",
+        "image_status": "No licensed image supplied; use storefront black placeholder"
+      },
+      "images": [],
+      "image_rights": "unknown"
+    },
+    {
+      "name": "DEMO \u00b7 Steelnovo",
+      "sku": "DEMO-COLNAGO-11",
+      "price_cents": 250000,
+      "stock_quantity": 1,
+      "category_id": "bikes-frames",
+      "subtype_id": "bikes-framesets",
+      "subtype_label": "Bikes Framesets",
+      "audiences": [
+        "unisex"
+      ],
+      "description": "Illustrative portfolio listing for the verified Colnago product identity \u2018Steelnovo\u2019. This is not a live retail offer; price, stock, size and colour are demonstration values pending an authorised dealer feed.",
+      "variants": [
+        {
+          "sku": "DEMO-COLNAGO-11",
+          "size": "54",
+          "color": "Demo Black",
+          "stock_quantity": 1
+        }
+      ],
+      "attributes": {
+        "manufacturer_source_url": "https://www.colnago.com/collections/bikes",
+        "provenance_status": "Manufacturer catalogue reference; identity verified for demonstration",
+        "technical_specifications": "Not published in demo until verified from an authorised feed",
+        "price_status": "Illustrative demonstration price ($2500.00) \u2014 not a retail price",
+        "variant_status": "Illustrative demonstration configuration",
+        "image_status": "No licensed image supplied; use storefront black placeholder"
+      },
+      "images": [],
+      "image_rights": "unknown"
+    },
+    {
+      "name": "DEMO \u00b7 C64",
+      "sku": "DEMO-COLNAGO-12",
+      "price_cents": 250000,
+      "stock_quantity": 1,
+      "category_id": "bikes-frames",
+      "subtype_id": "bikes-framesets",
+      "subtype_label": "Bikes Framesets",
+      "audiences": [
+        "unisex"
+      ],
+      "description": "Illustrative portfolio listing for the verified Colnago product identity \u2018C64\u2019. This is not a live retail offer; price, stock, size and colour are demonstration values pending an authorised dealer feed.",
+      "variants": [
+        {
+          "sku": "DEMO-COLNAGO-12",
+          "size": "54",
+          "color": "Demo Black",
+          "stock_quantity": 1
+        }
+      ],
+      "attributes": {
+        "manufacturer_source_url": "https://www.colnago.com/collections/bikes",
+        "provenance_status": "Manufacturer catalogue reference; identity verified for demonstration",
+        "technical_specifications": "Not published in demo until verified from an authorised feed",
+        "price_status": "Illustrative demonstration price ($2500.00) \u2014 not a retail price",
+        "variant_status": "Illustrative demonstration configuration",
+        "image_status": "No licensed image supplied; use storefront black placeholder"
+      },
+      "images": [],
+      "image_rights": "unknown"
+    },
+    {
+      "name": "DEMO \u00b7 V3Rs",
+      "sku": "DEMO-COLNAGO-13",
+      "price_cents": 250000,
+      "stock_quantity": 1,
+      "category_id": "bikes-frames",
+      "subtype_id": "bikes-framesets",
+      "subtype_label": "Bikes Framesets",
+      "audiences": [
+        "unisex"
+      ],
+      "description": "Illustrative portfolio listing for the verified Colnago product identity \u2018V3Rs\u2019. This is not a live retail offer; price, stock, size and colour are demonstration values pending an authorised dealer feed.",
+      "variants": [
+        {
+          "sku": "DEMO-COLNAGO-13",
+          "size": "54",
+          "color": "Demo Black",
+          "stock_quantity": 1
+        }
+      ],
+      "attributes": {
+        "manufacturer_source_url": "https://www.colnago.com/collections/bikes",
+        "provenance_status": "Manufacturer catalogue reference; identity verified for demonstration",
+        "technical_specifications": "Not published in demo until verified from an authorised feed",
+        "price_status": "Illustrative demonstration price ($2500.00) \u2014 not a retail price",
+        "variant_status": "Illustrative demonstration configuration",
+        "image_status": "No licensed image supplied; use storefront black placeholder"
+      },
+      "images": [],
+      "image_rights": "unknown"
+    },
+    {
+      "name": "DEMO \u00b7 Concept",
+      "sku": "DEMO-COLNAGO-14",
+      "price_cents": 250000,
+      "stock_quantity": 1,
+      "category_id": "bikes-frames",
+      "subtype_id": "bikes-framesets",
+      "subtype_label": "Bikes Framesets",
+      "audiences": [
+        "unisex"
+      ],
+      "description": "Illustrative portfolio listing for the verified Colnago product identity \u2018Concept\u2019. This is not a live retail offer; price, stock, size and colour are demonstration values pending an authorised dealer feed.",
+      "variants": [
+        {
+          "sku": "DEMO-COLNAGO-14",
+          "size": "54",
+          "color": "Demo Black",
+          "stock_quantity": 1
+        }
+      ],
+      "attributes": {
+        "manufacturer_source_url": "https://www.colnago.com/collections/bikes",
+        "provenance_status": "Manufacturer catalogue reference; identity verified for demonstration",
+        "technical_specifications": "Not published in demo until verified from an authorised feed",
+        "price_status": "Illustrative demonstration price ($2500.00) \u2014 not a retail price",
+        "variant_status": "Illustrative demonstration configuration",
+        "image_status": "No licensed image supplied; use storefront black placeholder"
+      },
+      "images": [],
+      "image_rights": "unknown"
+    },
+    {
+      "name": "DEMO \u00b7 K.One",
+      "sku": "DEMO-COLNAGO-15",
+      "price_cents": 250000,
+      "stock_quantity": 1,
+      "category_id": "bikes-frames",
+      "subtype_id": "bikes-framesets",
+      "subtype_label": "Bikes Framesets",
+      "audiences": [
+        "unisex"
+      ],
+      "description": "Illustrative portfolio listing for the verified Colnago product identity \u2018K.One\u2019. This is not a live retail offer; price, stock, size and colour are demonstration values pending an authorised dealer feed.",
+      "variants": [
+        {
+          "sku": "DEMO-COLNAGO-15",
+          "size": "54",
+          "color": "Demo Black",
+          "stock_quantity": 1
+        }
+      ],
+      "attributes": {
+        "manufacturer_source_url": "https://www.colnago.com/collections/bikes",
+        "provenance_status": "Manufacturer catalogue reference; identity verified for demonstration",
+        "technical_specifications": "Not published in demo until verified from an authorised feed",
+        "price_status": "Illustrative demonstration price ($2500.00) \u2014 not a retail price",
+        "variant_status": "Illustrative demonstration configuration",
+        "image_status": "No licensed image supplied; use storefront black placeholder"
+      },
+      "images": [],
+      "image_rights": "unknown"
+    }
+  ]
+}

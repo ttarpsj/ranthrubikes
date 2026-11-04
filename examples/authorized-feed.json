@@ -1,0 +1,15 @@
+[
+  {
+    "name": "Example MAAP Training Jersey",
+    "description": "An authorized dealer-feed example. Replace with an approved feed export.",
+    "sku": "MAAP-EXAMPLE-001",
+    "price": "125.00",
+    "stock_quantity": 6,
+    "category_id": "clothing",
+    "subtype_id": "short-sleeve-jerseys",
+    "audiences": ["men"],
+    "attributes": {"fabric": "example", "fit": "race"},
+    "images": ["https://example.invalid/licensed-image.jpg"],
+    "image_rights": "unknown"
+  }
+]

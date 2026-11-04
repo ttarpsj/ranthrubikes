@@ -1,0 +1,24 @@
+{
+  "name": "Ran Thru Merino Sock",
+  "slug": "ran-thru-merino-sock",
+  "brand": "Ran Thru",
+  "category_id": "clothing",
+  "subtype_id": "socks",
+  "subtype_label": "Socks",
+  "audiences": ["unisex"],
+  "tags": ["new-arrivals", "ran-thru-collection"],
+  "description": "Technical merino socks for long days in the saddle.",
+  "price_cents": 2800,
+  "compare_at_price_cents": 3500,
+  "active": true,
+  "featured_rank": 1,
+  "stripe_checkout_url": null,
+  "images": [
+    {"file": "merino-sock-front.jpg", "alt_text": "Ran Thru Merino Sock", "display_order": 0, "primary": true},
+    {"file": "merino-sock-detail.jpg", "alt_text": "Ran Thru Merino Sock detail", "display_order": 1, "primary": false}
+  ],
+  "variants": [
+    {"sku": "RTB-SOCK-NAT-SM", "size": "S/M", "color": "Natural", "stock_quantity": 12, "price_cents": null, "active": true},
+    {"sku": "RTB-SOCK-NAT-LX", "size": "L/XL", "color": "Natural", "stock_quantity": 7, "price_cents": null, "active": true}
+  ]
+}
